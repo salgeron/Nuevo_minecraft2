@@ -1,49 +1,7 @@
 {
-  "regions_unexplored:recipes/transportation/maple_boat": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/bamboo_galley": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/acacia_cog": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/transportation/juniper_boat": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
   "spellbladenext:spellblades/root": {
     "criteria": {
       "always": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/smart_chute": {
-    "criteria": {
-      "has_item": "2024-12-14 22:16:07 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/magnolia_boat": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/goat_gear_boots": {
-    "criteria": {
-      "has_leather_boots": "2024-12-14 22:04:26 +0000"
     },
     "done": true
   },
@@ -53,52 +11,10 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-14 22:15:21 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/chemical_reactor/calcium_carbonate": {
     "criteria": {
       "has_carbon": "2024-12-14 22:04:25 +0000",
       "has_calcium": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
-    "criteria": {
-      "has_dirt": "2024-12-14 22:21:45 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/jungle_brigg": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/campfire_toast": {
-    "criteria": {
-      "has_bread": "2024-12-14 22:04:26 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/birch_cog": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2024-12-14 22:04:27 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2024-12-14 22:04:27 +0000"
     },
     "done": true
   },
@@ -120,21 +36,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/glass_yellow": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/misc/netherite_diamond_ingot": {
     "criteria": {
       "has_the_recipe": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_cyan": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
     },
     "done": true
   },
@@ -144,75 +48,9 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/bamboo_brigg": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/toggle_bus": {
-    "criteria": {
-      "has_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_light_blue": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_black": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/centrifuge/hydrogen_cell": {
     "criteria": {
       "has_hydrogen": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
-    "criteria": {
-      "has_diamond_axe": "2024-12-14 22:12:16 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/maple/boat": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/cheeseburger": {
-    "criteria": {
-      "has_bread": "2024-12-14 22:04:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/socotra_boat": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/toast_from_smoking_bread": {
-    "criteria": {
-      "has_bread": "2024-12-14 22:04:26 +0000"
     },
     "done": true
   },
@@ -234,39 +72,9 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/mangrove_galley": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/archers_boots": {
-    "criteria": {
-      "has_leather_boots": "2024-12-14 22:04:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "ancient_delta": "2024-12-14 22:19:43 +0000",
-      "grassy_beach": "2024-12-14 22:09:36 +0000",
-      "rocky_meadow": "2024-12-14 22:08:30 +0000",
-      "chalk_cliffs": "2024-12-14 22:06:44 +0000",
-      "grassland": "2024-12-14 22:06:59 +0000",
-      "prairie": "2024-12-14 22:07:04 +0000",
-      "redwoods": "2024-12-14 22:07:32 +0000"
-    },
-    "done": false
-  },
   "frostiful:recipes/combat/armor/ice_skates": {
     "criteria": {
       "has_fur_boots": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/birch_brigg": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
     },
     "done": true
   },
@@ -281,29 +89,6 @@
     "criteria": {
       "has_sulfur": "2024-12-14 22:04:25 +0000",
       "has_sodium": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/cypress_chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-14 22:15:21 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "grassy_beach": "2024-12-14 22:09:36 +0000",
-      "rocky_meadow": "2024-12-14 22:08:30 +0000",
-      "chalk_cliffs": "2024-12-14 22:06:44 +0000",
-      "grassland": "2024-12-14 22:06:59 +0000",
-      "prairie": "2024-12-14 22:07:04 +0000",
-      "redwoods": "2024-12-14 22:07:32 +0000"
-    },
-    "done": false
-  },
-  "smallships:recipes/transportation/spruce_brigg": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
     },
     "done": true
   },
@@ -332,39 +117,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2024-12-14 22:04:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/centrifuge/sulfur_cell": {
     "criteria": {
       "has_sulfur": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_electrolyzer/sand": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
-  "megacells:recipes/misc/network/cell_dock": {
-    "criteria": {
-      "has_glass_cable": "2024-12-14 22:15:38 +0000"
     },
     "done": true
   },
@@ -380,42 +141,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_hoe_with_water": {
-    "criteria": {
-      "has_diamond_hoe": "2024-12-14 22:12:16 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/mangrove_brigg": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/kapok_boat": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/cypress_boat": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
-    "criteria": {
-      "has_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
     "criteria": {
       "has_plantball": "2024-12-14 22:04:25 +0000"
@@ -425,18 +150,6 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/misc/sail": {
-    "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/storage_chest": {
-    "criteria": {
-      "has_glass_cable": "2024-12-14 22:15:38 +0000"
     },
     "done": true
   },
@@ -458,33 +171,580 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/acacia_galley": {
+  "advancednetherite:recipes/misc/netherite_iron_ingot_from_block": {
     "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
+      "has_the_recipe": "2024-12-14 22:04:25 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/blocks/spatial_io_pylon": {
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
     "criteria": {
-      "has_glass_cable": "2024-12-14 22:15:38 +0000"
+      "has_fur_armor": "2024-12-14 22:04:25 +0000"
     },
     "done": true
   },
-  "smallships:recipes/transportation/jungle_galley": {
+  "techreborn:recipes/chemical_reactor/sodium_persulfate": {
     "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
+      "has_sodium_sulfide": "2024-12-14 22:04:25 +0000"
     },
     "done": true
   },
-  "smallships:recipes/transportation/dark_oak_galley": {
+  "techreborn:recipes/chemical_reactor/nitro_carbon": {
     "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
+      "has_nitrogen": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_chestplate": {
+    "criteria": {
+      "has_fur_armor": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_boots": {
+    "criteria": {
+      "has_fur_armor": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "things:root": {
+    "criteria": {
+      "tick": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_iron_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/tinted_greenhouse_glass": {
+    "criteria": {
+      "has_glass": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/armored_ice_skates": {
+    "criteria": {
+      "has_fur_boots": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/deuterium_cell": {
+    "criteria": {
+      "has_deuterium": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/snowflake_banner_pattern": {
+    "criteria": {
+      "has_packed_snowball": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_emerald_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/greenhouse_glass": {
+    "criteria": {
+      "has_glass": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "mythicmobs:mythicmobs": {
+    "criteria": {
+      "tick": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
+    "criteria": {
+      "has_fur_armor": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_iron_block": {
+    "criteria": {
+      "has_ingredients": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/glyceryl": {
+    "criteria": {
+      "has_nitro_carbon": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_ingots": {
+    "criteria": {
+      "has_ingredients": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/fusion_reactor/platinum_dust": {
+    "criteria": {
+      "has_beryllium": "2024-12-14 22:04:25 +0000",
+      "has_wolframium": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/silicon_plate": {
+    "criteria": {
+      "has_silicon": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-12-14 22:04:25 +0000",
+      "inv_changed-diamond": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
+    "criteria": {
+      "has_nitrogen": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
+    "criteria": {
+      "has_calcium_carbonate": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/magnet_card": {
+    "criteria": {
+      "has_wct": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/nitrofuel": {
+    "criteria": {
+      "has_oil": "2024-12-14 22:04:25 +0000",
+      "has_nitrogen": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/water": {
+    "criteria": {
+      "has_hydrogen": "2024-12-14 22:04:25 +0000",
+      "has_compressed_air": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/season_detector": {
+    "criteria": {
+      "has_detector": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/nitrocoal_fuel": {
+    "criteria": {
+      "has_glyceryl": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/crop_season_tester": {
+    "criteria": {
+      "has_iron": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/lava_cell": {
+    "criteria": {
+      "has_lava": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/sulfuric_acid": {
+    "criteria": {
+      "has_sulfur": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_gold_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2024-12-14 22:04:25 +0000",
+      "has_wct": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2024-12-14 22:04:25 +0000",
+      "has_wct": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2024-12-14 22:04:25 +0000",
+      "has_wpt": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2024-12-14 22:04:25 +0000",
+      "has_wpt": "2024-12-14 22:04:25 +0000",
+      "has_wct": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/air_conditioning": {
+    "criteria": {
+      "has_furnace": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/fusion_reactor/helium_plasma": {
+    "criteria": {
+      "has_helium3": "2024-12-14 22:04:25 +0000",
+      "has_deuterium": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/titanium_ingot": {
+    "criteria": {
+      "has_titanium_dust": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/fusion_reactor/helium3": {
+    "criteria": {
+      "has_tritium": "2024-12-14 22:04:25 +0000",
+      "has_deuterium": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/compressed_plantball_from_melon_slices": {
+    "criteria": {
+      "has_melon_slice": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/fusion_reactor/iridium_ore": {
+    "criteria": {
+      "has_lithium": "2024-12-14 22:04:25 +0000",
+      "has_wolframium": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-14 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-12-14 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2024-12-14 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-12-14 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-14 22:04:26 +0000"
     },
     "done": true
   },
   "croptopia:recipes/food/toast_from_bread": {
     "criteria": {
       "has_bread": "2024-12-14 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-14 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-14 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/guards_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-14 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/bread": {
+    "criteria": {
+      "has_bread": "2024-12-14 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-14 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
+    "criteria": {
+      "has_wooden_sword": "2024-12-14 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-14 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2024-12-14 22:04:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2024-12-14 22:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lukewarm_ocean": "2024-12-14 22:06:46 +0000",
+      "minecraft:river": "2024-12-14 22:07:28 +0000",
+      "minecraft:jungle": "2024-12-14 22:04:27 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-14 22:04:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "ancient_delta": "2024-12-14 22:19:43 +0000",
+      "grassy_beach": "2024-12-14 22:09:36 +0000",
+      "rocky_meadow": "2024-12-14 22:08:30 +0000",
+      "chalk_cliffs": "2024-12-14 22:06:44 +0000",
+      "grassland": "2024-12-14 22:06:59 +0000",
+      "prairie": "2024-12-14 22:07:04 +0000",
+      "redwoods": "2024-12-14 22:07:32 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "grassy_beach": "2024-12-14 22:09:36 +0000",
+      "rocky_meadow": "2024-12-14 22:08:30 +0000",
+      "chalk_cliffs": "2024-12-14 22:06:44 +0000",
+      "grassland": "2024-12-14 22:06:59 +0000",
+      "prairie": "2024-12-14 22:07:04 +0000",
+      "redwoods": "2024-12-14 22:07:32 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-14 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_hoe_with_water": {
+    "criteria": {
+      "has_diamond_hoe": "2024-12-14 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-14 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-14 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-14 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_hoe_with_mercury": {
+    "criteria": {
+      "has_diamond_hoe": "2024-12-14 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2024-12-14 22:12:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2024-12-14 22:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-14 22:15:21 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-14 22:15:21 +0000"
     },
     "done": true
   },
@@ -500,51 +760,309 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "bewitchment:recipes/decorations/elder_chest": {
     "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
+      "has_lots_of_items": "2024-12-14 22:15:21 +0000"
     },
     "done": true
   },
-  "bewitchment:recipes/transportation/dragons_blood_boat": {
+  "ae2:recipes/misc/network/cables/glass_yellow": {
     "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_iron_ingot_from_block": {
+  "ae2:recipes/misc/network/cables/glass_cyan": {
     "criteria": {
-      "has_the_recipe": "2024-12-14 22:04:25 +0000"
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+  "ae2:recipes/misc/network/parts/toggle_bus": {
     "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
+      "has_glass_cable": "2024-12-14 22:15:38 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/flower_box": {
+  "ae2:recipes/misc/network/cables/glass_light_blue": {
     "criteria": {
-      "has_dirt": "2024-12-14 22:21:45 +0000"
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "ae2:recipes/misc/network/cables/glass_black": {
     "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
     },
     "done": true
   },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
+  "megacells:recipes/misc/network/cell_dock": {
     "criteria": {
-      "has_fur_armor": "2024-12-14 22:04:25 +0000"
+      "has_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
+    "criteria": {
+      "has_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/storage_chest": {
+    "criteria": {
+      "has_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/spatial_io_pylon": {
+    "criteria": {
+      "has_glass_cable": "2024-12-14 22:15:38 +0000"
     },
     "done": true
   },
   "ae2:recipes/misc/network/cables/glass_light_gray": {
     "criteria": {
       "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_pink": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_orange": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_fluix": {
+    "criteria": {
+      "has_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_fluix_clean": {
+    "criteria": {
+      "has_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_lime": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_brown": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_magenta": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2024-12-14 22:16:07 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-12-14 22:17:29 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2024-12-14 22:17:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2024-12-14 22:19:43 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/juniper_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/boat": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/dragons_blood_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 22:20:13 +0000"
     },
     "done": true
   },
@@ -573,27 +1091,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
-    "criteria": {
-      "has_diamond_pickaxe": "2024-12-14 22:12:16 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
-    "criteria": {
-      "has_diamond_pickaxe": "2024-12-14 22:12:16 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_purple": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
     },
     "done": true
   },
@@ -615,101 +1115,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/sodium_persulfate": {
-    "criteria": {
-      "has_sodium_sulfide": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/nitro_carbon": {
-    "criteria": {
-      "has_nitrogen": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/elder_chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-14 22:15:21 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/squid_armor_boots": {
-    "criteria": {
-      "has_leather_boots": "2024-12-14 22:04:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_chestplate": {
-    "criteria": {
-      "has_fur_armor": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_red": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
-    "criteria": {
-      "has_diamond_axe": "2024-12-14 22:12:16 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_boots": {
-    "criteria": {
-      "has_fur_armor": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:lukewarm_ocean": "2024-12-14 22:06:46 +0000",
-      "minecraft:river": "2024-12-14 22:07:28 +0000",
-      "minecraft:jungle": "2024-12-14 22:04:27 +0000"
-    },
-    "done": false
-  },
-  "immersive_armors:recipes/misc/warrior": {
-    "criteria": {
-      "has_item": "2024-12-14 22:04:26 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "things:root": {
-    "criteria": {
-      "tick": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/guards_armor_boots": {
-    "criteria": {
-      "has_leather_boots": "2024-12-14 22:04:26 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/building_blocks/netherite_iron_block": {
-    "criteria": {
-      "has_the_recipe": "2024-12-14 22:04:25 +0000"
     },
     "done": true
   },
@@ -725,39 +1139,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/bread": {
-    "criteria": {
-      "has_bread": "2024-12-14 22:04:26 +0000"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
-    "criteria": {
-      "has_wit": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cooked_egg": {
-    "criteria": {
-      "has_eggs": "2024-12-14 22:04:25 +0000"
     },
     "done": true
   },
@@ -767,69 +1151,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_hoe_with_mercury": {
-    "criteria": {
-      "has_diamond_hoe": "2024-12-14 22:12:16 +0000"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_netherite": {
-    "criteria": {
-      "inv_changed-netherite": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dirt_slab": {
-    "criteria": {
-      "has_dirt": "2024-12-14 22:21:45 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/tinted_greenhouse_glass": {
-    "criteria": {
-      "has_glass": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_chest": {
-    "criteria": {
-      "inv_changed-chest": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:spelunker": {
-    "criteria": {
-      "ancient_delta": "2024-12-14 22:19:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/armored_ice_skates": {
-    "criteria": {
-      "has_fur_boots": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
-    "criteria": {
-      "has_wt": "2024-12-14 22:04:25 +0000"
     },
     "done": true
   },
@@ -839,51 +1163,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/deuterium_cell": {
-    "criteria": {
-      "has_deuterium": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/misc/snowflake_banner_pattern": {
-    "criteria": {
-      "has_packed_snowball": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
-    "criteria": {
-      "has_diamond_shovel": "2024-12-14 22:12:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/scale_mail_boots": {
-    "criteria": {
-      "has_leather_boots": "2024-12-14 22:04:26 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_green": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
     },
     "done": true
   },
@@ -896,30 +1178,6 @@
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/building_blocks/netherite_emerald_block": {
-    "criteria": {
-      "has_the_recipe": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_pink": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/greenhouse_glass": {
-    "criteria": {
-      "has_glass": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "mythicmobs:mythicmobs": {
-    "criteria": {
-      "tick": "2024-12-14 22:04:25 +0000"
     },
     "done": true
   },
@@ -941,82 +1199,9 @@
     },
     "done": true
   },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
-    "criteria": {
-      "has_fur_armor": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/root": {
-    "criteria": {
-      "seeds": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_ingot_from_block": {
-    "criteria": {
-      "has_the_recipe": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/netherite_iron_block": {
-    "criteria": {
-      "has_ingredients": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_orange": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/covered_fluix": {
-    "criteria": {
-      "has_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/glyceryl": {
-    "criteria": {
-      "has_nitro_carbon": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/netherite_ingots": {
-    "criteria": {
-      "has_ingredients": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_gray": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_fluix_clean": {
-    "criteria": {
-      "has_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/fusion_reactor/platinum_dust": {
-    "criteria": {
-      "has_beryllium": "2024-12-14 22:04:25 +0000",
-      "has_wolframium": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/silicon_plate": {
-    "criteria": {
-      "has_silicon": "2024-12-14 22:04:25 +0000"
     },
     "done": true
   },
@@ -1026,46 +1211,9 @@
     },
     "done": true
   },
-  "toms_storage:unlock_dia_pearl": {
-    "criteria": {
-      "inv_changed-ender_pearl": "2024-12-14 22:04:25 +0000",
-      "inv_changed-diamond": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
-    "criteria": {
-      "has_nitrogen": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_white": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/cherry_brigg": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_sword": {
-    "criteria": {
-      "has_wooden_sword": "2024-12-14 22:04:26 +0000"
     },
     "done": true
   },
@@ -1087,76 +1235,9 @@
     },
     "done": true
   },
-  "rpg_series:root": {
-    "criteria": {
-      "always": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_blue": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_lime": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
-    "criteria": {
-      "has_calcium_carbonate": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_brown": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_ingot_from_block": {
-    "criteria": {
-      "has_the_recipe": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/magnet_card": {
-    "criteria": {
-      "has_wct": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/nitrofuel": {
-    "criteria": {
-      "has_oil": "2024-12-14 22:04:25 +0000",
-      "has_nitrogen": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
-  "create:chute": {
-    "criteria": {
-      "0": "2024-12-14 22:17:33 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "create:super_glue": {
-    "criteria": {
-      "0": "2024-12-14 22:17:29 +0000"
     },
     "done": true
   },
@@ -1166,159 +1247,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/water": {
-    "criteria": {
-      "has_hydrogen": "2024-12-14 22:04:25 +0000",
-      "has_compressed_air": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/season_detector": {
-    "criteria": {
-      "has_detector": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/nitrocoal_fuel": {
-    "criteria": {
-      "has_glyceryl": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
   "bewitchment:recipes/transportation/elder_boat": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
     },
     "done": true
   },
-  "seasonsextras:recipes/crop_season_tester": {
-    "criteria": {
-      "has_iron": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/lava_cell": {
-    "criteria": {
-      "has_lava": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/sulfuric_acid": {
-    "criteria": {
-      "has_sulfur": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/building_blocks/netherite_gold_block": {
-    "criteria": {
-      "has_the_recipe": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_from_sand": {
-    "criteria": {
-      "has_item": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
-    "criteria": {
-      "has_wpt": "2024-12-14 22:04:25 +0000",
-      "has_wct": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_universal_terminal/ca": {
-    "criteria": {
-      "has_wit": "2024-12-14 22:04:25 +0000",
-      "has_wct": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_universal_terminal/ae": {
-    "criteria": {
-      "has_wit": "2024-12-14 22:04:25 +0000",
-      "has_wpt": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_ingot": {
-    "criteria": {
-      "has_the_recipe": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/glass_cable": {
-    "criteria": {
-      "certus": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/climbing_gear_boots": {
-    "criteria": {
-      "has_leather_boots": "2024-12-14 22:04:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/dirt": {
-    "criteria": {
-      "has_dirt": "2024-12-14 22:21:45 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_magenta": {
-    "criteria": {
-      "has_fluix_glass_cable": "2024-12-14 22:15:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_ingot_from_block": {
-    "criteria": {
-      "has_the_recipe": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/quantum_bridge_card": {
-    "criteria": {
-      "has_wit": "2024-12-14 22:04:25 +0000",
-      "has_wpt": "2024-12-14 22:04:25 +0000",
-      "has_wct": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2024-12-14 22:04:27 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/air_conditioning": {
-    "criteria": {
-      "has_furnace": "2024-12-14 22:04:25 +0000"
     },
     "done": true
   },
@@ -1340,38 +1277,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/fusion_reactor/helium_plasma": {
-    "criteria": {
-      "has_helium3": "2024-12-14 22:04:25 +0000",
-      "has_deuterium": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2024-12-14 22:22:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
-    "criteria": {
-      "has_diamond_shovel": "2024-12-14 22:12:17 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/titanium_ingot": {
-    "criteria": {
-      "has_titanium_dust": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/fusion_reactor/helium3": {
-    "criteria": {
-      "has_tritium": "2024-12-14 22:04:25 +0000",
-      "has_deuterium": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
@@ -1381,18 +1286,6 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-12-14 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2024-12-14 22:04:25 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
-    "criteria": {
-      "has_the_recipe": "2024-12-14 22:04:25 +0000"
     },
     "done": true
   },
@@ -1408,21 +1301,147 @@
     },
     "done": true
   },
-  "the_bumblezone:wiki": {
+  "smallships:recipes/transportation/cherry_cog": {
     "criteria": {
-      "instant_granted": "2024-12-14 22:04:25 +0000"
+      "in_water": "2024-12-14 22:20:13 +0000"
     },
     "done": true
   },
-  "brewery:main/root": {
+  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
     "criteria": {
-      "seeds": "2024-12-14 22:04:25 +0000"
+      "has_dirt": "2024-12-14 22:21:45 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/compressed_plantball_from_melon_slices": {
+  "supplementaries:recipes/flower_box": {
     "criteria": {
-      "has_melon_slice": "2024-12-14 22:04:25 +0000"
+      "has_dirt": "2024-12-14 22:21:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2024-12-14 22:21:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/dirt": {
+    "criteria": {
+      "has_dirt": "2024-12-14 22:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sand": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-14 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-14 22:22:53 +0000"
     },
     "done": true
   },
@@ -1432,22 +1451,21 @@
     },
     "done": true
   },
-  "techreborn:recipes/fusion_reactor/iridium_ore": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_lithium": "2024-12-14 22:04:25 +0000",
-      "has_wolframium": "2024-12-14 22:04:25 +0000"
+      "slept_in_bed": "2024-12-14 22:37:40 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_iron_ingot": {
+  "botania:main/bauble_wear": {
     "criteria": {
-      "has_the_recipe": "2024-12-14 22:04:25 +0000"
+      "code_triggered": "2024-12-14 22:42:18 +0000"
     },
     "done": true
   },
-  "smallships:recipes/transportation/cherry_cog": {
+  "botania:main/lexicon_use": {
     "criteria": {
-      "in_water": "2024-12-14 22:20:13 +0000"
+      "use_lexicon": "2024-12-14 22:40:22 +0000"
     },
     "done": true
   },
