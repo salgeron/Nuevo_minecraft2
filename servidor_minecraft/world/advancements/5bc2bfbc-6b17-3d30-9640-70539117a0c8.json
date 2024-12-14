@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/diva_charm": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
@@ -540,6 +546,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/flighttiara_0": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/fruit_smoothie": {
     "criteria": {
       "has_fruit": "2024-12-14 22:56:58 +0000"
@@ -642,6 +654,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/gaia_ingot": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
@@ -675,6 +693,12 @@
   "betterend:recipes/decorations/end_lotus_fence": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/mana_bomb": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
     },
     "done": true
   },
@@ -1029,6 +1053,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/super_travel_belt": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/black_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-14 22:21:44 +0000"
@@ -1080,6 +1110,12 @@
   "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
     "criteria": {
       "has_plantball": "2024-12-14 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_item": "2024-12-14 23:24:21 +0000"
     },
     "done": true
   },
@@ -1153,6 +1189,12 @@
   "the_bumblezone:root": {
     "criteria": {
       "instant_granted": "2024-12-14 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/holy_cloak": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
     },
     "done": true
   },
@@ -2002,6 +2044,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mana_ring": {
+    "criteria": {
+      "has_item": "2024-12-14 23:24:21 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/snow_armor_chestplate": {
     "criteria": {
       "has_iron_chestplate": "2024-12-14 22:18:08 +0000"
@@ -2392,9 +2440,21 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/gaia_spreader": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
     "criteria": {
       "has_fur_armor": "2024-12-14 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/spawner_mover": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
     },
     "done": true
   },
@@ -2413,6 +2473,12 @@
   "handcrafted:recipes/misc/oak_couch": {
     "criteria": {
       "has_oak_couch": "2024-12-14 22:21:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/black_hole_talisman": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
     },
     "done": true
   },
@@ -2503,6 +2569,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-14 22:28:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/unholy_cloak": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
     },
     "done": true
   },
@@ -2852,6 +2924,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/astrolabe": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/season_detector": {
     "criteria": {
       "has_detector": "2024-12-14 22:09:29 +0000"
@@ -3029,6 +3107,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/laputa_shard": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
       "has_the_recipe": "2024-12-14 22:09:29 +0000"
@@ -3092,6 +3176,12 @@
   "techreborn:recipes/centrifuge/apple": {
     "criteria": {
       "has_apple": "2024-12-14 22:56:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/balance_cloak": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
     },
     "done": true
   },
@@ -3321,6 +3411,12 @@
     },
     "done": true
   },
+  "botania:main/gaia_guardian_kill": {
+    "criteria": {
+      "guardian": "2024-12-14 23:14:40 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-12-14 22:09:29 +0000"
@@ -3342,6 +3438,12 @@
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_the_recipe": "2024-12-14 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/missile_rod": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
     },
     "done": true
   },
@@ -3408,6 +3510,12 @@
   "mcda:recipes/base_armors/grim_armor_boots": {
     "criteria": {
       "has_bone": "2024-12-14 22:21:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/super_cloud_pendant": {
+    "criteria": {
+      "has_alt_item": "2024-12-14 23:14:40 +0000"
     },
     "done": true
   },
@@ -3492,6 +3600,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-12-14 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/super_lava_pendant": {
+    "criteria": {
+      "has_item": "2024-12-14 23:14:40 +0000"
     },
     "done": true
   },
