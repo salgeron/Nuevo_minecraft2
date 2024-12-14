@@ -1919,6 +1919,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_haunted_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-14 23:29:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/holy_cloak": {
     "criteria": {
       "has_item": "2024-12-14 23:15:04 +0000"
@@ -1964,6 +1970,12 @@
   "botania:recipes/combat/terrasteel_chestplate": {
     "criteria": {
       "has_item": "2024-12-14 22:54:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/exchange_rod": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -2036,6 +2048,12 @@
   "botania:main/apothecary_pickup": {
     "criteria": {
       "elven_lexicon": "2024-12-14 23:02:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunting_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-14 23:29:31 +0000"
     },
     "done": true
   },
@@ -2249,6 +2267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-14 23:29:31 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-14 22:57:42 +0000"
@@ -2258,6 +2282,12 @@
   "botania:recipes/tools/terraform_rod": {
     "criteria": {
       "has_item": "2024-12-14 22:54:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_web_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-14 23:29:31 +0000"
     },
     "done": true
   },
@@ -2454,6 +2484,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2024-12-14 23:29:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_pick": {
     "criteria": {
       "has_item": "2024-12-14 23:18:07 +0000"
@@ -2520,6 +2556,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_twin_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-14 23:29:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_water_bucket": "2024-12-14 22:55:12 +0000"
@@ -2541,6 +2583,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-14 23:13:28 +0000",
+      "minecraft:witch": "2024-12-14 23:27:06 +0000",
       "minecraft:zombie": "2024-12-14 23:13:28 +0000"
     },
     "done": false
@@ -2557,9 +2600,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2024-12-14 23:29:31 +0000"
+    },
+    "done": true
+  },
   "botania:main/mana_pool_pickup": {
     "criteria": {
       "pickup": "2024-12-14 22:50:05 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/gaia_guardian_hardmode": {
+    "criteria": {
+      "guardian": "2024-12-14 23:28:24 +0000"
     },
     "done": true
   },
@@ -2713,6 +2768,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_soul_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-14 23:29:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/missile_rod": {
     "criteria": {
       "has_item": "2024-12-14 23:15:04 +0000"
@@ -2764,6 +2825,12 @@
   "croptopia:recipes/shaped_water_bottle": {
     "criteria": {
       "has_water": "2024-12-14 22:55:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_snow_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-14 23:29:31 +0000"
     },
     "done": true
   },

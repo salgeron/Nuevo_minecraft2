@@ -192,6 +192,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/oak_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
@@ -270,6 +276,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2024-12-14 23:26:53 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/oak_table": {
     "criteria": {
       "has_bamboo": "2024-12-14 22:21:44 +0000"
@@ -300,6 +312,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/terra_plate": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/season_calendar": {
     "criteria": {
       "has_clock": "2024-12-14 22:09:29 +0000"
@@ -321,6 +339,12 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2024-12-14 22:21:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -408,6 +432,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/phantom_ink": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cherry_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
@@ -486,6 +516,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_taburet": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
@@ -537,6 +573,12 @@
   "mcda:recipes/base_armors/reinforced_mail_leggings": {
     "criteria": {
       "has_iron_leggings": "2024-12-14 22:18:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -624,6 +666,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-14 22:21:44 +0000"
@@ -666,6 +714,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/snow_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2024-12-14 22:18:13 +0000"
@@ -699,6 +753,12 @@
   "botania:recipes/misc/mana_bomb": {
     "criteria": {
       "has_item": "2024-12-14 23:14:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-14 23:26:53 +0000"
     },
     "done": true
   },
@@ -781,9 +841,21 @@
     },
     "done": true
   },
+  "botania:recipes/combat/ender_dagger": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -987,6 +1059,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/abstruse_platform": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
     "criteria": {
       "has_iron_leggings": "2024-12-14 22:18:11 +0000"
@@ -999,9 +1077,27 @@
     },
     "done": true
   },
+  "botania:main/terrasteel_pickup_lexicon": {
+    "criteria": {
+      "elven_lexicon": "2024-12-14 23:31:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -1089,6 +1185,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mana_tablet": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_sign": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
@@ -1173,6 +1275,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "elven_lexicon": "2024-12-14 23:31:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-14 22:28:18 +0000"
@@ -1183,6 +1291,12 @@
     "criteria": {
       "has_coal": "2024-12-14 22:13:23 +0000",
       "has_the_recipe": "2024-12-14 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_haunted_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-14 23:26:53 +0000"
     },
     "done": true
   },
@@ -1213,6 +1327,12 @@
   "betterend:recipes/misc/golden_hammer": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -1297,6 +1417,12 @@
   "croptopia:recipes/food/toast_from_bread": {
     "criteria": {
       "has_bread": "2024-12-14 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/exchange_rod": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -1486,6 +1612,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/lime_sleeping_bag": {
     "criteria": {
       "has_lime_wool": "2024-12-14 23:10:24 +0000"
@@ -1519,6 +1651,12 @@
   "betternether:recipes/decorations/rubeus_ladder": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -1558,6 +1696,12 @@
     },
     "done": true
   },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "elven_lexicon": "2024-12-14 23:31:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/shield": {
     "criteria": {
       "has_tag_minecraft_planks": "2024-12-14 22:21:44 +0000"
@@ -1573,6 +1717,12 @@
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunting_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-14 23:26:53 +0000"
     },
     "done": true
   },
@@ -1615,6 +1765,12 @@
   "betternether:recipes/decorations/rubeus_fence": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/manasteel_block": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -1678,6 +1834,18 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_axe": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "botania:main/elf_lexicon_pickup": {
+    "criteria": {
+      "lexicon": "2024-12-14 23:31:10 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/documentation": {
     "criteria": {
       "has_crop": "2024-12-14 22:56:58 +0000"
@@ -1708,6 +1876,12 @@
     },
     "done": true
   },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "elven_lexicon": "2024-12-14 23:31:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iron_ingot_from_boots": {
     "criteria": {
       "has_iron_boots": "2024-12-14 22:18:12 +0000"
@@ -1729,6 +1903,12 @@
   "vinery:recipes/oak_wine_rack_small": {
     "criteria": {
       "has_oak_planks": "2024-12-14 22:21:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/forest_eye": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -1825,6 +2005,12 @@
   "betternether:recipes/decorations/spruce_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -1978,6 +2164,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dodge_ring": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/scythes/scythe_skull_scythe": {
     "criteria": {
       "has_bone": "2024-12-14 22:21:05 +0000"
@@ -2056,9 +2248,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_bubble_bow": {
+    "criteria": {
+      "has_bow": "2024-12-14 23:26:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_sign": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/tiny_planet": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -2089,6 +2293,12 @@
   "betternether:recipes/decorations/nether_reed_ladder": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
+    },
+    "done": true
+  },
+  "botania:main/runic_altar_pickup": {
+    "criteria": {
+      "rune": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -2140,6 +2350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-14 23:26:53 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-14 22:28:18 +0000"
@@ -2179,6 +2395,18 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-14 22:28:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_web_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-14 23:26:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -2242,9 +2470,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/scale_mail_boots": {
     "criteria": {
       "has_leather_boots": "2024-12-14 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/crafting_halo": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -2299,6 +2539,12 @@
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -2410,6 +2656,12 @@
     },
     "done": true
   },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "elven_lexicon": "2024-12-14 23:31:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
@@ -2443,6 +2695,12 @@
   "botania:recipes/redstone/gaia_spreader": {
     "criteria": {
       "has_item": "2024-12-14 23:14:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -2488,6 +2746,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "vinery:main/root": {
     "criteria": {
       "seeds": "2024-12-14 22:09:29 +0000"
@@ -2509,6 +2773,12 @@
   "handcrafted:recipes/misc/oak_chair": {
     "criteria": {
       "has_oak_chair": "2024-12-14 22:21:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -2628,9 +2898,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
     "criteria": {
       "has_nitrogen": "2024-12-14 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2024-12-14 23:26:53 +0000"
     },
     "done": true
   },
@@ -2649,6 +2931,12 @@
   "comforts:hammock_lime": {
     "criteria": {
       "has_lime_wool": "2024-12-14 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -2772,6 +3060,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_taburet": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
@@ -2850,6 +3144,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_twin_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-14 23:26:53 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitrofuel": {
     "criteria": {
       "has_oil": "2024-12-14 22:09:29 +0000",
@@ -2878,6 +3178,12 @@
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
     "criteria": {
       "has_tag_minecraft_wooden_fences": "2024-12-14 22:37:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -2942,6 +3248,18 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/runic_altar": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2024-12-14 23:26:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/salmon_trophy": {
     "criteria": {
       "has_salmon_trophy": "2024-12-14 22:21:44 +0000"
@@ -2969,6 +3287,12 @@
   "betterend:recipes/decorations/jellyshroom_fence": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/gaia_guardian_hardmode": {
+    "criteria": {
+      "guardian": "2024-12-14 23:28:24 +0000"
     },
     "done": true
   },
@@ -3043,6 +3367,12 @@
   "betternether:recipes/decorations/acacia_taburet": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
@@ -3307,6 +3637,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_brown": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
@@ -3399,6 +3735,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/lime_bed_from_wool": {
     "criteria": {
       "has_lime_wool": "2024-12-14 23:10:24 +0000"
@@ -3417,9 +3759,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/tiny_planet_block": {
+    "criteria": {
+      "has_alt_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-12-14 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_soul_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-14 23:26:53 +0000"
     },
     "done": true
   },
@@ -3555,6 +3915,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/invisibility_cloak": {
+    "criteria": {
+      "has_item": "2024-12-14 23:28:25 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:wiki": {
     "criteria": {
       "instant_granted": "2024-12-14 22:09:29 +0000"
@@ -3600,6 +3966,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-12-14 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_snow_bow": {
+    "criteria": {
+      "has_base_bow": "2024-12-14 23:26:53 +0000"
     },
     "done": true
   },
@@ -3673,6 +4045,12 @@
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_the_recipe": "2024-12-14 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2024-12-14 23:28:25 +0000"
     },
     "done": true
   },
