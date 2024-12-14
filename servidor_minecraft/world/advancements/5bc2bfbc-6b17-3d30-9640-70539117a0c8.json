@@ -186,6 +186,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2024-12-14 23:47:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-14 22:21:44 +0000"
@@ -405,6 +411,12 @@
   "mcda:recipes/base_armors/grim_armor_leggings": {
     "criteria": {
       "has_bone": "2024-12-14 22:21:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/flower_box": {
+    "criteria": {
+      "has_podzol": "2024-12-14 23:48:26 +0000"
     },
     "done": true
   },
@@ -741,6 +753,12 @@
   "mcdw:recipes/bows/bow_winters_touch": {
     "criteria": {
       "has_blue_ice": "2024-12-14 22:47:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-14 23:47:54 +0000"
     },
     "done": true
   },
@@ -1411,6 +1429,12 @@
   "bclib:recipes/redstone/tag_piston": {
     "criteria": {
       "has_tag_minecraft_planks": "2024-12-14 22:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-12-14 23:47:18 +0000"
     },
     "done": true
   },
@@ -3114,6 +3138,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_slime_block": "2024-12-14 23:47:18 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/piston": {
     "criteria": {
       "has_tag_minecraft_planks": "2024-12-14 22:21:44 +0000"
@@ -3506,6 +3536,12 @@
   "techreborn:recipes/centrifuge/apple": {
     "criteria": {
       "has_apple": "2024-12-14 22:56:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2024-12-14 23:47:54 +0000"
     },
     "done": true
   },
