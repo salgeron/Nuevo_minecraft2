@@ -240,6 +240,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2024-12-14 22:47:08 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/oak_table": {
     "criteria": {
       "has_bamboo": "2024-12-14 22:21:44 +0000"
@@ -387,6 +393,12 @@
   "betterend:recipes/redstone/mossy_glowshroom_gate": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_blue_ice": "2024-12-14 22:47:08 +0000"
     },
     "done": true
   },
@@ -603,6 +615,12 @@
   "betternether:recipes/decorations/willow_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_winters_touch": {
+    "criteria": {
+      "has_blue_ice": "2024-12-14 22:47:08 +0000"
     },
     "done": true
   },
@@ -1132,6 +1150,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2024-12-14 22:47:08 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_ladder": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
@@ -1255,6 +1279,12 @@
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_minecraft_planks": "2024-12-14 22:21:44 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2024-12-14 22:47:08 +0000"
     },
     "done": true
   },
@@ -2044,6 +2074,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2024-12-14 22:47:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-14 22:21:44 +0000"
@@ -2433,6 +2469,12 @@
   "betternether:recipes/decorations/taburet_cincinnasite": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2024-12-14 22:47:08 +0000"
     },
     "done": true
   },
@@ -3090,6 +3132,12 @@
   "mcda:recipes/base_armors/snow_armor_boots": {
     "criteria": {
       "has_iron_boots": "2024-12-14 22:18:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_blue_ice": "2024-12-14 22:47:08 +0000"
     },
     "done": true
   },

@@ -2829,3 +2829,11 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[22:46:59] [Server thread/INFO]: Made salgeron a server operator
+[22:46:59] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:47:05] [Server thread/INFO]: Made Irinasan24 a server operator
+[22:47:06] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[22:47:37] [Server thread/INFO]: [salgeron: Successfully filled 495 block(s)]
+[22:50:05] [Server thread/INFO]: salgeron has made the advancement [Vivid Wave]
+[22:53:12] [Server thread/INFO]: salgeron has made the advancement [Electric Magic]
+[22:54:20] [Server thread/INFO]: salgeron has made the advancement [Dancer in the Dark]
