@@ -1,0 +1,17 @@
+{
+	id: "663f09f8-c41e-3225-bf34-9f23beefdec5"
+	type: "player"
+	player_name: "salgeron"
+	ranks: {
+		663f09f8-c41e-3225-bf34-9f23beefdec5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "salgeron"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFCF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

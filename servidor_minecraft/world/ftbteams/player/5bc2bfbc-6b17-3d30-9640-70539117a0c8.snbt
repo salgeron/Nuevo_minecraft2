@@ -1,0 +1,17 @@
+{
+	id: "5bc2bfbc-6b17-3d30-9640-70539117a0c8"
+	type: "player"
+	player_name: "Irinasan24"
+	ranks: {
+		5bc2bfbc-6b17-3d30-9640-70539117a0c8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Irinasan24"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFB3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
