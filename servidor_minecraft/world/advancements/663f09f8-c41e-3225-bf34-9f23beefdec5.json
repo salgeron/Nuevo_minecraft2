@@ -1457,6 +1457,24 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingwood_stairs": {
+    "criteria": {
+      "has_item": "2024-12-14 22:57:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_water_bucket": {
+    "criteria": {
+      "has_water_bucket": "2024-12-14 22:55:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_great_hammer": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-14 22:37:40 +0000"
@@ -1466,6 +1484,12 @@
   "botania:recipes/tools/flower_bag": {
     "criteria": {
       "has_item": "2024-12-14 22:44:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mystery_armor_white_leggings": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
     },
     "done": true
   },
@@ -1487,6 +1511,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "botania:main/elf_portal_open": {
+    "criteria": {
+      "portal": "2024-12-14 22:59:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_relay": {
+    "criteria": {
+      "has_base_block": "2024-12-14 23:00:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_wall": {
+    "criteria": {
+      "has_item": "2024-12-14 22:57:58 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/floating_endoflame": {
     "criteria": {
       "has_item": "2024-12-14 22:53:12 +0000"
@@ -1499,9 +1547,69 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingwood_slab": {
+    "criteria": {
+      "has_item": "2024-12-14 22:57:58 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-12-14 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/water_coolant_cell_10k": {
+    "criteria": {
+      "has_water_bucket": "2024-12-14 22:55:12 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mystery_armor_red_helmet": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2024-12-14 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mystery_armor_blue_leggings": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/star_sword": {
     "criteria": {
       "has_terrasteel": "2024-12-14 22:54:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_heartstealer": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mystery_armor_blue_helmet": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
     },
     "done": true
   },
@@ -1511,9 +1619,33 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
   "botania:main/terrasteel_pickup_lexicon": {
     "criteria": {
       "terrasteel": "2024-12-14 22:54:20 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_oceanic": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-14 22:55:12 +0000"
     },
     "done": true
   },
@@ -1523,15 +1655,39 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/copy_tool_assembly": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2024-12-14 22:44:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-14 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_item": "2024-12-14 22:57:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/terrasteel_boots": {
     "criteria": {
       "has_item": "2024-12-14 22:54:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
     },
     "done": true
   },
@@ -1547,9 +1703,33 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_doom_crossbow": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/terrasteel_chestplate": {
     "criteria": {
       "has_item": "2024-12-14 22:54:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks": {
+    "criteria": {
+      "has_item": "2024-12-14 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-12-14 23:04:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mystery_armor_purple_helmet": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
     },
     "done": true
   },
@@ -1559,9 +1739,45 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2024-12-14 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "elven_lexicon": "2024-12-14 23:02:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2024-12-14 22:57:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/thunder_sword": {
     "criteria": {
       "has_terrasteel": "2024-12-14 22:54:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2024-12-14 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mystery_armor_white_helmet": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "botania:main/elf_lexicon_pickup": {
+    "criteria": {
+      "lexicon": "2024-12-14 23:02:50 +0000"
     },
     "done": true
   },
@@ -1595,9 +1811,45 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/redstone_spreader": {
+    "criteria": {
+      "has_item": "2024-12-14 23:00:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/alfheim_portal": {
     "criteria": {
       "has_item": "2024-12-14 22:54:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_cursed": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mystery_armor_white_chestplate": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_mace": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bubble_bow": {
+    "criteria": {
+      "has_water_bucket": "2024-12-14 22:55:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mystery_armor_red_chestplate": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
     },
     "done": true
   },
@@ -1607,15 +1859,70 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_sabrewing": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/green_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-14 22:44:28 +0000"
     },
     "done": true
   },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-12-14 22:57:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/terraform_rod": {
     "criteria": {
       "has_item": "2024-12-14 22:54:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood": {
+    "criteria": {
+      "has_item": "2024-12-14 22:57:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/horn_grass": {
+    "criteria": {
+      "has_item": "2024-12-14 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_power_bow": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000",
+      "has_the_recipe": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2024-12-14 22:55:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mystery_armor_green_helmet": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mystery_armor_purple_leggings": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
     },
     "done": true
   },
@@ -1631,9 +1938,45 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mystery_armor_green_chestplate": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_anchor": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2024-12-14 22:55:12 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mystery_armor_blue_chestplate": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/terra_sword": {
     "criteria": {
       "has_item": "2024-12-14 22:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
     },
     "done": true
   },
@@ -1643,9 +1986,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/terra_axe": {
     "criteria": {
       "has_item": "2024-12-14 22:54:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2024-12-14 22:55:12 +0000"
     },
     "done": true
   },
@@ -1661,15 +2016,81 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mystery_armor_green_leggings": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-12-14 22:57:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/terrasteel_block_deconstruct": {
     "criteria": {
       "has_item": "2024-12-14 22:54:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-14 22:55:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_spreader": {
+    "criteria": {
+      "has_item": "2024-12-14 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mystery_armor_red_leggings": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2024-12-14 22:55:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mystery_armor_purple_chestplate": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
   "botania:main/generating_flower": {
     "criteria": {
       "flower": "2024-12-14 22:53:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2024-12-14 22:55:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_claymore": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2024-12-14 23:03:55 +0000"
     },
     "done": true
   },
