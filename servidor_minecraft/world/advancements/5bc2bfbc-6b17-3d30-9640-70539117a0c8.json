@@ -420,6 +420,12 @@
     },
     "done": true
   },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2024-12-14 22:28:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/hydrogen_cell": {
     "criteria": {
       "has_hydrogen": "2024-12-14 22:09:29 +0000"
@@ -465,6 +471,12 @@
   "betterend:recipes/decorations/tenanea_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-12-14 22:28:18 +0000"
     },
     "done": true
   },
@@ -666,6 +678,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/oak_slab_from_stairs": {
+    "criteria": {
+      "has_oak_stairs": "2024-12-14 22:33:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/methane": {
     "criteria": {
       "has_hydrogen": "2024-12-14 22:09:29 +0000",
@@ -785,6 +803,12 @@
   "betternether:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_lantern": "2024-12-14 22:31:08 +0000"
     },
     "done": true
   },
@@ -1035,6 +1059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-14 22:28:18 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/campfire": {
     "criteria": {
       "has_coal": "2024-12-14 22:13:23 +0000",
@@ -1168,6 +1198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 22:28:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
@@ -1183,6 +1219,12 @@
   "betternether:recipes/decorations/stalagnate_ladder": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-14 22:28:18 +0000"
     },
     "done": true
   },
@@ -1213,6 +1255,12 @@
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_minecraft_planks": "2024-12-14 22:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-14 22:28:24 +0000"
     },
     "done": true
   },
@@ -1249,6 +1297,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-14 22:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-14 22:24:50 +0000"
     },
     "done": true
   },
@@ -1345,6 +1399,12 @@
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2024-12-14 22:28:18 +0000"
     },
     "done": true
   },
@@ -1447,6 +1507,12 @@
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2024-12-14 22:33:59 +0000"
     },
     "done": true
   },
@@ -1624,6 +1690,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/prismaglass": {
+    "criteria": {
+      "has_glass": "2024-12-14 22:24:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/bread": {
     "criteria": {
       "has_bread": "2024-12-14 22:09:29 +0000"
@@ -1669,6 +1741,12 @@
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2024-12-14 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-14 22:24:57 +0000"
     },
     "done": true
   },
@@ -1822,6 +1900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 22:28:26 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_taburet": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
@@ -1831,6 +1915,12 @@
   "ae2wtlib:recipes/wireless_pattern_access_terminal": {
     "criteria": {
       "has_wt": "2024-12-14 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-12-14 22:28:18 +0000"
     },
     "done": true
   },
@@ -1861,6 +1951,12 @@
   "betternether:recipes/decorations/mushroom_fir_taburet": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-14 22:28:18 +0000"
     },
     "done": true
   },
@@ -2182,6 +2278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 22:28:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/jungle_taburet": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:51 +0000"
@@ -2437,6 +2539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 22:28:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_fence": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
@@ -2627,6 +2735,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 22:28:24 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-12-14 22:28:18 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
       "has_the_recipe": "2024-12-14 22:09:29 +0000"
@@ -2636,6 +2756,12 @@
   "betternether:recipes/redstone/anchor_tree_gate": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2024-12-14 22:28:18 +0000"
     },
     "done": true
   },
@@ -2705,6 +2831,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 22:28:26 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/pythadendron_taburet": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
@@ -2720,6 +2852,12 @@
   "advancednetherite:recipes/misc/netherite_gold_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-12-14 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 22:28:18 +0000"
     },
     "done": true
   },
@@ -2798,9 +2936,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 22:28:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 22:28:26 +0000"
     },
     "done": true
   },
@@ -2892,6 +3042,12 @@
   "betterend:recipes/decorations/end_lotus_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-14 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 22:28:26 +0000"
     },
     "done": true
   },
@@ -3042,6 +3198,12 @@
   "mcda:recipes/base_armors/piglin_armor_helmet": {
     "criteria": {
       "has_bone": "2024-12-14 22:21:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 22:28:26 +0000"
     },
     "done": true
   },
