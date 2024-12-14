@@ -1451,6 +1451,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-12-14 23:11:17 +0000"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2024-12-14 22:44:28 +0000"
@@ -1499,9 +1505,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-14 23:09:25 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/terrasteel_leggings": {
     "criteria": {
       "has_item": "2024-12-14 22:54:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2024-12-14 23:13:29 +0000"
     },
     "done": true
   },
@@ -1568,6 +1586,30 @@
   "techreborn:recipes/crafting_table/parts/water_coolant_cell_10k": {
     "criteria": {
       "has_water_bucket": "2024-12-14 22:55:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2024-12-14 23:07:49 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/allium": {
+    "criteria": {
+      "has_flower": "2024-12-14 23:09:25 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-14 23:13:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-14 23:13:29 +0000"
     },
     "done": true
   },
@@ -1658,6 +1700,12 @@
   "betterend:recipes/misc/copy_tool_assembly": {
     "criteria": {
       "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-14 23:13:29 +0000"
     },
     "done": true
   },
@@ -1901,6 +1949,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 23:13:29 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
     "criteria": {
       "has_iron_block": "2024-12-14 23:03:55 +0000",
@@ -1926,9 +1980,21 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/glut_charm": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-14 23:13:29 +0000"
+    },
+    "done": true
+  },
   "botania:main/pure_daisy_pickup": {
     "criteria": {
       "daisy": "2024-12-14 22:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-14 23:09:25 +0000"
     },
     "done": true
   },
@@ -1962,9 +2028,21 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-14 23:09:25 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_blue_chestplate": {
     "criteria": {
       "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-14 23:13:28 +0000"
     },
     "done": true
   },
@@ -2010,6 +2088,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-14 23:13:28 +0000",
+      "minecraft:zombie": "2024-12-14 23:13:28 +0000"
+    },
+    "done": false
+  },
   "botania:main/mana_pool_pickup": {
     "criteria": {
       "pickup": "2024-12-14 22:50:05 +0000"
@@ -2040,9 +2125,21 @@
     },
     "done": true
   },
+  "simplyswords:longsword_plague": {
+    "criteria": {
+      "requirement": "2024-12-14 23:11:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-14 22:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-14 23:11:17 +0000"
     },
     "done": true
   },
@@ -2055,6 +2152,24 @@
   "mcda:recipes/base_armors/mystery_armor_red_leggings": {
     "criteria": {
       "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2024-12-14 23:07:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/leather": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-14 23:13:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2024-12-14 23:07:49 +0000"
     },
     "done": true
   },
