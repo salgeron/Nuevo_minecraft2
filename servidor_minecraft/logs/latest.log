@@ -2686,3 +2686,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [14:35:23] [Server thread/INFO]: [EMI] salgeron deleted 1 cobblestone
 [14:36:27] [Server thread/INFO]: salgeron has reached the goal [Self-Driving Cart]
 [14:47:02] [Server thread/INFO]: [EMI] salgeron deleted 1 cart_assembler
+[14:57:56] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=278, y=36, z=1132}
+[14:57:56] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=279, y=36, z=1132}
+[14:58:30] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=338, y=-33, z=1159}
+[15:00:24] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=232, y=-41, z=1110}
+[15:01:46] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=218, y=-49, z=1172}

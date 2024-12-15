@@ -2166,6 +2166,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-14 23:13:28 +0000",
       "minecraft:spider": "2024-12-15 13:34:16 +0000",
+      "minecraft:creeper": "2024-12-15 14:56:44 +0000",
       "minecraft:witch": "2024-12-14 23:27:06 +0000",
       "minecraft:zombie": "2024-12-14 23:13:28 +0000"
     },
@@ -2987,6 +2988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-15 14:56:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-15 13:38:57 +0000"
@@ -3020,6 +3027,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-15 13:38:57 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_pink_scoundrel": {
+    "criteria": {
+      "has_gunpowder": "2024-12-15 14:56:44 +0000"
     },
     "done": true
   },
@@ -3474,6 +3487,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_gunpowder": "2024-12-15 14:56:44 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/piston": {
     "criteria": {
       "has_cobblestone": "2024-12-15 13:38:57 +0000"
@@ -3489,6 +3508,18 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-15 14:43:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2024-12-15 14:56:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-15 14:56:44 +0000"
     },
     "done": true
   },
@@ -3513,6 +3544,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-15 13:38:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2024-12-15 14:56:44 +0000"
     },
     "done": true
   },
@@ -3660,6 +3697,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
+    "criteria": {
+      "has_gunpowder": "2024-12-15 14:56:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-15 14:43:13 +0000"
@@ -3693,6 +3736,12 @@
   "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-15 14:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-15 14:56:44 +0000"
     },
     "done": true
   },
