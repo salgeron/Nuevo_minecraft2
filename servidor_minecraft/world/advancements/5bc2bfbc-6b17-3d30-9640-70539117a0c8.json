@@ -714,12 +714,14 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "ancient_delta": "2024-12-15 13:28:27 +0000",
+      "deciduous_forest": "2024-12-15 13:46:37 +0000",
       "prairie": "2024-12-14 22:11:01 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "deciduous_forest": "2024-12-15 13:46:37 +0000",
       "prairie": "2024-12-14 22:11:01 +0000"
     },
     "done": false
@@ -4121,6 +4123,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-12-15 13:46:46 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_cog": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
@@ -4169,6 +4177,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2024-12-15 13:46:46 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_shingle_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
@@ -4193,9 +4207,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_orange": {
+    "criteria": {
+      "has_item": "2024-12-15 13:46:46 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_brigg": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-12-15 13:46:46 +0000"
     },
     "done": true
   },
@@ -4494,6 +4520,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-12-15 13:46:46 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
@@ -4665,6 +4697,12 @@
   "stoneworks:recipes/building_blocks/mossy_quartz_brick_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/orange_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-15 13:46:46 +0000"
     },
     "done": true
   },
