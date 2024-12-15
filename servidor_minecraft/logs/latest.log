@@ -2691,3 +2691,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [14:58:30] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=338, y=-33, z=1159}
 [15:00:24] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=232, y=-41, z=1110}
 [15:01:46] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=218, y=-49, z=1172}
+[15:09:16] [Server thread/INFO]: salgeron has reached the goal [Strong Arms]
+[15:10:50] [Server thread/INFO]: Irinasan24 has made the advancement [Fluix Energy Connection]

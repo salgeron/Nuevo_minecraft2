@@ -3174,6 +3174,12 @@
     },
     "done": true
   },
+  "create:cart_pickup": {
+    "criteria": {
+      "0": "2024-12-15 15:09:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-15 14:43:13 +0000"

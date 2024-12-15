@@ -4201,9 +4201,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/quartz_pillar_trim": {
     "criteria": {
       "has_quartz_pillar_trim": "2024-12-15 13:41:42 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
     },
     "done": true
   },
@@ -4216,6 +4228,24 @@
   "smallships:recipes/transportation/bamboo_brigg": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/toggle_bus": {
+    "criteria": {
+      "has_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_blue": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
     },
     "done": true
   },
@@ -4315,6 +4345,12 @@
     },
     "done": true
   },
+  "megacells:recipes/misc/network/cell_dock": {
+    "criteria": {
+      "has_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
@@ -4345,9 +4381,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
+    "criteria": {
+      "has_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/storage_chest": {
+    "criteria": {
+      "has_glass_cable": "2024-12-15 15:10:50 +0000"
     },
     "done": true
   },
@@ -4378,6 +4426,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/spatial_io_pylon": {
+    "criteria": {
+      "has_glass_cable": "2024-12-15 15:10:50 +0000"
     },
     "done": true
   },
@@ -4432,6 +4486,12 @@
   "stoneworks:recipes/building_blocks/polished_quartz_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
     },
     "done": true
   },
@@ -4490,6 +4550,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
@@ -4523,6 +4589,12 @@
   "promenade:recipes/crafting/palm/boat": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
     },
     "done": true
   },
@@ -4634,6 +4706,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
@@ -4643,6 +4721,12 @@
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_pink": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
     },
     "done": true
   },
@@ -4682,9 +4766,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_orange": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_fluix": {
+    "criteria": {
+      "has_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
     },
     "done": true
   },
@@ -4694,9 +4796,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_fluix_clean": {
+    "criteria": {
+      "has_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/baobab_boat": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
     },
     "done": true
   },
@@ -4724,9 +4838,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_lime": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_shingle_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_brown": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
     },
     "done": true
   },
@@ -4790,9 +4922,21 @@
     },
     "done": true
   },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_tile_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_magenta": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
     },
     "done": true
   },
