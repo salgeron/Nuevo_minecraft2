@@ -4257,6 +4257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-15 16:07:18 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_cyan": {
     "criteria": {
       "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
@@ -4395,6 +4401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-15 16:07:18 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_galley": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
@@ -4428,6 +4440,12 @@
   "stoneworks:recipes/building_blocks/cobbled_quartz_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magma_cream": {
+    "criteria": {
+      "has_slime_ball": "2024-12-15 16:07:18 +0000"
     },
     "done": true
   },
@@ -4629,6 +4647,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/rubber_from_slime_ball": {
+    "criteria": {
+      "has_slime_ball": "2024-12-15 16:07:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_slime_ball": "2024-12-15 16:07:18 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
@@ -4747,6 +4777,12 @@
     "criteria": {
       "has_the_recipe": "2024-12-15 13:28:28 +0000",
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dancers_sword": {
+    "criteria": {
+      "has_slime_ball": "2024-12-15 16:07:18 +0000"
     },
     "done": true
   },
@@ -5357,6 +5393,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_slime_ball": "2024-12-15 16:07:18 +0000"
+    },
+    "done": true
+  },
   "ae2:main/glass_cable": {
     "criteria": {
       "certus": "2024-12-15 15:10:50 +0000"
@@ -5420,6 +5462,12 @@
   "regions_unexplored:recipes/transportation/eucalyptus_boat": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-12-15 16:07:18 +0000"
     },
     "done": true
   },
@@ -5540,6 +5588,12 @@
   "betternether:recipes/transportation/detector_rail": {
     "criteria": {
       "has_redstone": "2024-12-15 15:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-15 16:07:18 +0000"
     },
     "done": true
   },
