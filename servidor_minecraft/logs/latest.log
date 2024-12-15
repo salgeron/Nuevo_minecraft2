@@ -3085,3 +3085,14 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [16:07:37] [Server thread/INFO]: [salgeron: Successfully filled 782 block(s)]
 [16:09:15] [Server thread/INFO]: [salgeron: Successfully filled 2538 block(s)]
 [16:16:04] [Server thread/INFO]: salgeron has made the advancement [Stay dead]
+[16:21:50] [Server thread/INFO]: salgeron has made the advancement [Scarlet Temptation]
+[16:22:56] [Server thread/INFO]: Irinasan24 lost connection: Disconnected
+[16:22:56] [Server thread/INFO]: Irinasan24 left the game
+[16:22:56] [Server thread/INFO]: remove player wand
+[16:22:56] [Server thread/INFO]: Updating all forceload tickets for 5bc2bfbc-6b17-3d30-9640-70539117a0c8
+[16:27:29] [Server thread/INFO]: salgeron lost connection: Disconnected
+[16:27:29] [Server thread/INFO]: salgeron left the game
+[16:27:29] [Server thread/INFO]: remove player wand
+[16:27:29] [Server thread/INFO]: Updating all forceload tickets for 663f09f8-c41e-3225-bf34-9f23beefdec5
+[16:27:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:27:33] [Server thread/INFO]: close<--[HERE]

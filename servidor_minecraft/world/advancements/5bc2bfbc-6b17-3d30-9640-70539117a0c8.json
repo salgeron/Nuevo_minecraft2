@@ -653,6 +653,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lukewarm_ocean": "2024-12-15 16:22:10 +0000",
       "minecraft:jungle": "2024-12-14 22:09:30 +0000"
     },
     "done": false
@@ -4155,9 +4156,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_dyes/black": "2024-12-15 16:18:18 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/quartz_column": {
     "criteria": {
       "has_item": "2024-12-15 13:41:42 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-15 16:18:18 +0000"
     },
     "done": true
   },
@@ -4377,6 +4390,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-15 16:18:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
@@ -4461,6 +4480,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-15 16:18:18 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-15 15:31:19 +0000"
@@ -4521,6 +4546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-15 16:18:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2024-12-15 15:31:43 +0000"
@@ -4563,6 +4594,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/white_dye_from_bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2024-12-15 16:18:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/kapok_boat": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
@@ -4590,6 +4627,12 @@
   "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
     "criteria": {
       "has_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2024-12-15 16:18:18 +0000"
     },
     "done": true
   },
@@ -4704,6 +4747,12 @@
   "bewitchment:recipes/transportation/dragons_blood_boat": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-15 16:18:18 +0000"
     },
     "done": true
   },
@@ -4951,6 +5000,12 @@
   "stoneworks:recipes/building_blocks/quartz_pavers_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-15 16:18:18 +0000"
     },
     "done": true
   },
@@ -5351,6 +5406,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2024-12-15 16:18:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-12-15 15:31:43 +0000"
@@ -5447,6 +5508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-15 16:18:18 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_rail": {
     "criteria": {
       "has_copper_block": "2024-12-15 15:31:43 +0000"
@@ -5456,6 +5523,12 @@
   "smallships:recipes/transportation/oak_brigg": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2024-12-15 16:18:18 +0000"
     },
     "done": true
   },
@@ -5486,6 +5559,12 @@
   "betterend:recipes/decorations/jellyshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-15 15:31:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2024-12-15 16:18:18 +0000"
     },
     "done": true
   },
@@ -5522,6 +5601,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2024-12-15 16:18:18 +0000"
     },
     "done": true
   },
