@@ -490,3 +490,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [00:04:28] [Server thread/INFO]: Irinasan24 left the game
 [00:04:28] [Server thread/INFO]: remove player wand
 [00:04:28] [Server thread/INFO]: Updating all forceload tickets for 5bc2bfbc-6b17-3d30-9640-70539117a0c8
+[00:09:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:09:34] [Server thread/INFO]: closeç<--[HERE]
