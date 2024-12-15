@@ -2685,3 +2685,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [14:35:23] [Server thread/INFO]: [EMI] salgeron deleted 1 cobblestone
 [14:36:27] [Server thread/INFO]: salgeron has reached the goal [Self-Driving Cart]
+[14:47:02] [Server thread/INFO]: [EMI] salgeron deleted 1 cart_assembler

@@ -4231,6 +4231,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2024-12-15 14:42:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
@@ -4255,6 +4261,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_skin": "2024-12-15 14:42:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_quartz_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
@@ -4270,6 +4282,12 @@
   "smallships:recipes/transportation/spruce_brigg": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2024-12-15 14:42:01 +0000"
     },
     "done": true
   },
@@ -4360,6 +4378,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_skin": "2024-12-15 14:42:01 +0000"
     },
     "done": true
   },
@@ -4565,6 +4589,12 @@
   "stoneworks:recipes/building_blocks/quartz_pavers_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-15 14:47:27 +0000"
     },
     "done": true
   },
