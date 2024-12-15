@@ -3408,6 +3408,12 @@
     },
     "done": true
   },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2024-12-15 15:43:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-15 13:38:57 +0000"

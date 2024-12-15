@@ -4261,6 +4261,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/cauldron_armor_chestplate": {
+    "criteria": {
+      "has_cauldron": "2024-12-15 15:43:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_orange": {
     "criteria": {
       "has_item": "2024-12-15 13:46:46 +0000"
@@ -4832,6 +4838,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/cell": {
+    "criteria": {
+      "has_cell": "2024-12-15 15:44:14 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
@@ -4916,6 +4928,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/witch_cauldron": {
+    "criteria": {
+      "has_item": "2024-12-15 15:43:57 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_green": {
     "criteria": {
       "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
@@ -4949,6 +4967,12 @@
   "ae2:recipes/misc/network/cables/glass_pink": {
     "criteria": {
       "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/compressed_air_cell": {
+    "criteria": {
+      "has_cell": "2024-12-15 15:44:14 +0000"
     },
     "done": true
   },
