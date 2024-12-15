@@ -1955,6 +1955,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/flint_from_gravel": {
+    "criteria": {
+      "has_gravel": "2024-12-14 23:55:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_green": {
     "criteria": {
       "has_item": "2024-12-14 22:44:28 +0000"
@@ -1982,6 +1988,12 @@
   "botania:recipes/tools/mana_gun": {
     "criteria": {
       "has_item": "2024-12-14 23:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-14 23:55:31 +0000"
     },
     "done": true
   },
@@ -2198,6 +2210,12 @@
   "mcdw:recipes/double_axes/double_axe_cursed": {
     "criteria": {
       "has_iron_block": "2024-12-14 23:03:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-14 23:55:31 +0000"
     },
     "done": true
   },
@@ -2568,6 +2586,12 @@
     },
     "done": true
   },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2024-12-14 23:55:31 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/glass_pickaxe": {
     "criteria": {
       "has_item": "2024-12-14 23:18:07 +0000"
@@ -2777,6 +2801,12 @@
   "botania:recipes/combat/missile_rod": {
     "criteria": {
       "has_item": "2024-12-14 23:15:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-14 23:55:31 +0000"
     },
     "done": true
   },
