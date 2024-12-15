@@ -4351,6 +4351,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-15 15:51:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-15 13:41:42 +0000"
@@ -4378,6 +4384,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-15 15:31:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-15 15:51:59 +0000"
     },
     "done": true
   },
@@ -4645,6 +4657,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_slabs": "2024-12-15 15:51:59 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_auto": {
     "criteria": {
       "has_redstone": "2024-12-15 15:31:43 +0000"
@@ -4654,6 +4672,12 @@
   "bewitchment:recipes/transportation/dragons_blood_boat": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/oak_pressure_plate_from_slab": {
+    "criteria": {
+      "has_oak_slab": "2024-12-15 15:51:59 +0000"
     },
     "done": true
   },
@@ -4808,6 +4832,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-15 15:51:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2024-12-15 15:51:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
@@ -4823,6 +4859,12 @@
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2024-12-15 13:46:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2024-12-15 15:51:59 +0000"
     },
     "done": true
   },
@@ -4946,6 +4988,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2024-12-15 15:51:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
@@ -4973,6 +5021,12 @@
   "techreborn:recipes/compressor/compressed_air_cell": {
     "criteria": {
       "has_cell": "2024-12-15 15:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-15 15:51:59 +0000"
     },
     "done": true
   },
@@ -5120,6 +5174,12 @@
     },
     "done": true
   },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2024-12-15 15:51:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/joshua_boat": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
@@ -5153,6 +5213,12 @@
   "ae2:recipes/misc/network/cables/glass_lime": {
     "criteria": {
       "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-12-15 15:51:59 +0000"
     },
     "done": true
   },
@@ -5208,6 +5274,12 @@
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-15 15:51:59 +0000"
     },
     "done": true
   },
@@ -5313,6 +5385,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-15 15:51:59 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_magenta": {
     "criteria": {
       "has_fluix_glass_cable": "2024-12-15 15:10:50 +0000"
@@ -5382,6 +5460,12 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-12-15 13:28:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-15 15:51:59 +0000"
     },
     "done": true
   },
