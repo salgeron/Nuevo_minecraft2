@@ -2903,6 +2903,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-15 14:33:49 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_tall_torch": {
+    "criteria": {
+      "has_the_recipe": "2024-12-15 14:37:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/plantball_from_saplings": {
     "criteria": {
       "has_sapling": "2024-12-15 13:25:40 +0000"
@@ -2939,6 +2951,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2024-12-15 14:37:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-15 13:38:57 +0000"
@@ -2954,6 +2972,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-15 13:38:57 +0000"
+    },
+    "done": true
+  },
+  "create:self_deploying": {
+    "criteria": {
+      "0": "2024-12-15 14:36:27 +0000"
     },
     "done": true
   },
@@ -2984,6 +3008,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2024-12-15 13:38:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_tall_torch": {
+    "criteria": {
+      "has_coal": "2024-12-15 14:37:05 +0000"
     },
     "done": true
   },
@@ -3041,6 +3071,12 @@
     },
     "done": true
   },
+  "vinery:recipes/campfire": {
+    "criteria": {
+      "has_coal": "2024-12-15 14:37:05 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/redstone/tag_piston": {
     "criteria": {
       "has_cobblestone": "2024-12-15 13:38:57 +0000"
@@ -3056,6 +3092,18 @@
   "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
     "criteria": {
       "has_rail": "2024-12-15 13:28:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_lattice": {
+    "criteria": {
+      "has_coal": "2024-12-15 14:37:05 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2024-12-15 14:33:38 +0000"
     },
     "done": true
   },
@@ -3083,6 +3131,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-12-15 14:37:05 +0000",
+      "has_the_recipe": "2024-12-15 14:37:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-15 13:38:57 +0000"
@@ -3104,6 +3159,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-15 13:38:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/coal_plate_from_block": {
+    "criteria": {
+      "has_coal_block": "2024-12-15 14:33:49 +0000"
     },
     "done": true
   },
@@ -3176,6 +3237,12 @@
   "botania:recipes/transportation/ghost_rail": {
     "criteria": {
       "has_item": "2024-12-15 13:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-15 14:37:05 +0000"
     },
     "done": true
   },

@@ -2684,3 +2684,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [14:35:23] [Server thread/INFO]: [EMI] salgeron deleted 1 cobblestone
+[14:36:27] [Server thread/INFO]: salgeron has reached the goal [Self-Driving Cart]
