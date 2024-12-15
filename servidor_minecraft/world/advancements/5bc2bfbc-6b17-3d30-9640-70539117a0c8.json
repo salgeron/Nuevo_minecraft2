@@ -714,6 +714,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "ancient_delta": "2024-12-15 13:28:27 +0000",
+      "grassy_beach": "2024-12-15 15:58:14 +0000",
       "deciduous_forest": "2024-12-15 13:46:37 +0000",
       "prairie": "2024-12-14 22:11:01 +0000"
     },
@@ -721,6 +722,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "grassy_beach": "2024-12-15 15:58:14 +0000",
       "deciduous_forest": "2024-12-15 13:46:37 +0000",
       "prairie": "2024-12-14 22:11:01 +0000"
     },

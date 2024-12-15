@@ -3071,3 +3071,15 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [15:44:24] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675)
 [15:44:24] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265)
 [15:44:24] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15:57:43] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[15:58:26] [Server thread/INFO]: salgeron has made the advancement [Best Friends Forever]
+[16:01:08] [Server thread/WARN]: Giant Geckotoa (vehicle of salgeron) moved wrongly! 0.3794323532953854
+[16:01:08] [Server thread/WARN]: Giant Geckotoa (vehicle of salgeron) moved wrongly! 0.8186432251957854
+[16:01:08] [Server thread/WARN]: Giant Geckotoa (vehicle of salgeron) moved wrongly! 0.2557364701809206
+[16:01:08] [Server thread/WARN]: Giant Geckotoa (vehicle of salgeron) moved wrongly! 0.6883572858275215
+[16:04:59] [Server thread/INFO]: [salgeron: Successfully filled 12660 block(s)]
+[16:05:26] [Server thread/INFO]: [salgeron: Successfully filled 253 block(s)]
+[16:06:24] [Server thread/INFO]: [salgeron: Successfully filled 2099 block(s)]
+[16:06:30] [Server thread/INFO]: [salgeron: Successfully filled 1037 block(s)]
+[16:07:04] [Server thread/INFO]: [salgeron: Successfully filled 1098 block(s)]
+[16:07:37] [Server thread/INFO]: [salgeron: Successfully filled 782 block(s)]
