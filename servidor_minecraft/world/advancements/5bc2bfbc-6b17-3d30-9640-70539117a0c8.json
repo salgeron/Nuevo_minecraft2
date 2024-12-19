@@ -654,6 +654,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:lukewarm_ocean": "2024-12-15 16:22:10 +0000",
+      "minecraft:river": "2024-12-19 20:04:23 +0000",
       "minecraft:jungle": "2024-12-14 22:09:30 +0000"
     },
     "done": false
@@ -2425,6 +2426,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-19 20:04:03 +0000",
       "minecraft:zombie": "2024-12-14 22:18:28 +0000"
     },
     "done": false
@@ -5809,6 +5811,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-12-19 20:04:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
@@ -5902,6 +5910,12 @@
   "techreborn:recipes/compressor/redstone_plate": {
     "criteria": {
       "has_redstone_block": "2024-12-19 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-19 20:04:03 +0000"
     },
     "done": true
   },
@@ -6028,6 +6042,12 @@
   "betternether:recipes/decorations/bricks_fire_bowl": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2024-12-19 20:04:04 +0000"
     },
     "done": true
   },

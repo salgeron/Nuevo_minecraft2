@@ -5504,6 +5504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-19 20:20:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -5537,6 +5543,12 @@
   "betternether:recipes/tools/cincinnasite_hoe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/coal_dust": {
+    "criteria": {
+      "has_coal_dust": "2024-12-19 20:20:45 +0000"
     },
     "done": true
   },
@@ -5665,6 +5677,12 @@
   "botania:recipes/misc/quartz_blaze": {
     "criteria": {
       "has_item": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-19 20:10:11 +0000"
     },
     "done": true
   },
@@ -5827,6 +5845,12 @@
   "beachparty:beachpartyradio": {
     "criteria": {
       "has_redstone": "2024-12-19 19:44:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-12-19 20:10:08 +0000"
     },
     "done": true
   },
@@ -6298,6 +6322,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_water": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-19 20:20:24 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-19 19:44:25 +0000"
@@ -6307,6 +6337,12 @@
   "soulsweapons:recipes/combat/moonlight_shortsword": {
     "criteria": {
       "has_lord_soul": "2024-12-19 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-19 20:20:24 +0000"
     },
     "done": true
   },
@@ -6637,6 +6673,12 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/carbon_fiber": {
+    "criteria": {
+      "has_coal_dust": "2024-12-19 20:20:45 +0000"
     },
     "done": true
   },
@@ -6983,6 +7025,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/coal_plate": {
+    "criteria": {
+      "has_tag_c_coal_dusts": "2024-12-19 20:20:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackstone_lamp": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
@@ -7010,6 +7058,12 @@
   "techreborn:recipes/chemical_reactor/synthetic_redstone_crystal": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-19 20:20:24 +0000"
     },
     "done": true
   },
@@ -7067,9 +7121,21 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-12-19 20:10:11 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/coal_small_dust_from_dust": {
+    "criteria": {
+      "has_coal_dust": "2024-12-19 20:20:45 +0000"
     },
     "done": true
   },
@@ -7130,6 +7196,12 @@
   "betterend:recipes/misc/copy_aeternium_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_mercury": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-19 20:20:24 +0000"
     },
     "done": true
   },
