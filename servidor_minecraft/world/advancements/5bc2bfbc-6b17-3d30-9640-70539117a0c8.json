@@ -717,6 +717,7 @@
       "ancient_delta": "2024-12-15 13:28:27 +0000",
       "grassy_beach": "2024-12-15 15:58:14 +0000",
       "deciduous_forest": "2024-12-15 13:46:37 +0000",
+      "infernal_holt": "2024-12-19 19:40:25 +0000",
       "prairie": "2024-12-14 22:11:01 +0000"
     },
     "done": false
@@ -5736,9 +5737,75 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:old_warped_woods": "2024-12-19 19:41:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2024-12-19 19:41:26 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "infernal_holt": "2024-12-19 19:40:25 +0000"
+    },
+    "done": false
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2024-12-19 19:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-19 19:40:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/warped_palisade": {
+    "criteria": {
+      "has_log": "2024-12-19 19:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-19 19:40:25 +0000"
+    },
+    "done": true
+  },
   "ae2:main/controller": {
     "criteria": {
       "certus": "2024-12-19 19:17:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_warped": "2024-12-19 19:41:49 +0000"
+    },
+    "done": false
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-19 19:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 19:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-19 19:41:49 +0000"
     },
     "done": true
   },
