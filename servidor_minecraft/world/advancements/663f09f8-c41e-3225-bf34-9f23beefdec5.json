@@ -670,6 +670,7 @@
       "ancient_delta": "2024-12-14 22:19:43 +0000",
       "grassy_beach": "2024-12-14 22:09:36 +0000",
       "rocky_meadow": "2024-12-14 22:08:30 +0000",
+      "mycotoxic_undergrowth": "2024-12-19 19:54:30 +0000",
       "deciduous_forest": "2024-12-15 13:43:35 +0000",
       "chalk_cliffs": "2024-12-14 22:06:44 +0000",
       "infernal_holt": "2024-12-19 19:00:46 +0000",
@@ -5559,6 +5560,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "mycotoxic_undergrowth": "2024-12-19 19:54:30 +0000",
       "infernal_holt": "2024-12-19 19:00:46 +0000"
     },
     "done": false

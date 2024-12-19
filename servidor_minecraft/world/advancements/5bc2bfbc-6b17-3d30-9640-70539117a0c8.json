@@ -5887,6 +5887,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_the_starless_night": {
+    "criteria": {
+      "has_crying_obsidian": "2024-12-19 19:53:22 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/warped_palisade": {
     "criteria": {
       "has_log": "2024-12-19 19:41:49 +0000"
@@ -5917,6 +5923,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-19 19:53:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
@@ -5941,6 +5953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 19:53:22 +0000"
+    },
+    "done": true
+  },
   "ae2:main/controller": {
     "criteria": {
       "certus": "2024-12-19 19:17:16 +0000"
@@ -5956,6 +5974,12 @@
   "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_crying_obsidian": "2024-12-19 19:53:22 +0000"
     },
     "done": true
   },
