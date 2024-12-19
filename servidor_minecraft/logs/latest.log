@@ -3804,3 +3804,5 @@ java.lang.ArrayIndexOutOfBoundsException: Index 9 out of bounds for length 9
 [21:45:37] [Server thread/INFO]: <salgeron> van super lentas estas maquinas
 [21:46:30] [Server thread/INFO]: <salgeron> deberia poner a minar a la tuneladora
 [21:47:31] [Server thread/INFO]: <salgeron> esque no tengo ya casi cosas
+[21:50:47] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
+[21:52:23] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]

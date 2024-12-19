@@ -5793,6 +5793,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-19 21:49:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 21:48:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
       "has_redstone_block": "2024-12-19 19:49:16 +0000"
@@ -5835,6 +5847,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-12-19 21:48:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
@@ -5844,6 +5862,12 @@
   "techreborn:recipes/industrial_grinder/netherrack_with_water": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 21:48:19 +0000"
     },
     "done": true
   },
@@ -5883,9 +5907,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-12-19 21:48:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-12-19 21:48:19 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:root": {
     "criteria": {
       "crafting_table": "2024-12-19 21:43:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_blue": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 21:48:19 +0000"
     },
     "done": true
   },
@@ -5901,9 +5943,27 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_doom_crossbow": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 21:48:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 21:48:19 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2024-12-19 21:54:08 +0000"
     },
     "done": true
   },
@@ -5931,9 +5991,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 21:48:19 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2024-12-19 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-19 21:49:53 +0000"
     },
     "done": true
   },
@@ -6075,6 +6147,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2024-12-19 21:49:53 +0000"
+    },
+    "done": true
+  },
   "ae2:main/controller": {
     "criteria": {
       "certus": "2024-12-19 19:17:16 +0000"
@@ -6090,6 +6168,12 @@
   "betternether:recipes/transportation/stalagnate_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2024-12-19 21:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 21:48:19 +0000"
     },
     "done": true
   },
@@ -6183,6 +6267,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/omni_tool": {
+    "criteria": {
+      "has_advanced_chainsaw": "2024-12-19 21:53:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_banner": {
     "criteria": {
       "has_banner": "2024-12-19 20:04:04 +0000"
@@ -6234,6 +6324,12 @@
   "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 21:48:19 +0000"
     },
     "done": true
   },

@@ -5482,6 +5482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_bowl_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -5768,6 +5774,12 @@
   "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
     },
     "done": true
   },
@@ -6204,6 +6216,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_great_axeblade": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -6372,6 +6396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
     "criteria": {
       "has_diamond_boots": "2024-12-19 18:59:10 +0000"
@@ -6459,6 +6489,12 @@
   "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
     "criteria": {
       "has_item": "2024-12-19 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
     },
     "done": true
   },
@@ -6702,6 +6738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-19 21:25:05 +0000"
@@ -6900,6 +6942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_light_weighted_pressure_plate": {
     "criteria": {
       "has_item": "2024-12-19 21:28:28 +0000"
@@ -7005,6 +7053,12 @@
   "techreborn:recipes/crafting_table/manual": {
     "criteria": {
       "has_ingot": "2024-12-19 20:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
     },
     "done": true
   },
@@ -7236,6 +7290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-19 19:44:25 +0000"
@@ -7323,6 +7383,12 @@
   "mcda:recipes/base_armors/sweet_tooth_helmet": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
     },
     "done": true
   },
@@ -7515,6 +7581,12 @@
   "bewitchment:recipes/decorations/blackstone_witch_altar": {
     "criteria": {
       "has_item": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
     },
     "done": true
   },
@@ -8485,6 +8557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
@@ -8710,6 +8788,12 @@
   "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
     "criteria": {
       "has_carbon_plate": "2024-12-19 21:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
     },
     "done": true
   },
@@ -8996,6 +9080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
+    },
+    "done": true
+  },
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2024-12-19 19:01:00 +0000"
@@ -9056,6 +9146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/ender_eye": {
     "criteria": {
       "has_ender_pearl": "2024-12-19 19:01:00 +0000"
@@ -9107,6 +9203,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-12-19 21:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
     },
     "done": true
   },
@@ -9362,6 +9464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-19 21:02:32 +0000"
@@ -9473,6 +9581,12 @@
   "twigs:recipes/schist/schist": {
     "criteria": {
       "has_item": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
     },
     "done": true
   },
@@ -9593,6 +9707,12 @@
   "mcdw:recipes/crossbows/crossbow_voidcaller_crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
     },
     "done": true
   },
@@ -9743,6 +9863,12 @@
   "techreborn:recipes/crafting_table/battery/red_cell_battery": {
     "criteria": {
       "has_lead_ingot": "2024-12-19 20:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
     },
     "done": true
   },
