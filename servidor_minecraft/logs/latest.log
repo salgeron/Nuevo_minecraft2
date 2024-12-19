@@ -4308,3 +4308,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:31:58] [Server thread/INFO]: Named entity class_1646['Ted'/6, l='ServerLevel[world]', x=0.70, y=106.00, z=62.30] died: Ted fell from a high place
 [23:39:28] [Server thread/INFO]: Villager class_1646['Harris'/108802, l='ServerLevel[world]', x=317.31, y=40.00, z=613.69] died, message: 'Harris was slain by Ghoul'
 [23:39:28] [Server thread/INFO]: Named entity class_1646['Harris'/108802, l='ServerLevel[world]', x=317.31, y=40.00, z=613.69] died: Harris was slain by Ghoul
+[23:40:22] [Server thread/INFO]: Irinasan24 lost connection: Disconnected
+[23:40:22] [Server thread/INFO]: Irinasan24 left the game
+[23:40:22] [Server thread/INFO]: remove player wand
+[23:40:22] [Server thread/INFO]: Updating all forceload tickets for 5bc2bfbc-6b17-3d30-9640-70539117a0c8
+[23:44:31] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
+[23:49:44] [Server thread/INFO]: salgeron has made the advancement [Flatten]

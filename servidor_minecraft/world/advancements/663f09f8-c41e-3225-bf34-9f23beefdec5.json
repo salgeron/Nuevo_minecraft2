@@ -5848,6 +5848,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/rolling_machine/cupronickel_heating_coil": {
+    "criteria": {
+      "has_nickel_ingot": "2024-12-19 23:45:40 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/silt/silt_from_clay": {
     "criteria": {
       "has_item": "2024-12-19 19:01:00 +0000"
@@ -8573,6 +8579,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
+    "criteria": {
+      "has_nickel_ingot": "2024-12-19 23:45:40 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_stonecutter": {
     "criteria": {
       "has_tag_c_iron_ingots": "2024-12-19 20:38:27 +0000"
@@ -8816,6 +8828,12 @@
   "techreborn:recipes/grinder/electrum_dust": {
     "criteria": {
       "has_tag_c_electrum_ingots": "2024-12-19 21:44:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
+    "criteria": {
+      "has_nickel_ingot": "2024-12-19 23:45:40 +0000"
     },
     "done": true
   },
@@ -9726,6 +9744,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/nickel_dust": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2024-12-19 23:45:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
     "criteria": {
       "has_diamond_chestplate": "2024-12-19 18:59:33 +0000"
@@ -9807,6 +9831,12 @@
   "techreborn:recipes/crafting_table/tool/wrench": {
     "criteria": {
       "has_bronze_ingot": "2024-12-19 21:22:54 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c4k": "2024-12-19 23:42:26 +0000"
     },
     "done": true
   },
@@ -10029,6 +10059,12 @@
   "soulsweapons:recipes/combat/nightfall": {
     "criteria": {
       "has_item": "2024-12-19 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/nickel_plate": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2024-12-19 23:45:40 +0000"
     },
     "done": true
   },
