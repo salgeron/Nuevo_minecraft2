@@ -6833,6 +6833,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/quartz_lantern": {
+    "criteria": {
+      "has_quartz_slab": "2024-12-19 22:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-19 22:06:21 +0000"
@@ -7364,6 +7370,12 @@
   "techreborn:recipes/chemical_reactor/orange_carpet_from_yellow_carpet_with_orange_dye": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2024-12-19 22:45:12 +0000"
     },
     "done": true
   },

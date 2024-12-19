@@ -5640,6 +5640,12 @@
     },
     "done": false
   },
+  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k_alt": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2024-12-19 22:40:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -5751,6 +5757,12 @@
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2024-12-19 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/upgrade/overclocker_upgrade": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2024-12-19 22:40:09 +0000"
     },
     "done": true
   },
@@ -6184,6 +6196,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2024-12-19 19:06:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2024-12-19 22:40:09 +0000"
     },
     "done": true
   },
@@ -7306,6 +7324,12 @@
   "techreborn:recipes/centrifuge/cooked_meat": {
     "criteria": {
       "has_cooked_meat": "2024-12-19 21:41:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/water_coolant_cell_30k": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2024-12-19 22:40:09 +0000"
     },
     "done": true
   },
@@ -10556,6 +10580,12 @@
       "has_item": "2024-12-19 19:01:00 +0000"
     },
     "done": true
+  },
+  "techreborn:upgrade": {
+    "criteria": {
+      "crit_0": "2024-12-19 22:45:40 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
