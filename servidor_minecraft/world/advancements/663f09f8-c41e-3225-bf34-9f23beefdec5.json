@@ -5529,6 +5529,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/quartz_fixture": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2024-12-19 23:29:53 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/blackstone_column": {
     "criteria": {
       "has_item": "2024-12-19 19:01:29 +0000"
@@ -5974,6 +5980,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2024-12-19 23:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-19 21:02:32 +0000"
@@ -6137,6 +6149,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2024-12-19 23:33:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/bronze_storage_block": {
     "criteria": {
       "has_bronze_ingot": "2024-12-19 21:22:54 +0000"
@@ -6275,6 +6293,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz": "2024-12-19 23:29:53 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/mv_transformer": {
     "criteria": {
       "has_insulated_gold_cable": "2024-12-19 21:14:52 +0000"
@@ -6338,6 +6362,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2024-12-19 19:06:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/misctools_charged_staff": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2024-12-19 23:29:53 +0000"
     },
     "done": true
   },
@@ -6635,6 +6665,12 @@
     },
     "done": true
   },
+  "megacells:recipes/misc/cells/mega_item_cell_housing": {
+    "criteria": {
+      "has_dusts/sky_stone": "2024-12-19 23:29:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/iron_gate": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -6851,6 +6887,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2024-12-19 23:33:42 +0000"
+    },
+    "done": true
+  },
   "indrev:electric_furnace": {
     "criteria": {
       "checkInv": "2024-12-19 21:26:35 +0000"
@@ -7055,6 +7097,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2024-12-19 23:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-19 22:57:58 +0000"
@@ -7070,6 +7118,12 @@
   "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
     "criteria": {
       "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2024-12-19 23:37:45 +0000"
     },
     "done": true
   },
@@ -7298,6 +7352,12 @@
   "techreborn:recipes/misc/smelting/bronze_ingot_from_c_bronze_dusts": {
     "criteria": {
       "has_tag_c_bronze_dusts": "2024-12-19 21:22:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2024-12-19 23:33:42 +0000"
     },
     "done": true
   },
@@ -7775,6 +7835,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/blasting/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_dust": "2024-12-19 23:29:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_shingle_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-19 22:14:54 +0000"
@@ -8093,6 +8159,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2024-12-19 23:29:53 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_wrench": {
     "criteria": {
       "has_nether_quartz": "2024-12-19 19:04:17 +0000"
@@ -8207,9 +8279,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2024-12-19 23:29:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/cells/mega_fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/sky_stone": "2024-12-19 23:29:20 +0000"
     },
     "done": true
   },
@@ -8501,6 +8585,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2024-12-19 23:33:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_silver": {
     "criteria": {
       "has_raw_silver_ores": "2024-12-19 21:40:31 +0000"
@@ -8540,6 +8630,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2024-12-19 23:33:42 +0000"
     },
     "done": true
   },
@@ -8837,6 +8933,12 @@
     },
     "done": true
   },
+  "megacells:recipes/misc/crafting/sky_steel_ingot_from_sky_steel_block": {
+    "criteria": {
+      "has_sky_steel_ingot": "2024-12-19 23:32:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-12-19 20:38:27 +0000"
@@ -8867,6 +8969,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2024-12-19 23:37:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -8894,6 +9002,12 @@
   "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2024-12-19 23:33:42 +0000"
     },
     "done": true
   },
@@ -9360,6 +9474,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2024-12-19 23:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -9723,6 +9843,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2024-12-19 23:37:45 +0000"
     },
     "done": true
   },
@@ -10200,6 +10326,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2024-12-19 23:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -10369,6 +10501,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2024-12-19 23:29:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -10525,6 +10663,12 @@
     },
     "done": true
   },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2024-12-19 23:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-19 21:25:05 +0000"
@@ -10534,6 +10678,12 @@
   "indrev:nikolite": {
     "criteria": {
       "checkInv": "2024-12-19 21:31:13 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/building_blocks/crafting/sky_steel_block": {
+    "criteria": {
+      "has_sky_steel_ingot": "2024-12-19 23:32:01 +0000"
     },
     "done": true
   },
@@ -10607,6 +10757,12 @@
   "ae2:main/storage_bus": {
     "criteria": {
       "part": "2024-12-19 23:26:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2024-12-19 23:29:53 +0000"
     },
     "done": true
   },
@@ -10730,6 +10886,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2024-12-19 23:33:42 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -10799,6 +10961,12 @@
   "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2024-12-19 23:29:53 +0000"
     },
     "done": true
   },
@@ -11120,6 +11288,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2024-12-19 23:37:45 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_moon": {
     "criteria": {
       "has_leather": "2024-12-19 19:06:58 +0000"
@@ -11213,6 +11387,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2024-12-19 23:29:53 +0000"
     },
     "done": true
   },
@@ -11615,6 +11795,12 @@
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2024-12-19 21:41:36 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2024-12-19 23:33:42 +0000"
     },
     "done": true
   },

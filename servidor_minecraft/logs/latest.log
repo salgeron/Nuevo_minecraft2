@@ -4304,3 +4304,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:24:07] [Server thread/INFO]: salgeron has made the advancement [Hot Stuff]
 [23:26:02] [Server thread/INFO]: salgeron has made the advancement [Limitless Potential]
 [23:29:53] [Server thread/INFO]: salgeron has made the advancement [Shocking]
+[23:31:58] [Server thread/INFO]: Villager class_1646['Ted'/6, l='ServerLevel[world]', x=0.70, y=106.00, z=62.30] died, message: 'Ted hit the ground too hard'
+[23:31:58] [Server thread/INFO]: Named entity class_1646['Ted'/6, l='ServerLevel[world]', x=0.70, y=106.00, z=62.30] died: Ted fell from a high place
+[23:39:28] [Server thread/INFO]: Villager class_1646['Harris'/108802, l='ServerLevel[world]', x=317.31, y=40.00, z=613.69] died, message: 'Harris was slain by Ghoul'
+[23:39:28] [Server thread/INFO]: Named entity class_1646['Harris'/108802, l='ServerLevel[world]', x=317.31, y=40.00, z=613.69] died: Harris was slain by Ghoul

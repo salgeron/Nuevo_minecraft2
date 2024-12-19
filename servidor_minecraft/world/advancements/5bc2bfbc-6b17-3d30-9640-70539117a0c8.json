@@ -5757,6 +5757,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/orange_carpet_from_white_carpet_with_orange_dye": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:09 +0000"
@@ -5829,6 +5835,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_stormlander": {
     "criteria": {
       "has_redstone_block": "2024-12-19 19:49:16 +0000"
@@ -5850,6 +5862,12 @@
   "betterend:recipes/misc/thallasium_bulb_lantern_orange": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
     },
     "done": true
   },
@@ -5901,9 +5919,21 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/white_pavement": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:main/root": {
     "criteria": {
       "entered_nether": "2024-12-19 19:40:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:41 +0000"
     },
     "done": true
   },
@@ -5955,6 +5985,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_void": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
@@ -5970,6 +6006,12 @@
   "betternether:recipes/decorations/quartz_glass_pane_yellow": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/polished_livingrock": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
     },
     "done": true
   },
@@ -6048,6 +6090,12 @@
   "techreborn:recipes/chemical_reactor/red_carpet_from_pink_carpet_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2024-12-19 23:33:08 +0000"
     },
     "done": true
   },
@@ -6174,6 +6222,12 @@
   "mcdw:recipes/bows/bow_pink_scoundrel": {
     "criteria": {
       "has_redstone_block": "2024-12-19 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_livingrock": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
     },
     "done": true
   },
@@ -6507,6 +6561,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingrock_slate": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-19 23:24:36 +0000"
@@ -6650,6 +6710,12 @@
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-19 22:10:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/diluted_pool": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
     },
     "done": true
   },
@@ -6953,6 +7019,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/gray_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-19 22:17:47 +0000"
@@ -7229,6 +7301,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-19 22:52:59 +0000"
@@ -7421,6 +7499,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_crossbow": {
     "criteria": {
       "has_crossbow": "2024-12-19 22:07:05 +0000"
@@ -7478,6 +7562,12 @@
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingrock_wall": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
     },
     "done": true
   },
@@ -7709,6 +7799,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/hydralux_petal_block_red": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
@@ -7754,6 +7850,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-19 22:06:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
     },
     "done": true
   },
@@ -7973,6 +8075,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_pool": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-19 19:40:25 +0000"
@@ -8012,6 +8126,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-19 22:11:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blue_pavement": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
     },
     "done": true
   },
@@ -8081,6 +8201,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/stone_column_stonecutting": {
     "criteria": {
       "has_item": "2024-12-19 23:24:36 +0000"
@@ -8111,9 +8237,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/green_wool_from_blue_wool_with_yellow_dye": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/red_pavement": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
     },
     "done": true
   },
@@ -8243,6 +8381,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/black_pavement": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2024-12-19 22:16:33 +0000"
@@ -8294,6 +8438,12 @@
   "techreborn:recipes/chemical_reactor/brown_stained_glass_from_green_stained_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
     },
     "done": true
   },
@@ -8417,6 +8567,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_axe": "2024-12-19 22:08:38 +0000"
@@ -8453,9 +8609,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_blue_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slab": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
     },
     "done": true
   },
@@ -8534,6 +8702,12 @@
   "twigs:recipes/calcite/calcite_wall": {
     "criteria": {
       "has_item": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/yellow_pavement": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
     },
     "done": true
   },
@@ -8723,6 +8897,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/green_pavement": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_calcite_tiles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-19 22:52:59 +0000"
@@ -8861,6 +9041,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2024-12-19 22:04:21 +0000"
@@ -8876,6 +9062,12 @@
   "botania:recipes/decorations/apothecary_default": {
     "criteria": {
       "has_item": "2024-12-19 22:18:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
     },
     "done": true
   },
@@ -8924,6 +9116,12 @@
   "stoneworks:recipes/building_blocks/cobbled_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
     },
     "done": true
   },
@@ -9014,6 +9212,12 @@
   "techreborn:recipes/chemical_reactor/purple_carpet_from_blue_carpet_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2024-12-19 23:33:08 +0000"
     },
     "done": true
   },
@@ -9167,6 +9371,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_calcite_brick_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-19 22:52:59 +0000"
@@ -9206,6 +9416,12 @@
   "techreborn:recipes/chemical_reactor/orange_stained_glass_pane_from_yellow_stained_glass_pane_with_orange_dye": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-19 23:33:41 +0000"
     },
     "done": true
   },
