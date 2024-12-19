@@ -2734,3 +2734,14 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [19:06:18] [Server thread/INFO]: salgeron burned to death
+[19:06:19] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[19:06:40] [Server thread/INFO]: No return portal found
+[19:06:40] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[19:10:13] [Server thread/INFO]: salgeron burned to death
+[19:10:14] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[19:10:31] [Server thread/INFO]: No return portal found
+[19:10:31] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[19:10:46] [Server thread/WARN]: salgeron moved wrongly!
+[19:13:49] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
+[19:14:41] [Server thread/INFO]: Villager class_1646['Kamilah'/469, l='ServerLevel[world]', x=314.71, y=78.00, z=645.43] died, message: 'Kamilah was slain by Zombie'
+[19:14:41] [Server thread/INFO]: Named entity class_1646['Kamilah'/469, l='ServerLevel[world]', x=314.71, y=78.00, z=645.43] died: Kamilah was slain by Zombie

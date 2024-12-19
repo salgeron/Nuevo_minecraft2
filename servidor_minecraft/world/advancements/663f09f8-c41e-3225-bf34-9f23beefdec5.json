@@ -5496,6 +5496,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/ghostly_boots": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -5505,6 +5511,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_masters_bow": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
     },
     "done": true
   },
@@ -5523,6 +5535,12 @@
   "betternether:recipes/tools/cincinnasite_hoe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
     },
     "done": true
   },
@@ -5556,6 +5574,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2024-12-19 19:02:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2024-12-19 19:01:00 +0000"
@@ -5571,6 +5595,12 @@
   "betternether:recipes/decorations/cincinnasite_fire_bowl": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
     },
     "done": true
   },
@@ -5599,9 +5629,27 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/turtle_armor_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2024-12-19 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
     },
     "done": true
   },
@@ -5620,6 +5668,18 @@
   "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 19:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
     },
     "done": true
   },
@@ -5653,6 +5713,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_hunters_promise": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/farmland": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
@@ -5662,6 +5728,18 @@
   "betterend:recipes/misc/copy_plate_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-19 19:06:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
     },
     "done": true
   },
@@ -5680,6 +5758,12 @@
   "techreborn:recipes/misc/crafting_table/parts/template_template": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2024-12-19 19:12:06 +0000"
     },
     "done": true
   },
@@ -5707,6 +5791,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
@@ -5731,6 +5827,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/evocation_robe_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
     "criteria": {
       "has_diamond_boots": "2024-12-19 18:59:10 +0000"
@@ -5752,6 +5854,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/quartz_elevator": {
+    "criteria": {
+      "has_quartz": "2024-12-19 19:04:17 +0000"
     },
     "done": true
   },
@@ -5797,9 +5905,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/chiseled_polished_blackstone_holder_recipe": {
     "criteria": {
       "got_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/light_detector": {
+    "criteria": {
+      "has_nether_quartz": "2024-12-19 19:04:17 +0000"
     },
     "done": true
   },
@@ -5818,6 +5938,18 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 19:04:17 +0000"
     },
     "done": true
   },
@@ -5848,6 +5980,18 @@
   "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
     },
     "done": true
   },
@@ -5899,9 +6043,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2024-12-19 19:02:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 19:06:57 +0000"
     },
     "done": true
   },
@@ -5914,6 +6070,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2024-12-19 19:06:57 +0000"
     },
     "done": true
   },
@@ -5947,6 +6109,42 @@
     },
     "done": true
   },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 19:06:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-19 19:06:57 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/spelunker_armor_boots": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/shulker_armor_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 19:06:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sweet_tooth_helmet": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -5968,6 +6166,12 @@
   "fwaystones:recipes/abyss_watcher": {
     "criteria": {
       "has_ender_pearl": "2024-12-19 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dancers_sword": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
     },
     "done": true
   },
@@ -5995,6 +6199,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/blackstone_witch_altar": {
     "criteria": {
       "has_item": "2024-12-19 19:01:29 +0000"
@@ -6010,6 +6220,18 @@
   "betterend:recipes/misc/copy_leather_handle_attachment": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2024-12-19 19:06:57 +0000"
     },
     "done": true
   },
@@ -6061,6 +6283,18 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -6079,6 +6313,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 19:06:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
@@ -6094,6 +6340,12 @@
   "stoneworks:recipes/building_blocks/blackstone_shingle_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2024-12-19 19:12:06 +0000"
     },
     "done": true
   },
@@ -6169,9 +6421,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
     "criteria": {
       "has_diamond_chestplate": "2024-12-19 18:59:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2024-12-19 19:04:17 +0000"
     },
     "done": true
   },
@@ -6199,6 +6463,18 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/spelunker_armor_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2024-12-19 19:02:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
@@ -6208,6 +6484,18 @@
   "magnumtorch:recipes/decorations/diamond_magnum_torch": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/whips/whip_whip": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
     },
     "done": true
   },
@@ -6223,9 +6511,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-19 19:06:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/recipe_diamond_brush": {
     "criteria": {
       "has_item": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
+    "criteria": {
+      "has_magma_block": "2024-12-19 19:03:44 +0000"
     },
     "done": true
   },
@@ -6259,6 +6565,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_meat": {
+    "criteria": {
+      "has_raw_meat": "2024-12-19 19:06:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -6268,6 +6580,18 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-19 19:06:55 +0000"
     },
     "done": true
   },
@@ -6307,9 +6631,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 19:06:57 +0000"
+    },
+    "done": true
+  },
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2024-12-19 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-19 19:04:17 +0000"
     },
     "done": true
   },
@@ -6334,6 +6670,12 @@
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2024-12-19 19:00:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2024-12-19 19:04:17 +0000"
     },
     "done": true
   },
@@ -6379,9 +6721,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bricks_fire_bowl": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
     },
     "done": true
   },
@@ -6391,15 +6751,69 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_void_touched_blade": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/whips/whip_vine_whip": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-19 19:06:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
       "has_blackstone_corner_trim": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/vanguard_armor_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_moon": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2024-12-19 19:04:17 +0000"
     },
     "done": true
   },
@@ -6415,6 +6829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 19:06:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
     "criteria": {
       "has_diamond_helmet": "2024-12-19 18:59:02 +0000"
@@ -6424,6 +6844,12 @@
   "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2024-12-19 19:06:58 +0000"
     },
     "done": true
   },
@@ -6448,6 +6874,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-19 19:04:17 +0000"
     },
     "done": true
   },
