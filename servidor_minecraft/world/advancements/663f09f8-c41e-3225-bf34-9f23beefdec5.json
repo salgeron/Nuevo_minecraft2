@@ -5507,6 +5507,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2024-12-19 22:51:10 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
@@ -5540,6 +5546,18 @@
   "mcda:recipes/base_armors/mystery_armor_blue_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-19 22:57:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2024-12-19 22:51:10 +0000"
     },
     "done": true
   },
@@ -6517,6 +6535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-19 22:57:53 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/smart_fluix_clean": {
     "criteria": {
       "has_smart_cable": "2024-12-19 21:43:53 +0000"
@@ -6562,6 +6586,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
     "criteria": {
       "has_diamond_boots": "2024-12-19 18:59:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2024-12-19 22:51:10 +0000"
     },
     "done": true
   },
@@ -6784,6 +6814,12 @@
   "soulsweapons:recipes/combat/moonlight_greatsword": {
     "criteria": {
       "has_lord_soul": "2024-12-19 19:42:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2024-12-19 22:51:10 +0000"
     },
     "done": true
   },
@@ -7453,6 +7489,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-19 22:57:48 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_auto": {
     "criteria": {
       "has_redstone": "2024-12-19 19:44:25 +0000"
@@ -7825,6 +7867,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2024-12-19 22:51:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_electrolyzer/bauxite_dust": {
     "criteria": {
       "has_bauxite_dust": "2024-12-19 20:52:33 +0000"
@@ -7993,6 +8041,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-19 22:57:53 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_pork": "2024-12-19 19:06:57 +0000"
@@ -8098,6 +8152,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2024-12-19 22:51:10 +0000"
     },
     "done": true
   },
@@ -8482,6 +8542,12 @@
   "soulsweapons:recipes/combat/frostmourne": {
     "criteria": {
       "has_item": "2024-12-19 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-19 22:57:53 +0000"
     },
     "done": true
   },
@@ -9182,6 +9248,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-19 22:57:49 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/waystone": {
     "criteria": {
       "has_item": "2024-12-19 19:01:00 +0000"
@@ -9659,7 +9731,8 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_barrel": "2024-12-19 20:10:11 +0000"
+      "opened_barrel": "2024-12-19 20:10:11 +0000",
+      "opened_chest": "2024-12-19 22:57:48 +0000"
     },
     "done": false
   },
@@ -9876,6 +9949,12 @@
   "mcdw:recipes/spears/spear_whispering_spear": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2024-12-19 22:51:10 +0000"
     },
     "done": true
   },

@@ -5877,6 +5877,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_fire_bowl": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
@@ -5889,9 +5895,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_shingle_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_candle_from_blue_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -5961,6 +5979,12 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/polished_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2024-12-19 21:49:53 +0000"
@@ -5979,9 +6003,27 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/calcite_slab": {
+    "criteria": {
+      "has_item": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_framed_yellow": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -6147,9 +6189,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2024-12-19 20:04:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -6255,6 +6309,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_paver_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_pillar_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/brown_carpet_from_black_carpet_with_orange_dye": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:10 +0000"
@@ -6300,6 +6366,12 @@
   "techreborn:recipes/industrial_grinder/netherrack_with_water": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -6431,6 +6503,12 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/apothecary_mossy": {
     "criteria": {
       "has_item": "2024-12-19 22:18:01 +0000"
@@ -6440,6 +6518,12 @@
   "techreborn:recipes/chemical_reactor/red_terracotta_from_magenta_terracotta_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -6497,9 +6581,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_plate_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_candle_from_pink_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -6572,6 +6668,12 @@
   "ae2:recipes/misc/network/cables/smart_blue": {
     "criteria": {
       "has_dyes/black": "2024-12-19 21:48:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -6677,6 +6779,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_yellow": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
@@ -6698,6 +6806,12 @@
   "betternether:recipes/decorations/quartz_glass_framed_pane_yellow": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -6767,6 +6881,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_tile_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
@@ -6785,9 +6905,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-19 22:06:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -6875,6 +7007,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_orange_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-19 22:04:10 +0000"
@@ -6884,6 +7022,12 @@
   "botania:recipes/misc/petal_light_gray": {
     "criteria": {
       "has_item": "2024-12-19 22:17:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite": {
+    "criteria": {
+      "has_item": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -6899,6 +7043,12 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/calcite_stairs": {
+    "criteria": {
+      "has_item": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-19 21:48:19 +0000"
@@ -6911,15 +7061,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/hydralux_petal_block_orange": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:10 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2024-12-19 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -6989,6 +7157,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_shingles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/lime_concrete_powder_from_cyan_concrete_powder_with_yellow_dye": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
@@ -7001,15 +7175,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-19 19:40:25 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_the_starless_night": {
     "criteria": {
       "has_crying_obsidian": "2024-12-19 19:53:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -7055,6 +7247,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2024-12-19 21:42:40 +0000"
@@ -7097,6 +7295,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2024-12-19 22:08:43 +0000"
@@ -7109,6 +7319,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_shingle_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/redstone_plate": {
     "criteria": {
       "has_redstone_block": "2024-12-19 19:49:16 +0000"
@@ -7118,6 +7334,18 @@
   "betterend:recipes/misc/hydralux_petal_block_yellow": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -7142,6 +7370,12 @@
   "botania:recipes/redstone/redstone_spreader": {
     "criteria": {
       "has_item": "2024-12-19 22:10:38 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -7187,6 +7421,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/orange_wool_from_pink_wool_with_orange_dye": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:09 +0000"
@@ -7196,6 +7436,12 @@
   "betterend:recipes/misc/iron_bulb_lantern_red": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -7307,6 +7553,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_plates_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/lime_carpet_from_light_blue_carpet_with_yellow_dye": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
@@ -7316,6 +7568,12 @@
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-19 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -7352,6 +7610,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-19 22:06:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -7409,15 +7673,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_tile_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
     "criteria": {
       "has_base": "2024-12-19 22:07:47 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_bulb_lantern_yellow": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -7436,6 +7718,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -7541,6 +7829,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_pavers_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plate_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/reinforced_glass": {
     "criteria": {
       "has_glass": "2024-12-19 22:11:41 +0000"
@@ -7571,6 +7871,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_wool_from_blue_wool_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
@@ -7580,6 +7886,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -7610,6 +7922,12 @@
   "techreborn:recipes/chemical_reactor/lime_concrete_powder_from_light_blue_concrete_powder_with_yellow_dye": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -7664,6 +7982,12 @@
   "betternether:recipes/decorations/cincinnasite_lantern": {
     "criteria": {
       "has_glowstone": "2024-12-19 21:49:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -7757,6 +8081,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_tile_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/ghostly_helmet": {
     "criteria": {
       "has_skeleton_skull": "2024-12-19 22:08:43 +0000"
@@ -7811,6 +8141,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_blue_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
@@ -7859,6 +8195,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/orange_concrete_powder_from_white_concrete_powder_with_orange_dye": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:10 +0000"
@@ -7874,6 +8216,12 @@
   "ae2:recipes/misc/network/cables/dense_covered_yellow": {
     "criteria": {
       "has_dyes/black": "2024-12-19 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall": {
+    "criteria": {
+      "has_item": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -8003,6 +8351,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/chiseled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-19 22:11:41 +0000"
@@ -8012,6 +8366,12 @@
   "twigs:recipes/bone_meal_from_seashells": {
     "criteria": {
       "has_item": "2024-12-19 22:10:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -8027,9 +8387,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_purple": {
     "criteria": {
       "has_item": "2024-12-19 22:17:53 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plate_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -8048,6 +8420,12 @@
   "techreborn:recipes/chemical_reactor/red_stained_glass_from_orange_stained_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -8207,6 +8585,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/orange_concrete_powder_from_yellow_concrete_powder_with_orange_dye": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:09 +0000"
@@ -8246,6 +8630,12 @@
   "techreborn:recipes/extractor/string_from_banner": {
     "criteria": {
       "has_banner": "2024-12-19 20:04:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
@@ -8345,6 +8735,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/tined_glass_from_smaragdant": {
     "criteria": {
       "has_glass": "2024-12-19 22:11:41 +0000"
@@ -8393,6 +8789,24 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2024-12-19 22:04:17 +0000"
@@ -8414,6 +8828,12 @@
   "techreborn:recipes/chemical_reactor/orange_stained_glass_pane_from_yellow_stained_glass_pane_with_orange_dye": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:09 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-19 22:52:59 +0000"
     },
     "done": true
   },
