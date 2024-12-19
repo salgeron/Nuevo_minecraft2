@@ -2760,3 +2760,16 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:44:37] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
 [19:44:41] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
 [19:45:29] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[19:48:18] [Server thread/INFO]: [salgeron: Successfully filled 518 block(s)]
+[19:48:47] [Server thread/INFO]: [salgeron: Successfully filled 362 block(s)]
+[19:49:03] [Server thread/INFO]: [salgeron: Successfully filled 277 block(s)]
+[19:49:38] [Server thread/INFO]: [salgeron: Successfully filled 185 block(s)]
+[19:49:50] [Server thread/INFO]: [salgeron: Successfully filled 185 block(s)]
+[19:50:27] [Server thread/INFO]: [salgeron: Successfully filled 189 block(s)]
+[19:51:36] [Server thread/INFO]: [salgeron: Successfully filled 99 block(s)]
+[19:53:22] [Server thread/INFO]: Irinasan24 has made the advancement [Who is Cutting Onions?]
+[19:54:03] [Server thread/INFO]: No return portal found
+[19:54:03] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[19:54:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[19:56:30] [Server thread/INFO]: Villager class_1646['Andre'/35287, l='ServerLevel[world]', x=256.70, y=72.00, z=628.10] died, message: 'Andre was slain by Ghoul'
+[19:56:30] [Server thread/INFO]: Named entity class_1646['Andre'/35287, l='ServerLevel[world]', x=256.70, y=72.00, z=628.10] died: Andre was slain by Ghoul
