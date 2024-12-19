@@ -5489,9 +5489,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_bowl_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -5528,6 +5540,12 @@
   "mcda:recipes/base_armors/mystery_armor_blue_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -5640,6 +5658,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-19 22:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -5688,6 +5712,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/silver_helmet": {
     "criteria": {
       "has_silver_ingot": "2024-12-19 21:33:08 +0000"
@@ -5709,6 +5739,12 @@
   "techreborn:recipes/misc/crafting_table/armor/bronze_chestplate": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2024-12-19 21:22:54 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -5754,6 +5790,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:main/root": {
     "criteria": {
       "entered_nether": "2024-12-19 19:00:41 +0000"
@@ -5763,6 +5805,12 @@
   "techreborn:recipes/crafting_table/cable/copper_cable": {
     "criteria": {
       "has_copper_ingot": "2024-12-19 21:25:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_wall": {
+    "criteria": {
+      "has_item": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -5787,6 +5835,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -5839,6 +5893,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/polished_tuff": {
+    "criteria": {
+      "has_item": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -5869,6 +5929,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/ghostly_leggings": {
     "criteria": {
       "has_leather": "2024-12-19 19:06:58 +0000"
@@ -5884,6 +5950,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 22:14:07 +0000"
     },
     "done": true
   },
@@ -5938,6 +6010,12 @@
   "croptopia:recipes/misc/knife": {
     "criteria": {
       "has_iron": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -6031,6 +6109,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_shingle_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/black_dye_from_dorcel": {
     "criteria": {
       "has_dorcel": "2024-12-19 19:01:06 +0000"
@@ -6070,6 +6154,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -6121,6 +6211,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2024-12-19 22:08:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/leviathan_axe_right": {
     "criteria": {
       "has_item": "2024-12-19 19:42:00 +0000"
@@ -6142,6 +6244,12 @@
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plates_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -6211,9 +6319,21 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-19 22:14:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2024-12-19 21:33:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -6247,6 +6367,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-12-19 22:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-19 19:44:25 +0000"
@@ -6271,6 +6397,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_material": "2024-12-19 18:59:32 +0000"
@@ -6280,6 +6412,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_paver_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -6421,15 +6559,33 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/polished_tuff_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/industrial_grinder": {
     "criteria": {
       "has_industrial_electrolyzer": "2024-12-19 20:53:14 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-19 22:14:07 +0000"
     },
     "done": true
   },
@@ -6466,6 +6622,18 @@
   "mcdw:recipes/crossbows/crossbow_harpoon_crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_stairs": {
+    "criteria": {
+      "has_item": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 22:14:07 +0000"
     },
     "done": true
   },
@@ -6514,6 +6682,12 @@
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2024-12-19 21:28:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -6568,6 +6742,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -6715,6 +6895,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/spelunker_armor_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -6757,6 +6943,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/tuff_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_redstone_block": "2024-12-19 19:14:08 +0000"
@@ -6772,6 +6964,24 @@
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-12-19 22:14:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-12-19 22:14:07 +0000"
     },
     "done": true
   },
@@ -6895,6 +7105,12 @@
     },
     "done": false
   },
+  "mcda:recipes/crafting_items/gemstone_blue": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 22:14:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2024-12-19 21:25:05 +0000"
@@ -6952,6 +7168,12 @@
   "copycats:recipes/misc/stonecutting/copycat_light_weighted_pressure_plate": {
     "criteria": {
       "has_item": "2024-12-19 21:28:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -7105,6 +7327,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "alloy_forgery:recipes/alloy_forgery/copper_block": {
     "criteria": {
       "has_the_recipe": "2024-12-19 21:25:05 +0000"
@@ -7165,6 +7393,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_shingle_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_stone_button": {
     "criteria": {
       "has_item": "2024-12-19 21:28:28 +0000"
@@ -7219,9 +7453,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 22:14:07 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-19 22:14:07 +0000"
     },
     "done": true
   },
@@ -7246,6 +7492,18 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -7288,6 +7546,18 @@
   "techreborn:recipes/crafting_table/parts/neutron_reflector": {
     "criteria": {
       "has_copper_plate": "2024-12-19 21:26:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 22:14:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_paver_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -7381,6 +7651,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sweet_tooth_helmet": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -7429,6 +7705,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/combat/athame": {
     "criteria": {
       "has_item": "2024-12-19 21:33:08 +0000"
@@ -7438,6 +7720,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -7465,6 +7753,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_shingles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
@@ -7486,6 +7780,12 @@
   "indrev:enriched_nikolite_dust": {
     "criteria": {
       "checkInv": "2024-12-19 21:37:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -7555,6 +7855,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/jar": {
     "criteria": {
       "has_glass": "2024-12-19 21:02:32 +0000"
@@ -7588,6 +7894,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -7795,6 +8107,12 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/moai": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2024-12-19 18:59:02 +0000"
@@ -7849,6 +8167,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/titanium_ingot_from_small_dust": {
     "criteria": {
       "has_small_titanium_dust": "2024-12-19 21:07:24 +0000"
@@ -7858,6 +8182,12 @@
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-19 21:04:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -8059,6 +8389,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
     "criteria": {
       "has_rubber_log": "2024-12-19 21:31:43 +0000"
@@ -8071,9 +8407,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-19 21:39:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -8209,6 +8557,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:refinediron": {
     "criteria": {
       "crit_0": "2024-12-19 20:38:57 +0000"
@@ -8258,6 +8612,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -8285,6 +8645,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_slab": {
+    "criteria": {
+      "has_item": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -8321,6 +8687,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/copper_nugget": {
     "criteria": {
       "has_copper_ingot": "2024-12-19 21:25:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -8408,9 +8780,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_paver_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2024-12-19 22:08:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_pillar_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -8432,9 +8828,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_pavers_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -8465,6 +8873,12 @@
   "copycats:recipes/misc/stonecutting/copycat_fence_gate": {
     "criteria": {
       "has_item": "2024-12-19 21:28:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -8567,6 +8981,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-19 21:48:41 +0000"
+    },
+    "done": true
+  },
+  "indrev:enriched_nikolite_ingot": {
+    "criteria": {
+      "checkInv": "2024-12-19 22:20:37 +0000"
     },
     "done": true
   },
@@ -8708,6 +9128,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/advanced_circuit": {
+    "criteria": {
+      "has_electrum_plate": "2024-12-19 22:09:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/bronze_pickaxe": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2024-12-19 21:22:54 +0000"
@@ -8816,6 +9242,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_plate_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/thief_armor_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -8855,6 +9287,12 @@
   "techreborn:recipes/crafting_table/cable/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2024-12-19 20:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 22:14:07 +0000"
     },
     "done": true
   },
@@ -8930,6 +9368,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "beachparty:radio": {
     "criteria": {
       "has_redstone": "2024-12-19 19:44:25 +0000",
@@ -8988,6 +9432,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/tin_storage_block": {
     "criteria": {
       "has_tin_ingot": "2024-12-19 20:54:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_shingle_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -9060,6 +9510,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-19 20:20:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -9201,6 +9657,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -9249,6 +9711,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2024-12-19 19:04:17 +0000"
@@ -9294,6 +9762,12 @@
   "mcda:recipes/base_armors/dark_armor_helmet": {
     "criteria": {
       "has_redstone_block": "2024-12-19 19:14:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -9417,6 +9891,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/assembling_machine": {
+    "criteria": {
+      "has_electrum_plate": "2024-12-19 22:09:43 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_rail": {
     "criteria": {
       "has_copper_block": "2024-12-19 19:44:25 +0000"
@@ -9444,6 +9924,12 @@
   "techreborn:recipes/misc/crafting_table/armor/bronze_boots": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2024-12-19 21:22:54 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -9492,6 +9978,12 @@
   "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2024-12-19 21:25:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -9570,6 +10062,12 @@
   "soulsweapons:recipes/combat/draupnir_spear": {
     "criteria": {
       "has_item": "2024-12-19 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -9921,6 +10419,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "indrev:nikolite_ingot": {
     "criteria": {
       "checkInv": "2024-12-19 21:33:29 +0000"
@@ -9933,6 +10437,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-19 22:14:54 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
@@ -9942,6 +10452,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-12-19 21:25:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
@@ -9999,6 +10515,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 22:14:07 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/brewing/tag_cauldron": {
     "criteria": {
       "has_tag_c_iron_ingots": "2024-12-19 20:38:27 +0000"
@@ -10026,6 +10548,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-19 21:06:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-12-19 22:14:54 +0000"
     },
     "done": true
   },
