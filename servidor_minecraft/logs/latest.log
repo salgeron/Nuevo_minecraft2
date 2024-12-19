@@ -3806,3 +3806,9 @@ java.lang.ArrayIndexOutOfBoundsException: Index 9 out of bounds for length 9
 [21:47:31] [Server thread/INFO]: <salgeron> esque no tengo ya casi cosas
 [21:50:47] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
 [21:52:23] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[22:00:58] [Server thread/INFO]: salgeron has made the advancement [Voluntary Exile]
+[22:01:08] [Server thread/INFO]: <salgeron> ./gamemode survival
+[22:01:24] [Server thread/INFO]: [Irinasan24: Set own game mode to Survival Mode]
+[22:01:51] [Server thread/INFO]: [Irinasan24: Set own game mode to Creative Mode]
+[22:04:58] [Server thread/INFO]: [Irinasan24: Set own game mode to Survival Mode]
+[22:08:27] [Server thread/INFO]: Irinasan24 has made the advancement [Isn't It Iron Pick]

@@ -2166,6 +2166,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-19 22:00:58 +0000",
       "minecraft:skeleton": "2024-12-14 23:13:28 +0000",
       "minecraft:hoglin": "2024-12-19 19:02:05 +0000",
       "minecraft:spider": "2024-12-15 13:34:16 +0000",
@@ -7833,6 +7834,12 @@
   "mcdw:recipes/shields/shield_royal_guard": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-19 22:00:58 +0000"
     },
     "done": true
   },
