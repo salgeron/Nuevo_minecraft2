@@ -5926,6 +5926,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-19 23:24:07 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/iron_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -7493,6 +7499,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_fluix": {
+    "criteria": {
+      "has_quartz_fiber": "2024-12-19 23:24:42 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-19 22:14:54 +0000"
@@ -8621,6 +8633,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/pattern_providers_interface_part": {
+    "criteria": {
+      "has_pattern_provider": "2024-12-19 23:25:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/electrum_storage_block": {
     "criteria": {
       "has_electrum_ingot": "2024-12-19 21:44:31 +0000"
@@ -8990,6 +9008,12 @@
   "copycats:recipes/misc/stonecutting/copycat_vertical_stairs": {
     "criteria": {
       "has_item": "2024-12-19 21:28:28 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/network/mega_pattern_provider": {
+    "criteria": {
+      "has_pattern_provider": "2024-12-19 23:25:36 +0000"
     },
     "done": true
   },
@@ -10580,6 +10604,12 @@
     },
     "done": true
   },
+  "ae2:main/storage_bus": {
+    "criteria": {
+      "part": "2024-12-19 23:26:02 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
     "criteria": {
       "has_amethyst_shard": "2024-12-19 23:11:43 +0000"
@@ -10661,6 +10691,12 @@
   "betternether:recipes/decorations/netherrack_furnace": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals_pattern_access": {
+    "criteria": {
+      "has_pattern_provider": "2024-12-19 23:25:36 +0000"
     },
     "done": true
   },
@@ -11327,6 +11363,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_lava_bucket": {
+    "criteria": {
+      "has_lava_bucket": "2024-12-19 23:24:07 +0000"
     },
     "done": true
   },

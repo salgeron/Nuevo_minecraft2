@@ -5811,6 +5811,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/brazier": {
     "criteria": {
       "has_bar": "2024-12-19 22:08:43 +0000"
@@ -5865,6 +5871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
@@ -5910,6 +5922,12 @@
   "stoneworks:recipes/building_blocks/mossy_calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -6051,6 +6069,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/floating_endoflame": {
     "criteria": {
       "has_item": "2024-12-19 22:15:29 +0000"
@@ -6069,6 +6093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-19 22:06:21 +0000"
@@ -6078,6 +6108,12 @@
   "minecraft:recipes/decorations/orange_candle": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:09 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/stone_witch_altar": {
+    "criteria": {
+      "has_item": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -6177,6 +6213,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-19 22:06:21 +0000"
@@ -6207,9 +6249,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_cyan": {
     "criteria": {
       "has_item": "2024-12-19 22:17:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -6249,6 +6303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 23:22:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/food/stalagnate_bowl_mushroom": {
     "criteria": {
       "has_brown_mushroom": "2024-12-19 22:10:44 +0000"
@@ -6276,6 +6336,18 @@
   "techreborn:recipes/chemical_reactor/lime_stained_glass_from_light_blue_stained_glass_with_yellow_dye": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -6324,6 +6396,12 @@
   "techreborn:recipes/chemical_reactor/brown_carpet_from_black_carpet_with_orange_dye": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -6411,6 +6489,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/vertical_framed_glass_from_colorless_glass_stonecutting": {
     "criteria": {
       "has_colorless_glass": "2024-12-19 22:11:41 +0000"
@@ -6420,6 +6504,12 @@
   "techreborn:recipes/chemical_reactor/orange_wool_from_yellow_wool_with_orange_dye": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:09 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -6447,6 +6537,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_plate_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/gray_dye_from_dead_horn_coral": {
     "criteria": {
       "has_dead_horn_coral": "2024-12-19 22:07:05 +0000"
@@ -6456,6 +6552,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2024-12-19 22:10:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -6500,6 +6602,12 @@
   "techreborn:recipes/extractor/paper_from_enchanted_book": {
     "criteria": {
       "has_enchanted_book": "2024-12-19 22:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 23:22:26 +0000"
     },
     "done": true
   },
@@ -6587,6 +6695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_candle_from_pink_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
@@ -6617,6 +6731,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-19 22:11:41 +0000"
@@ -6644,6 +6764,18 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -6851,6 +6983,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_heavy": {
     "criteria": {
       "has_base": "2024-12-19 22:07:05 +0000"
@@ -6878,6 +7016,12 @@
   "mcdw:recipes/crossbows/crossbow_doom_crossbow": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-19 21:48:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -6923,9 +7067,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-19 21:48:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -7139,6 +7295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 23:22:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/anchor_tree_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2024-12-19 21:42:40 +0000"
@@ -7166,6 +7328,12 @@
   "techreborn:recipes/chemical_reactor/lime_concrete_powder_from_cyan_concrete_powder_with_yellow_dye": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 23:22:26 +0000"
     },
     "done": true
   },
@@ -7199,6 +7367,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_calcite_brick_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-19 22:52:59 +0000"
@@ -7220,6 +7394,18 @@
   "betternether:recipes/building_blocks/quartz_glass_framed_red": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -7271,6 +7457,12 @@
     },
     "done": true
   },
+  "bclib:recipes/decorations/tag_stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/mushroom_fir_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2024-12-19 21:42:40 +0000"
@@ -7280,6 +7472,12 @@
   "techreborn:recipes/chemical_reactor/yellow_stained_glass_from_glass_with_yellow_dye": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -7385,6 +7583,12 @@
     },
     "done": true
   },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 23:22:26 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_crafting_table": "2024-12-19 21:43:43 +0000"
@@ -7421,6 +7625,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/stone_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-19 22:52:59 +0000"
@@ -7439,9 +7649,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 23:22:26 +0000"
     },
     "done": true
   },
@@ -7460,6 +7682,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-19 22:06:21 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -7526,6 +7754,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-19 22:06:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -7745,6 +7979,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/stone_column": {
+    "criteria": {
+      "has_item": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_concrete_powder_from_pink_concrete_powder_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
@@ -7811,6 +8051,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-12-19 19:49:16 +0000"
@@ -7835,9 +8081,27 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/stone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_plate_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -7931,6 +8195,12 @@
     },
     "done": true
   },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 23:22:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_pane_orange": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:09 +0000"
@@ -7997,6 +8267,18 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/stone_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/yellow_bed_from_wool": {
     "criteria": {
       "has_yellow_dye": "2024-12-19 22:04:17 +0000"
@@ -8051,9 +8333,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_kiln": {
     "criteria": {
       "has_copper_block": "2024-12-19 22:11:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -8105,9 +8399,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2024-12-19 22:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -8183,6 +8489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_stained_glass_pane_from_magenta_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
@@ -8234,6 +8546,12 @@
   "techreborn:recipes/chemical_reactor/red_concrete_powder_from_white_concrete_powder_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 23:22:26 +0000"
     },
     "done": true
   },
@@ -8321,6 +8639,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_stained_glass_from_pink_stained_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2024-12-19 22:04:21 +0000"
@@ -8345,6 +8669,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cashew_chicken": {
     "criteria": {
       "has_cooked_chicken": "2024-12-19 22:19:51 +0000"
@@ -8366,6 +8696,12 @@
   "twigs:recipes/bone_meal_from_seashells": {
     "criteria": {
       "has_item": "2024-12-19 22:10:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -8597,6 +8933,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/omni_tool": {
     "criteria": {
       "has_advanced_chainsaw": "2024-12-19 21:53:25 +0000"
@@ -8651,6 +8993,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_orange": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:10 +0000"
@@ -8684,6 +9032,12 @@
   "techreborn:recipes/chemical_reactor/brown_stained_glass_pane_from_black_stained_glass_pane_with_orange_dye": {
     "criteria": {
       "has_orange_dye": "2024-12-19 22:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -8783,15 +9137,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_chest": "2024-12-19 21:42:40 +0000"
     },
     "done": true
   },
+  "justhammers:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_material": "2024-12-19 23:24:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_calcite_corner_trim": "2024-12-19 22:52:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -8822,6 +9194,12 @@
   "botania:main/generating_flower": {
     "criteria": {
       "flower": "2024-12-19 22:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-19 23:24:36 +0000"
     },
     "done": true
   },
@@ -8864,6 +9242,12 @@
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2024-12-19 22:19:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_wall_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 23:22:26 +0000"
     },
     "done": true
   },
