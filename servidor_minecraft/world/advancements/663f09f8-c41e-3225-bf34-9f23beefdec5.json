@@ -5465,7 +5465,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-12-15 16:23:15 +0000"
+      "apple": "2024-12-15 16:23:15 +0000",
+      "cooked_chicken": "2024-12-19 21:41:39 +0000"
     },
     "done": false
   },
@@ -5623,6 +5624,12 @@
   "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-19 21:41:36 +0000"
     },
     "done": true
   },
@@ -5921,6 +5928,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/electrum_small_dust_from_dust": {
+    "criteria": {
+      "has_electrum_dust": "2024-12-19 21:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-19 19:06:57 +0000"
@@ -6032,6 +6045,12 @@
   "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
       "has_redstone_block": "2024-12-19 19:14:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/electrum_dust": {
+    "criteria": {
+      "has_electrum_dust": "2024-12-19 21:42:35 +0000"
     },
     "done": true
   },
@@ -6167,6 +6186,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/electrum_ingot_from_c_electrum_dusts": {
+    "criteria": {
+      "has_tag_c_electrum_dusts": "2024-12-19 21:42:35 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/comet_spear": {
     "criteria": {
       "has_item": "2024-12-19 19:42:00 +0000"
@@ -6257,6 +6282,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/electrum_nugget": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-19 21:44:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/iron_gate": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -6302,6 +6333,12 @@
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_fluix_clean": {
+    "criteria": {
+      "has_smart_cable": "2024-12-19 21:43:53 +0000"
     },
     "done": true
   },
@@ -6797,6 +6834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-19 21:39:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/horizontal_framed_glass_from_colorless_glass_stonecutting": {
     "criteria": {
       "has_colorless_glass": "2024-12-19 21:02:32 +0000"
@@ -6893,6 +6936,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2024-12-19 21:40:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -6974,6 +7023,12 @@
   "techreborn:recipes/misc/crafting_table/small_dust/diamond_small_dust_from_dust": {
     "criteria": {
       "has_diamond_dust": "2024-12-19 21:36:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cooked_meat": {
+    "criteria": {
+      "has_cooked_meat": "2024-12-19 21:41:36 +0000"
     },
     "done": true
   },
@@ -7427,6 +7482,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/electrum_plate": {
+    "criteria": {
+      "has_tag_c_electrum_ingots": "2024-12-19 21:44:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/jar": {
     "criteria": {
       "has_glass": "2024-12-19 21:02:32 +0000"
@@ -7484,6 +7545,12 @@
   "betterend:recipes/misc/copy_leather_handle_attachment": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_silver": {
+    "criteria": {
+      "has_raw_silver_ores": "2024-12-19 21:40:31 +0000"
     },
     "done": true
   },
@@ -7577,6 +7644,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/electrum_storage_block": {
+    "criteria": {
+      "has_electrum_ingot": "2024-12-19 21:44:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
     "criteria": {
       "has_refined_iron_ingot": "2024-12-19 20:38:57 +0000"
@@ -7634,6 +7707,12 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/electrum_dust": {
+    "criteria": {
+      "has_tag_c_electrum_ingots": "2024-12-19 21:44:31 +0000"
     },
     "done": true
   },
@@ -7910,6 +7989,12 @@
   "techreborn:recipes/crafting_table/machine/diesel_generator": {
     "criteria": {
       "has_solid_fuel_generator": "2024-12-19 20:55:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-19 21:39:25 +0000"
     },
     "done": true
   },
@@ -8256,6 +8341,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-19 21:40:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
     "criteria": {
       "has_diamond_chestplate": "2024-12-19 18:59:33 +0000"
@@ -8520,6 +8611,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/electrum_ingot_from_c_electrum_dusts": {
+    "criteria": {
+      "has_tag_c_electrum_dusts": "2024-12-19 21:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
@@ -8700,9 +8797,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-19 21:39:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-19 21:41:36 +0000"
     },
     "done": true
   },
@@ -8776,6 +8885,12 @@
   "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
     "criteria": {
       "has_item": "2024-12-19 21:28:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2024-12-19 21:40:31 +0000"
     },
     "done": true
   },
@@ -8989,6 +9104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-19 21:39:25 +0000"
+    },
+    "done": true
+  },
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2024-12-19 19:00:41 +0000"
@@ -9022,6 +9143,12 @@
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-19 21:41:36 +0000"
     },
     "done": true
   },
@@ -9718,6 +9845,12 @@
   "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-19 21:41:36 +0000"
     },
     "done": true
   },
