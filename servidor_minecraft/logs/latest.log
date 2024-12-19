@@ -3747,3 +3747,39 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[21:10:47] [Server thread/ERROR]: Error executing task on Server
+java.lang.ArrayIndexOutOfBoundsException: Index 9 out of bounds for length 9
+	at java.util.Arrays$ArrayList.set(Arrays.java:4170) ~[?:?]
+	at net.minecraft.util.collection.DefaultedList.set(DefaultedList.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.inventory.CraftingInventory.setStack(CraftingInventory.java:67) ~[server-intermediary.jar:?]
+	at appeng.menu.slot.AppEngCraftingSlot.onTakeItem(AppEngCraftingSlot.java:91) ~[appliedenergistics2-fabric-15.2.12.jar:?]
+	at appeng.menu.slot.CraftingTermSlot.makeItem(CraftingTermSlot.java:255) ~[appliedenergistics2-fabric-15.2.12.jar:?]
+	at appeng.menu.slot.CraftingTermSlot.craftItem(CraftingTermSlot.java:239) ~[appliedenergistics2-fabric-15.2.12.jar:?]
+	at appeng.menu.slot.CraftingTermSlot.doClick(CraftingTermSlot.java:111) ~[appliedenergistics2-fabric-15.2.12.jar:?]
+	at appeng.menu.AEBaseMenu.doAction(AEBaseMenu.java:561) ~[appliedenergistics2-fabric-15.2.12.jar:?]
+	at appeng.core.sync.packets.InventoryActionPacket.serverPacketData(InventoryActionPacket.java:93) ~[appliedenergistics2-fabric-15.2.12.jar:?]
+	at appeng.core.sync.network.ServerNetworkHandler.lambda$handlePacketFromClient$3(ServerNetworkHandler.java:82) ~[appliedenergistics2-fabric-15.2.12.jar:?]
+	at net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:743) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:12:11] [Server thread/INFO]: Irinasan24 has made the advancement [The Secrets of Enchanting]
+[21:12:18] [Server thread/INFO]: Irinasan24 has made the advancement [Local Librarian]
+[21:15:06] [Server thread/INFO]: salgeron has completed the challenge [Ultimate clean energy]
+[21:18:47] [Server thread/INFO]: salgeron has made the advancement [It's Getting Dusty]
+[21:24:02] [Server thread/INFO]: <salgeron> vaya puta mierda de crafteos
+[21:24:08] [Server thread/INFO]: <salgeron> tardan la vida
+[21:24:24] [Server thread/INFO]: <salgeron> encima se calientan las maquinas
+[21:24:36] [Server thread/INFO]: <salgeron> hay algunas que se calientan
+[21:24:43] [Server thread/INFO]: <salgeron> si
+[21:24:57] [Server thread/INFO]: <salgeron> jodernos y aguantarnos
+[21:26:35] [Server thread/INFO]: salgeron has made the advancement [Better Furnace]
