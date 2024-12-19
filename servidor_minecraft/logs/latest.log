@@ -4288,3 +4288,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:50:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
 [22:57:48] [Server thread/INFO]: salgeron has made the advancement ['X' Marks the Spot]
 [22:57:49] [Server thread/INFO]: salgeron has made the advancement [Amateur Archaeologist]
+[23:04:55] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=962, y=17, z=664}
+[23:04:55] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=962, y=17, z=666}
+[23:06:20] [Server thread/INFO]: salgeron has made the advancement [Into Darkness]
+[23:09:13] [Server thread/INFO]: salgeron has made the advancement [Taking from the Dead]
+[23:09:18] [Server thread/INFO]: salgeron has made the advancement [Source of Evil]
