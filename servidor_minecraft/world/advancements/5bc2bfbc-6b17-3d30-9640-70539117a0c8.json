@@ -6539,6 +6539,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/sakura/planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 22:34:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:45:05 +0000"
@@ -6800,6 +6806,12 @@
   "smallships:recipes/combat/cannon": {
     "criteria": {
       "has_ship": "2024-12-19 21:54:08 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quartz_pedestal": {
+    "criteria": {
+      "has_quartz_pillar": "2024-12-19 22:36:25 +0000"
     },
     "done": true
   },

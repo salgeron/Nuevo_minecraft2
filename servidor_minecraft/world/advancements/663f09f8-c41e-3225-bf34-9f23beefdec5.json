@@ -8515,6 +8515,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/advanced_alloy_ingot_from_c_mixed_metal_ingots": {
+    "criteria": {
+      "has_tag_c_mixed_metal_ingots": "2024-12-19 22:33:34 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/carbon_fiber": {
     "criteria": {
       "has_coal_dust": "2024-12-19 20:20:45 +0000"
@@ -9239,6 +9245,12 @@
   "soulsweapons:recipes/combat/withered_chest": {
     "criteria": {
       "has_item": "2024-12-19 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/advanced_alloy_ingot_from_c_mixed_metal_ingots": {
+    "criteria": {
+      "has_tag_c_mixed_metal_ingots": "2024-12-19 22:33:34 +0000"
     },
     "done": true
   },
