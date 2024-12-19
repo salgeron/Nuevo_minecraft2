@@ -5538,6 +5538,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 19:14:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-19 19:06:58 +0000"
@@ -5716,6 +5722,12 @@
   "mcdw:recipes/bows/bow_hunters_promise": {
     "criteria": {
       "has_leather": "2024-12-19 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 19:14:08 +0000"
     },
     "done": true
   },
@@ -5932,6 +5944,12 @@
   "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 19:14:08 +0000"
     },
     "done": true
   },
@@ -6181,6 +6199,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2024-12-19 19:20:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-19 19:00:41 +0000"
@@ -6232,6 +6256,12 @@
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_pork": "2024-12-19 19:06:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/redstone_plate": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 19:14:08 +0000"
     },
     "done": true
   },
@@ -6436,6 +6466,12 @@
   "ae2:recipes/misc/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 19:14:08 +0000"
     },
     "done": true
   },
@@ -6691,6 +6727,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/dark_armor_helmet": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 19:14:08 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -6727,6 +6769,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/implosion_compressor/red_garnet_dust": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 19:14:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_dark": {
     "criteria": {
       "has_item": "2024-12-19 19:04:17 +0000"
@@ -6760,6 +6808,12 @@
   "botania:recipes/misc/quartz_sunny": {
     "criteria": {
       "has_item": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/sphalerite_small_dust_from_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2024-12-19 19:20:54 +0000"
     },
     "done": true
   },
@@ -6904,6 +6958,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/diamond_nugget": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/longbows/bow_red_snake": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 19:14:08 +0000"
     },
     "done": true
   },
