@@ -5499,6 +5499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tile_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
@@ -5734,6 +5740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
     "criteria": {
       "has_the_recipe": "2024-12-19 18:59:32 +0000",
@@ -5810,6 +5822,12 @@
   "mcda:recipes/base_armors/piglin_armor_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/dust/titanium_dust_from_small": {
+    "criteria": {
+      "has_titanium_small_dust": "2024-12-19 21:07:24 +0000"
     },
     "done": true
   },
@@ -5903,6 +5921,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
       "has_ender_pearl": "2024-12-19 19:01:00 +0000"
@@ -5924,6 +5948,12 @@
   "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
       "has_redstone_block": "2024-12-19 19:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
     },
     "done": true
   },
@@ -6089,6 +6119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_swift_striker": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
@@ -6140,6 +6176,12 @@
   "techreborn:recipes/misc/blasting/refined_iron_ingot_from_iron_ingot": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
     },
     "done": true
   },
@@ -6215,9 +6257,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2024-12-19 21:02:32 +0000"
     },
     "done": true
   },
@@ -6419,6 +6473,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
     "criteria": {
       "has_lead_ingot": "2024-12-19 20:57:38 +0000"
@@ -6479,6 +6545,12 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/netherite_candelabra": {
     "criteria": {
       "has_item": "2024-12-19 20:25:24 +0000"
@@ -6506,6 +6578,12 @@
   "soulsweapons:recipes/combat/master_sword": {
     "criteria": {
       "has_lord_soul": "2024-12-19 19:42:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2024-12-19 21:02:32 +0000"
     },
     "done": true
   },
@@ -6665,6 +6743,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/aluminum_ingot": {
+    "criteria": {
+      "has_aluminum_dust": "2024-12-19 21:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-19 18:59:32 +0000"
@@ -6686,6 +6770,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
+    "criteria": {
+      "has_lead_plate": "2024-12-19 21:01:01 +0000"
     },
     "done": true
   },
@@ -6881,6 +6971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_dancers_sword": {
     "criteria": {
       "has_leather": "2024-12-19 19:06:58 +0000"
@@ -6941,6 +7037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_shovel_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2024-12-19 18:59:32 +0000"
@@ -6968,6 +7070,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2024-12-19 19:40:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
     },
     "done": true
   },
@@ -7055,6 +7163,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/prismaglass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:lord_soul": {
     "criteria": {
       "soul": "2024-12-19 19:41:59 +0000"
@@ -7091,6 +7205,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 21:06:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/lead_plate": {
     "criteria": {
       "has_tag_c_lead_ingots": "2024-12-19 20:57:38 +0000"
@@ -7100,6 +7220,12 @@
   "mcda:recipes/base_armors/dark_armor_leggings": {
     "criteria": {
       "has_netherite_scrap": "2024-12-19 20:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
     },
     "done": true
   },
@@ -7160,6 +7286,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/titanium_ingot_from_small_dust": {
+    "criteria": {
+      "has_small_titanium_dust": "2024-12-19 21:07:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-19 21:04:39 +0000"
     },
     "done": true
   },
@@ -7226,6 +7364,18 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 21:06:14 +0000"
     },
     "done": true
   },
@@ -7470,6 +7620,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-19 21:04:39 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_chandelier": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -7479,6 +7635,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
     },
     "done": true
   },
@@ -7503,6 +7665,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-19 19:00:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/advanced_alloy_storage_block": {
+    "criteria": {
+      "has_advanced_alloy_ingot": "2024-12-19 21:03:09 +0000"
     },
     "done": true
   },
@@ -7545,6 +7713,12 @@
   "techreborn:recipes/misc/smelting/refined_iron_ingot_from_iron_ingot": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
     },
     "done": true
   },
@@ -7641,6 +7815,12 @@
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2024-12-19 19:02:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass": {
+    "criteria": {
+      "has_lead_plate": "2024-12-19 21:01:01 +0000"
     },
     "done": true
   },
@@ -7788,6 +7968,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-12-19 21:04:39 +0000"
+    },
+    "done": true
+  },
   "techreborn:generator": {
     "criteria": {
       "crit_0": "2024-12-19 20:55:44 +0000"
@@ -7924,6 +8110,12 @@
   "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
     },
     "done": true
   },
@@ -8083,6 +8275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 21:06:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -8122,6 +8320,12 @@
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2024-12-19 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
     },
     "done": true
   },
@@ -8245,6 +8449,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/advanced_alloy_plate": {
+    "criteria": {
+      "has_tag_c_advanced_alloy_ingots": "2024-12-19 21:03:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -8290,6 +8500,12 @@
   "techreborn:recipes/misc/crafting_table/small_dust/sphalerite_small_dust_from_dust": {
     "criteria": {
       "has_sphalerite_dust": "2024-12-19 19:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
     },
     "done": true
   },
@@ -8356,6 +8572,12 @@
   "soulsweapons:recipes/combat/draupnir_spear": {
     "criteria": {
       "has_item": "2024-12-19 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2024-12-19 21:02:32 +0000"
     },
     "done": true
   },
@@ -8479,6 +8701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/refined_iron_plate": {
     "criteria": {
       "has_tag_c_refined_iron_ingots": "2024-12-19 20:38:57 +0000"
@@ -8521,6 +8749,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-19 19:04:17 +0000"
@@ -8542,6 +8776,12 @@
   "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
     "criteria": {
       "has_tag_c_bauxite_ores": "2024-12-19 20:46:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_box": {
+    "criteria": {
+      "has_glass": "2024-12-19 21:02:32 +0000"
     },
     "done": true
   },
@@ -8647,6 +8887,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2024-12-19 21:02:32 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/brewing/tag_cauldron": {
     "criteria": {
       "has_tag_c_iron_ingots": "2024-12-19 20:38:27 +0000"
@@ -8662,6 +8908,12 @@
   "transmog:recipes/misc/transmogrification_table": {
     "criteria": {
       "has_item": "2024-12-19 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 21:06:14 +0000"
     },
     "done": true
   },
