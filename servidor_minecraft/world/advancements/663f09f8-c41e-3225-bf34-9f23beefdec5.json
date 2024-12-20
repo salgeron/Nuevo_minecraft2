@@ -6245,6 +6245,12 @@
     },
     "done": true
   },
+  "vinery:recipes/flower_box": {
+    "criteria": {
+      "has_podzol": "2024-12-20 00:39:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2024-12-19 18:59:32 +0000"

@@ -572,3 +572,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [00:15:34] [Server thread/INFO]: salgeron has reached the goal [Round And Round It Goes]
 [00:20:36] [Server thread/INFO]: salgeron has made the advancement [Nectar of the Tree]
+[00:41:18] [Server thread/INFO]: salgeron lost connection: Disconnected
+[00:41:18] [Server thread/INFO]: salgeron left the game
+[00:41:18] [Server thread/INFO]: remove player wand
+[00:41:18] [Server thread/INFO]: Updating all forceload tickets for 663f09f8-c41e-3225-bf34-9f23beefdec5
+[00:41:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:41:30] [Server thread/INFO]: close<--[HERE]
