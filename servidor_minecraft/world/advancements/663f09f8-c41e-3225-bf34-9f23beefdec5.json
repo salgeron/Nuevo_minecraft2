@@ -11408,6 +11408,12 @@
     },
     "done": true
   },
+  "techreborn:industrialcentrifuge": {
+    "criteria": {
+      "crit_0": "2024-12-20 00:15:34 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_electrolyzer/bone_meal": {
     "criteria": {
       "has_bone_meal": "2024-12-19 23:10:18 +0000"
