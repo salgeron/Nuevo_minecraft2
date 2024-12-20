@@ -5872,6 +5872,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/paper_from_manual": {
+    "criteria": {
+      "has_manual": "2024-12-20 00:00:07 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2024-12-19 21:25:05 +0000"
