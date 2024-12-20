@@ -5752,6 +5752,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/iron_alloy_furnace": {
+    "criteria": {
+      "has_iron_furnace": "2024-12-19 23:54:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/guide_book": {
     "criteria": {
       "has_book": "2024-12-19 23:11:44 +0000"
@@ -6095,6 +6101,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/electric_furnace": {
+    "criteria": {
+      "has_iron_furnace": "2024-12-19 23:54:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:electricfurnace": {
+    "criteria": {
+      "crit_0": "2024-12-19 23:56:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-19 22:14:07 +0000"
@@ -6188,6 +6206,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-19 19:06:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:extractor": {
+    "criteria": {
+      "crit_0": "2024-12-19 23:57:15 +0000"
     },
     "done": true
   },
@@ -6500,6 +6524,12 @@
   "beachparty:beachpartyradio": {
     "criteria": {
       "has_redstone": "2024-12-19 19:44:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:rollingmachine": {
+    "criteria": {
+      "crit_0": "2024-12-19 23:49:44 +0000"
     },
     "done": true
   },
@@ -6848,6 +6878,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
     "criteria": {
       "has_diamond_boots": "2024-12-19 18:59:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/recycler": {
+    "criteria": {
+      "has_compressor": "2024-12-19 23:48:04 +0000"
     },
     "done": true
   },
@@ -7403,6 +7439,12 @@
     },
     "done": true
   },
+  "techreborn:blastfurnace": {
+    "criteria": {
+      "crit_0": "2024-12-19 23:53:02 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2024-12-19 19:44:25 +0000"
@@ -7730,6 +7772,12 @@
   "techreborn:recipes/misc/crafting_table/small_dust/diamond_small_dust_from_dust": {
     "criteria": {
       "has_diamond_dust": "2024-12-19 21:36:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:ironalloyfurnace": {
+    "criteria": {
+      "crit_0": "2024-12-19 23:54:37 +0000"
     },
     "done": true
   },
@@ -8339,6 +8387,12 @@
     },
     "done": true
   },
+  "techreborn:alloysmelter": {
+    "criteria": {
+      "crit_0": "2024-12-19 23:54:34 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_the_end": {
     "criteria": {
       "has_gold_ingot": "2024-12-19 22:57:58 +0000"
@@ -8432,6 +8486,12 @@
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2024-12-19 22:51:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:ironfurnace": {
+    "criteria": {
+      "crit_0": "2024-12-19 23:57:48 +0000"
     },
     "done": true
   },
@@ -8819,6 +8879,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
+    "criteria": {
+      "has_extractor": "2024-12-19 23:54:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 19:01:29 +0000"
@@ -9185,6 +9251,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_compressor": "2024-12-19 23:48:04 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/frost_walker_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-19 23:11:44 +0000"
@@ -9278,6 +9350,12 @@
   "soulsweapons:recipes/combat/frostmourne": {
     "criteria": {
       "has_item": "2024-12-19 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/wire_mill": {
+    "criteria": {
+      "has_extractor": "2024-12-19 23:54:35 +0000"
     },
     "done": true
   },
@@ -10308,6 +10386,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
+    "criteria": {
+      "has_cupronickel_heating_coil": "2024-12-19 23:51:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/charcoal_block": {
     "criteria": {
       "has_charcoal": "2024-12-19 20:47:18 +0000"
@@ -11096,6 +11180,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge": {
+    "criteria": {
+      "has_extractor": "2024-12-19 23:54:35 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_rail": {
     "criteria": {
       "has_copper_block": "2024-12-19 19:44:25 +0000"
@@ -11153,6 +11243,12 @@
   "copycats:recipes/misc/stonecutting/copycat_wooden_button": {
     "criteria": {
       "has_item": "2024-12-19 21:28:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/alloy_smelter": {
+    "criteria": {
+      "has_electric_furnace": "2024-12-19 23:52:44 +0000"
     },
     "done": true
   },
@@ -11240,6 +11336,12 @@
     },
     "done": true
   },
+  "techreborn:grinder": {
+    "criteria": {
+      "crit_0": "2024-12-19 23:56:40 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/whips/whip_vine_whip": {
     "criteria": {
       "has_leather": "2024-12-19 19:06:58 +0000"
@@ -11303,6 +11405,12 @@
   "techreborn:recipes/industrial_electrolyzer/bone_meal": {
     "criteria": {
       "has_bone_meal": "2024-12-19 23:10:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:compressor": {
+    "criteria": {
+      "crit_0": "2024-12-19 23:56:47 +0000"
     },
     "done": true
   },
