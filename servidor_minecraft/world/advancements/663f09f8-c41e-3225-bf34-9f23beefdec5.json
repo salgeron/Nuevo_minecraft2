@@ -6293,6 +6293,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/unit/tank/advanced_tank_unit": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 00:35:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/semi_fluid_generator_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2024-12-20 00:35:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_glass": "2024-12-19 21:02:32 +0000"
@@ -6386,6 +6398,12 @@
   "betternether:recipes/misc/farmland": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/digital_display": {
+    "criteria": {
+      "has_aluminium_plate": "2024-12-20 00:35:02 +0000"
     },
     "done": true
   },
@@ -6518,6 +6536,12 @@
   "techreborn:recipes/misc/crafting_table/small_dust/cinnabar_small_dust_from_dust": {
     "criteria": {
       "has_cinnabar_dust": "2024-12-19 19:44:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/tank/advanced_tank_unit_from_basic": {
+    "criteria": {
+      "has_digital_display": "2024-12-20 00:35:14 +0000"
     },
     "done": true
   },
@@ -6797,6 +6821,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/lithium_ion_batpack": {
+    "criteria": {
+      "has_aluminum_plate": "2024-12-20 00:35:02 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/evocation_robe_helmet": {
     "criteria": {
       "has_leather": "2024-12-19 19:06:58 +0000"
@@ -7028,6 +7058,12 @@
   "techreborn:recipes/crafting_table/cable/insulated_hv_cable_shapeless": {
     "criteria": {
       "has_rubber": "2024-12-19 21:32:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2024-12-20 00:35:02 +0000"
     },
     "done": true
   },
@@ -7343,6 +7379,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/aluminum_dust": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2024-12-20 00:33:47 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 20:38:27 +0000"
@@ -7436,6 +7478,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-19 22:57:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-20 00:33:47 +0000"
     },
     "done": true
   },
@@ -7670,6 +7718,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2024-12-20 00:35:02 +0000"
     },
     "done": true
   },
@@ -8303,6 +8357,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/aluminum_plate": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2024-12-20 00:33:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-19 22:14:54 +0000"
@@ -8732,6 +8792,12 @@
   "betterend:recipes/misc/quick_charge_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-19 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/gas_turbine_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2024-12-20 00:35:02 +0000"
     },
     "done": true
   },
@@ -9870,6 +9936,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/aluminum_storage_block": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-20 00:33:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_pavers_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-19 22:14:54 +0000"
@@ -10152,6 +10224,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/unit/upgrader/basic_unit_upgrader": {
+    "criteria": {
+      "has_digital_display": "2024-12-20 00:35:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-19 19:44:25 +0000"
@@ -10161,6 +10239,12 @@
   "soulsweapons:recipes/combat/nightfall": {
     "criteria": {
       "has_item": "2024-12-19 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/advanced_storage_unit": {
+    "criteria": {
+      "has_digital_display": "2024-12-20 00:35:14 +0000"
     },
     "done": true
   },
@@ -11048,6 +11132,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/lithium_ion_battery": {
+    "criteria": {
+      "has_aluminium_plate": "2024-12-20 00:35:02 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-19 19:01:12 +0000"
@@ -11921,6 +12011,12 @@
   "techreborn:recipes/misc/crafting_table/tool/bronze_spade": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2024-12-19 21:22:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/diesel_generator_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2024-12-20 00:35:02 +0000"
     },
     "done": true
   },
