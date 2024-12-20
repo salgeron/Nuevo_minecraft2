@@ -7871,6 +7871,12 @@
     },
     "done": true
   },
+  "techreborn:sap": {
+    "criteria": {
+      "crit_0": "2024-12-20 00:20:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2024-12-19 21:25:05 +0000"
@@ -8612,6 +8618,12 @@
   "mcdw:recipes/daggers/dagger_backstabber": {
     "criteria": {
       "has_amethyst_shard": "2024-12-19 23:11:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing_alt": {
+    "criteria": {
+      "has_basic_machine_casing": "2024-12-20 00:25:58 +0000"
     },
     "done": true
   },
@@ -9398,6 +9410,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/stick_from_armor_stand": {
+    "criteria": {
+      "has_sap": "2024-12-20 00:20:36 +0000"
     },
     "done": true
   },
@@ -10245,6 +10263,12 @@
   "bewitchment:recipes/tools/waystone": {
     "criteria": {
       "has_item": "2024-12-19 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/sap": {
+    "criteria": {
+      "has_sap": "2024-12-20 00:20:36 +0000"
     },
     "done": true
   },
@@ -11105,6 +11129,12 @@
   "mcdw:recipes/spears/spear_whispering_spear": {
     "criteria": {
       "has_diamond": "2024-12-19 18:59:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_sap": {
+    "criteria": {
+      "has_sap": "2024-12-20 00:20:36 +0000"
     },
     "done": true
   },
