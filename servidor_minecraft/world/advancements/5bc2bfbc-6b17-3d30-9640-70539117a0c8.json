@@ -10402,6 +10402,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/golden_seeds": {
+    "criteria": {
+      "has_item": "2024-12-21 19:11:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
@@ -11044,6 +11050,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/scorched_seeds": {
+    "criteria": {
+      "has_item": "2024-12-21 19:11:21 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_call_of_the_void": {
     "criteria": {
       "has_diamond": "2024-12-21 16:53:06 +0000"
@@ -11383,6 +11395,12 @@
   "create:recipes/misc/crafting/kinetics/basin": {
     "criteria": {
       "has_item": "2024-12-21 17:30:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dry_seeds": {
+    "criteria": {
+      "has_item": "2024-12-21 19:11:21 +0000"
     },
     "done": true
   },
@@ -11893,6 +11911,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-21 18:07:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/mutated_seeds": {
+    "criteria": {
+      "has_item": "2024-12-21 19:11:21 +0000"
     },
     "done": true
   },
@@ -13194,6 +13218,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/vivid_seeds": {
+    "criteria": {
+      "has_item": "2024-12-21 19:11:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2024-12-21 17:30:38 +0000"
@@ -13530,6 +13560,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/infused_seeds": {
+    "criteria": {
+      "has_item": "2024-12-21 19:11:21 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/schist/schist": {
     "criteria": {
       "has_item": "2024-12-21 18:07:04 +0000"
@@ -13805,6 +13841,12 @@
       "has_item": "2024-12-21 18:40:12 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "dark_oak_beehive": "2024-12-21 19:06:54 +0000"
+    },
+    "done": false
   },
   "techreborn:recipes/misc/crafting_table/nugget/emerald_nugget": {
     "criteria": {

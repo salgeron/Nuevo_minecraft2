@@ -653,6 +653,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2024-12-21 19:07:54 +0000",
       "minecraft:lukewarm_ocean": "2024-12-14 22:06:46 +0000",
       "minecraft:river": "2024-12-14 22:07:28 +0000",
       "minecraft:jungle": "2024-12-14 22:04:27 +0000"
@@ -12186,6 +12187,12 @@
     },
     "done": false
   },
+  "botania:recipes/tools/virus_necrodermal": {
+    "criteria": {
+      "has_alt_item": "2024-12-21 19:09:11 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_wall_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2024-12-21 17:04:36 +0000"
@@ -12207,6 +12214,12 @@
   "techreborn:recipes/implosion_compressor/iridium_alloy_plate": {
     "criteria": {
       "has_iridium_alloy_ingot": "2024-12-21 18:24:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2024-12-21 19:09:03 +0000"
     },
     "done": true
   },
@@ -12282,6 +12295,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/white_pavement": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bear_trophy": {
     "criteria": {
       "has_bear_trophy": "2024-12-21 16:53:08 +0000"
@@ -12312,9 +12331,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_void": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/polished_livingrock": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
     },
     "done": true
   },
@@ -12366,6 +12397,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2024-12-21 19:13:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/titanium_dust": {
     "criteria": {
       "has_tag_c_titanium_ingots": "2024-12-21 17:53:26 +0000"
@@ -12402,6 +12439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-21 19:05:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2024-12-21 16:53:08 +0000"
@@ -12432,6 +12475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-21 19:09:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-21 19:03:56 +0000"
@@ -12459,6 +12508,12 @@
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_livingrock": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
     },
     "done": true
   },
@@ -12534,6 +12589,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2024-12-21 19:11:12 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
@@ -12594,9 +12655,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-21 19:08:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_planks": {
     "criteria": {
       "has_tag_minecraft_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slate": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
     },
     "done": true
   },
@@ -12624,6 +12697,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/enchanted_golden_apple": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-21 19:10:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2024-12-21 18:00:20 +0000"
@@ -12639,6 +12718,12 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "has_clay_ball": "2024-12-21 17:26:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-12-21 19:09:03 +0000"
     },
     "done": true
   },
@@ -12663,6 +12748,24 @@
   "betternether:recipes/misc/bn_brown_mushroom": {
     "criteria": {
       "has_wall_mushroom_brown": "2024-12-21 17:06:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 19:08:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/diluted_pool": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2024-12-21 19:11:12 +0000"
     },
     "done": true
   },
@@ -12822,6 +12925,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-21 19:05:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_lead": {
     "criteria": {
       "has_raw_lead_ores": "2024-12-21 18:36:14 +0000"
@@ -12918,6 +13027,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-21 19:08:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/ingot/iridium_ingot_from_nugget": {
     "criteria": {
       "has_iridium_nugget": "2024-12-21 18:03:34 +0000"
@@ -12951,6 +13066,12 @@
   "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
     "criteria": {
       "has_the_recipe": "2024-12-21 17:43:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 19:08:09 +0000"
     },
     "done": true
   },
@@ -12990,6 +13111,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 19:08:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -13026,6 +13153,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 19:08:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/invar_plate": {
     "criteria": {
       "has_tag_c_invar_ingots": "2024-12-21 18:11:41 +0000"
@@ -13035,6 +13168,12 @@
   "techreborn:recipes/misc/crafting_table/small_dust/clay_small_dust_from_dust": {
     "criteria": {
       "has_clay_dust": "2024-12-21 17:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-21 19:08:09 +0000"
     },
     "done": true
   },
@@ -13110,6 +13249,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/livingrock_wall": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:implosion": {
     "criteria": {
       "crit_0": "2024-12-21 18:28:23 +0000"
@@ -13125,6 +13270,12 @@
   "techreborn:recipes/crafting_table/machine/player_detector": {
     "criteria": {
       "has_advanced_circuit": "2024-12-21 17:04:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 19:08:09 +0000"
     },
     "done": true
   },
@@ -13170,9 +13321,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 19:09:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/brass_funnel": {
     "criteria": {
       "has_item": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2024-12-21 19:08:16 +0000"
     },
     "done": true
   },
@@ -13248,6 +13411,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 19:11:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_barrel": {
     "criteria": {
       "has_warped_planks": "2024-12-21 16:53:08 +0000"
@@ -13287,6 +13456,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2024-12-21 19:03:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-21 19:08:09 +0000"
     },
     "done": true
   },
@@ -13332,6 +13507,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_pool": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_shingle_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -13368,6 +13549,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/blue_pavement": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_warped": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
@@ -13401,6 +13588,12 @@
   "techreborn:recipes/crafting_table/tool/advanced_jackhammer": {
     "criteria": {
       "has_lithium_ion_battery": "2024-12-21 17:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 19:11:12 +0000"
     },
     "done": true
   },
@@ -13458,6 +13651,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/red_pavement": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_electrolyzer/lazurite_dust": {
     "criteria": {
       "has_lazurite_dust": "2024-12-21 18:08:09 +0000"
@@ -13512,6 +13711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-21 19:09:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_basalt_tiles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -13524,9 +13729,21 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-21 19:07:48 +0000"
+    },
+    "done": false
+  },
   "techreborn:recipes/misc/crafting_table/nugget/titanium_nugget": {
     "criteria": {
       "has_titanium_ingot": "2024-12-21 17:53:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/black_pavement": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
     },
     "done": true
   },
@@ -13560,6 +13777,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-21 19:08:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_counter": {
     "criteria": {
       "has_warped_counter": "2024-12-21 16:53:08 +0000"
@@ -13590,6 +13813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-21 19:10:45 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
@@ -13599,6 +13828,12 @@
   "betternether:recipes/tools/nether_ruby_sword": {
     "criteria": {
       "has_nether_ruby": "2024-12-21 17:02:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2024-12-21 19:11:12 +0000"
     },
     "done": true
   },
@@ -13623,6 +13858,12 @@
   "techreborn:recipes/compressor/iridium_plate": {
     "criteria": {
       "has_tag_c_iridium_ingots": "2024-12-21 18:03:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slab": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
     },
     "done": true
   },
@@ -13659,6 +13900,12 @@
   "betternether:recipes/building_blocks/basalt_basalt_slab": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/yellow_pavement": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
     },
     "done": true
   },
@@ -13710,9 +13957,21 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-21 19:07:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-21 17:04:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/green_pavement": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
     },
     "done": true
   },
@@ -13788,9 +14047,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/potato": {
+    "criteria": {
+      "has_potato": "2024-12-21 19:09:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-21 19:05:04 +0000"
     },
     "done": true
   },
@@ -13818,6 +14089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-21 19:09:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-21 17:06:58 +0000"
@@ -13833,6 +14110,12 @@
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2024-12-21 19:13:55 +0000"
     },
     "done": true
   },
@@ -13884,6 +14167,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-21 19:05:04 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
@@ -13905,6 +14194,12 @@
   "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_skeleton_skull": "2024-12-21 19:11:12 +0000"
     },
     "done": true
   },
@@ -13977,6 +14272,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-21 17:02:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-21 19:05:04 +0000"
     },
     "done": true
   },
