@@ -2649,3 +2649,27 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [16:41:20] [Server thread/INFO]: salgeron left the game
 [16:41:20] [Server thread/INFO]: remove player wand
 [16:41:20] [Server thread/INFO]: Updating all forceload tickets for 663f09f8-c41e-3225-bf34-9f23beefdec5
+[16:44:01] [Server thread/INFO]: [Handshake] Sending channel query
+[16:44:01] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[16:44:01] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[16:44:01] [Server thread/INFO]: salgeron[/127.162.10.253:49895] logged in with entity id 3482 at (209.64899401607906, 64.0, 693.176607541749)
+[16:44:01] [Server thread/INFO]: Sending server config values to client
+[16:44:01] [Server thread/INFO]: Syncing config to salgeron (663f09f8-c41e-3225-bf34-9f23beefdec5)
+[16:44:01] [Server thread/INFO]: Loading config from file...
+[16:44:01] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:44:01] [Server thread/INFO]: salgeron joined the game
+[16:44:02] [Server thread/INFO]: PLAYER_JOIN
+[16:44:02] [Server thread/INFO]: add_player wand
+[16:44:02] [Server thread/INFO]: config sent
+[16:44:02] [Server thread/INFO]: Updating all forceload tickets for 663f09f8-c41e-3225-bf34-9f23beefdec5
+[16:44:03] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[16:44:06] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: salgeron -> Global
+[16:44:06] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player salgeron. Claiming: GRAVE / Robbing: INVENTORY
+[16:44:09] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[16:49:28] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[16:49:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16:50:37] [Server thread/INFO]: Irinasan24 has made the advancement [Vivid Wave]
+[16:50:56] [Server thread/INFO]: salgeron was killed by magic
+[16:50:57] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[16:51:06] [Server thread/INFO]: Irinasan24 has made the advancement [A Realistical Logical Ideologist]
+[16:51:16] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
