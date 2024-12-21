@@ -9515,5 +9515,437 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shields/shield_tower_guard": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/copper_cable": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_nugget": {
+    "criteria": {
+      "has_copper_block": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2024-12-21 16:30:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_item": "2024-12-21 16:30:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "alloy_forgery:recipes/alloy_forgery/copper_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:recipes/copper_tea_kettle": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks": {
+    "criteria": {
+      "has_item": "2024-12-21 16:30:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/copper_plate": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2024-12-21 16:30:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2024-12-21 16:30:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2024-12-21 16:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/copper_cable": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/horn_grass": {
+    "criteria": {
+      "has_item": "2024-12-21 16:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall_stonecutting": {
+    "criteria": {
+      "has_copper": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable_alt": {
+    "criteria": {
+      "has_copper": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_pan": {
+    "criteria": {
+      "has_copper_block": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable": {
+    "criteria": {
+      "has_copper": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_spreader": {
+    "criteria": {
+      "has_item": "2024-12-21 16:30:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall": {
+    "criteria": {
+      "has_copper": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/blackstone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
