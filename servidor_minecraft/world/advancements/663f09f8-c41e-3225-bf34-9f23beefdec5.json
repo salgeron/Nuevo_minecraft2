@@ -12216,6 +12216,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/invar_dust": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2024-12-21 18:11:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2024-12-21 17:34:57 +0000"
@@ -12291,6 +12297,12 @@
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/iridium_reinforced_stone_storage_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 18:12:27 +0000"
     },
     "done": true
   },
@@ -12525,6 +12537,12 @@
   "techreborn:recipes/grinder/saw_small_dust_from_planks": {
     "criteria": {
       "has_tag_minecraft_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/invar_nugget": {
+    "criteria": {
+      "has_invar_ingot": "2024-12-21 18:11:41 +0000"
     },
     "done": true
   },
@@ -12888,6 +12906,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/invar_plate": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2024-12-21 18:11:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/clay_small_dust_from_dust": {
     "criteria": {
       "has_clay_dust": "2024-12-21 17:30:08 +0000"
@@ -12927,6 +12951,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-21 17:04:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/invar_storage_block": {
+    "criteria": {
+      "has_invar_ingot": "2024-12-21 18:11:41 +0000"
     },
     "done": true
   },
@@ -13125,6 +13155,12 @@
   "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2024-12-21 18:00:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/gas_turbine": {
+    "criteria": {
+      "has_invar_plate": "2024-12-21 18:17:26 +0000"
     },
     "done": true
   },
@@ -13344,6 +13380,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/storage_block/iridium_reinforced_tungstensteel_storage_block": {
+    "criteria": {
+      "has_iridium_plate": "2024-12-21 18:12:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2024-12-21 16:53:08 +0000"
@@ -13377,6 +13419,12 @@
   "techreborn:recipes/crafting_table/tool/industrial_drill": {
     "criteria": {
       "has_the_recipe": "2024-12-21 17:43:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/ingot/iridium_alloy_ingot": {
+    "criteria": {
+      "has_iridium_plate": "2024-12-21 18:12:27 +0000"
     },
     "done": true
   },
