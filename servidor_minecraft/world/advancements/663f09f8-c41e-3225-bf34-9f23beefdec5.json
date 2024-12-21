@@ -5470,6 +5470,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "porkchop": "2024-12-21 16:50:10 +0000",
       "apple": "2024-12-15 16:23:15 +0000",
       "cooked_chicken": "2024-12-19 21:41:39 +0000"
     },
@@ -12167,6 +12168,505 @@
   "vinery:recipes/flower_box": {
     "criteria": {
       "has_podzol": "2024-12-20 00:39:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:nether_jungle": "2024-12-21 16:50:32 +0000",
+      "betternether:old_warped_woods": "2024-12-21 16:49:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2024-12-21 16:59:03 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_warped": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/warped_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_table": {
+    "criteria": {
+      "has_warped_table": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/warped_support": {
+    "criteria": {
+      "has_plank": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_nightstand": {
+    "criteria": {
+      "has_warped_nightstand": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_fancy_bed": {
+    "criteria": {
+      "has_warped_fancy_bed": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_chair": {
+    "criteria": {
+      "has_warped_chair": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_azure_seeker": {
+    "criteria": {
+      "has_base": "2024-12-21 16:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_dining_bench": {
+    "criteria": {
+      "has_warped_dining_bench": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_planks": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_couch": {
+    "criteria": {
+      "has_warped_couch": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_scatter": {
+    "criteria": {
+      "has_base": "2024-12-21 16:51:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/warped_seat": {
+    "criteria": {
+      "has_plank": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_crafting_table": {
+    "criteria": {
+      "has_warped_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_exploding": {
+    "criteria": {
+      "has_base": "2024-12-21 16:51:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_twisting_vine_bow": {
+    "criteria": {
+      "has_warped_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/shield": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_drawer": {
+    "criteria": {
+      "has_warped_drawer": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2024-12-21 16:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_barrel": {
+    "criteria": {
+      "has_warped_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_chest": {
+    "criteria": {
+      "has_warped_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_bench": {
+    "criteria": {
+      "has_warped_bench": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/treetap": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_warped": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_side_table": {
+    "criteria": {
+      "has_warped_side_table": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul": {
+    "criteria": {
+      "has_base": "2024-12-21 16:51:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_pillar_trim": {
+    "criteria": {
+      "has_warped_pillar_trim": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_desk": {
+    "criteria": {
+      "has_warped_desk": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_corner_trim": {
+    "criteria": {
+      "has_warped_corner_trim": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/warped_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_planks": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_counter": {
+    "criteria": {
+      "has_warped_counter": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_warped": "2024-12-21 16:53:05 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/warped_shelf": {
+    "criteria": {
+      "has_warped_shelf": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 16:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_cupboard": {
+    "criteria": {
+      "has_warped_cupboard": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/wood_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_boat": {
+    "criteria": {
+      "has_warped_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/wood_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:53:08 +0000"
     },
     "done": true
   },

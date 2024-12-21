@@ -9515,6 +9515,42 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_masters_katana": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2024-12-21 16:34:20 +0000"
@@ -9563,9 +9599,21 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_veiled_crossbow": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9581,9 +9629,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/copy_plate_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/scythes/scythe_soul_scythe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9593,9 +9653,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/parts/template_template": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_swift_striker": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_frost_slayer": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/sickles/sickle_last_laugh_gold": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9605,9 +9695,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/gauntlets/gauntlet_soul_fist": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_diamond_sword_var": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9620,6 +9722,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9659,9 +9767,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/teleportation_robe_chestplate": {
     "criteria": {
       "has_copper_ingot": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/sickles/sickle_last_laugh_silver": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9671,9 +9797,27 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_call_of_the_void": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "alloy_forgery:recipes/alloy_forgery/copper_block": {
     "criteria": {
       "has_the_recipe": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9695,9 +9839,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/livingwood_planks": {
     "criteria": {
       "has_item": "2024-12-21 16:30:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9719,6 +9875,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sweet_tooth_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/glimmering_livingwood_log": {
     "criteria": {
       "has_item": "2024-12-21 16:30:34 +0000"
@@ -9734,6 +9896,12 @@
   "botania:recipes/misc/livingwood_twig": {
     "criteria": {
       "has_item": "2024-12-21 16:30:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9755,15 +9923,39 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2024-12-21 16:34:20 +0000"
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_resolute_tempest_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9782,6 +9974,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9815,6 +10013,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_chill_gale_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:34:01 +0000"
@@ -9833,9 +10037,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_diamond_brush": {
+    "criteria": {
+      "has_item": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2024-12-21 16:51:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9848,6 +10094,12 @@
   "techreborn:recipes/crafting_table/cable/insulated_copper_cable_alt": {
     "criteria": {
       "has_copper": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9866,6 +10118,18 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2024-12-21 16:50:37 +0000"
     },
     "done": true
   },
@@ -9893,9 +10157,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_copper_cable": {
     "criteria": {
       "has_copper": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/spears/spear_whispering_spear": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_void_touched_blade": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9923,9 +10217,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sweet_tooth_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/diamond_nugget": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -9944,6 +10250,12 @@
   "ae2:main/root": {
     "criteria": {
       "copper": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 16:53:06 +0000"
     },
     "done": true
   },

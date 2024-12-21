@@ -2673,3 +2673,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [16:50:57] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
 [16:51:06] [Server thread/INFO]: Irinasan24 has made the advancement [A Realistical Logical Ideologist]
 [16:51:16] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[16:53:06] [Server thread/INFO]: Irinasan24 has made the advancement [Diamonds!]
+[16:54:05] [Server thread/INFO]: [salgeron: Gave 64 [Coal] to salgeron]
+[16:54:40] [Server thread/INFO]: [salgeron: Gave 10 [Rail] to salgeron]
+[16:55:27] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
+[16:59:20] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
+[17:02:28] [Server thread/INFO]: salgeron has made the advancement [Ruby Ore]
