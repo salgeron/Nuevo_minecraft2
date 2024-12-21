@@ -12198,9 +12198,21 @@
     },
     "done": false
   },
+  "techreborn:recipes/blast_furnace/blade_pottery_sherd": {
+    "criteria": {
+      "has_iron_sword": "2024-12-21 19:04:01 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/implosion_compressor/iridium_alloy_plate": {
     "criteria": {
       "has_iridium_alloy_ingot": "2024-12-21 18:24:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/miner_pottery_sherd": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-21 19:03:56 +0000"
     },
     "done": true
   },
@@ -12282,6 +12294,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mercenary_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-21 19:04:00 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/warped_table": {
     "criteria": {
       "has_bamboo": "2024-12-21 16:53:08 +0000"
@@ -12297,6 +12315,12 @@
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_pickaxe": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-21 19:03:56 +0000"
     },
     "done": true
   },
@@ -12396,9 +12420,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-21 19:03:52 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_boots": {
     "criteria": {
       "has_nether_ruby": "2024-12-21 17:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-21 19:03:56 +0000"
     },
     "done": true
   },
@@ -12435,6 +12471,12 @@
   "stoneworks:recipes/building_blocks/basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-21 19:04:07 +0000"
     },
     "done": true
   },
@@ -12528,6 +12570,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-21 19:03:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2024-12-21 16:53:08 +0000"
@@ -12618,6 +12666,18 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/highland_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-21 19:03:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-21 19:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-21 17:03:10 +0000"
@@ -12645,6 +12705,12 @@
   "techreborn:recipes/crafting_table/machine/chemical_reactor": {
     "criteria": {
       "has_advanced_circuit": "2024-12-21 17:04:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_sword": {
+    "criteria": {
+      "has_iron_sword": "2024-12-21 19:04:01 +0000"
     },
     "done": true
   },
@@ -12714,6 +12780,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/kirkhammer": {
+    "criteria": {
+      "has_item": "2024-12-21 19:04:01 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/decorated_blackstone_bricks/twisting_polished_blackstone_bricks": {
     "criteria": {
       "has_item": "2024-12-21 17:05:58 +0000"
@@ -12723,6 +12795,18 @@
   "techreborn:recipes/blast_furnace/iridium_ingot_from_raw": {
     "criteria": {
       "has_raw_iridium": "2024-12-21 18:03:09 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 19:04:01 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-21 19:03:52 +0000"
     },
     "done": true
   },
@@ -12792,6 +12876,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
+    "criteria": {
+      "has_iron_sword": "2024-12-21 19:04:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_paver_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -12801,6 +12891,12 @@
   "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-21 19:03:52 +0000"
     },
     "done": true
   },
@@ -13092,6 +13188,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-21 19:04:00 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2024-12-21 17:04:36 +0000"
@@ -13179,6 +13281,12 @@
   "stoneworks:recipes/building_blocks/basalt_shingle_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-21 19:03:52 +0000"
     },
     "done": true
   },
@@ -13284,6 +13392,12 @@
     },
     "done": true
   },
+  "techreborn:mfe": {
+    "criteria": {
+      "crit_0": "2024-12-21 19:02:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/advanced_jackhammer": {
     "criteria": {
       "has_lithium_ion_battery": "2024-12-21 17:43:04 +0000"
@@ -13293,6 +13407,12 @@
   "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-21 19:04:00 +0000"
     },
     "done": true
   },
@@ -13488,6 +13608,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-21 19:03:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/ingot/iridium_alloy_ingot": {
     "criteria": {
       "has_iridium_plate": "2024-12-21 18:12:27 +0000"
@@ -13497,6 +13623,12 @@
   "techreborn:recipes/compressor/iridium_plate": {
     "criteria": {
       "has_tag_c_iridium_ingots": "2024-12-21 18:03:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_iron_sword_var": {
+    "criteria": {
+      "has_iron_sword": "2024-12-21 19:04:01 +0000"
     },
     "done": true
   },
@@ -13527,6 +13659,12 @@
   "betternether:recipes/building_blocks/basalt_basalt_slab": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-21 19:04:00 +0000"
     },
     "done": true
   },
@@ -13641,6 +13779,12 @@
   "handcrafted:recipes/misc/warped_cupboard": {
     "criteria": {
       "has_warped_cupboard": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-21 19:04:07 +0000"
     },
     "done": true
   },
@@ -13812,9 +13956,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-21 19:04:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/brass_plate": {
     "criteria": {
       "has_tag_c_brass_ingots": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-21 19:03:52 +0000"
     },
     "done": true
   },
