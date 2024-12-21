@@ -2679,3 +2679,12 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [16:55:27] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
 [16:59:20] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
 [17:02:28] [Server thread/INFO]: salgeron has made the advancement [Ruby Ore]
+[17:02:58] [Server thread/INFO]: salgeron has made the advancement [Those Were the Days]
+[17:03:49] [Server thread/INFO]: salgeron has made the advancement [War Pigs]
+[17:04:05] [Server thread/INFO]: salgeron has made the advancement [Ice Bucket Challenge]
+[17:10:33] [Server thread/INFO]: <salgeron> coal generator
+[17:10:47] [Server thread/INFO]: [EMI] salgeron deleted 2 wall_moss
+[17:12:35] [Server thread/INFO]: Irinasan24 has made the advancement [Acquire Hardware]
+[17:14:21] [Server thread/INFO]: [salgeron: Teleported salgeron to -18.500000, 47.500000, 169.500000]
+[17:15:06] [Server thread/INFO]: [salgeron: Teleported salgeron to -29.500000, 62.500000, 97.500000]
+[17:15:29] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
