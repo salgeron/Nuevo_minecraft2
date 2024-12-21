@@ -12241,6 +12241,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-21 19:52:35 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
@@ -12283,6 +12289,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2024-12-21 19:44:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_warped": {
     "criteria": {
       "has_the_recipe": "2024-12-21 16:53:08 +0000"
@@ -12307,15 +12319,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_sodium_persulfate": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2024-12-21 19:44:34 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/tungsten_storage_block": {
     "criteria": {
       "has_tungsten_ingot": "2024-12-21 19:41:55 +0000"
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-21 19:46:29 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bear_trophy": {
     "criteria": {
       "has_bear_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_from_diamond_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_diamond_ores": "2024-12-21 19:45:51 +0000"
     },
     "done": true
   },
@@ -12394,6 +12424,12 @@
   "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
     "criteria": {
       "has_the_recipe": "2024-12-21 17:43:04 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_lost_souls": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
     },
     "done": true
   },
@@ -12487,6 +12523,18 @@
     },
     "done": true
   },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2024-12-21 19:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-21 19:44:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-21 19:09:03 +0000"
@@ -12520,6 +12568,12 @@
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
     },
     "done": true
   },
@@ -12667,9 +12721,27 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_winters_touch": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-21 19:50:10 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/loam": {
     "criteria": {
       "has_clay_ball": "2024-12-21 17:26:30 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/smoking/cooked_duck": {
+    "criteria": {
+      "has_duck": "2024-12-21 19:52:30 +0000"
     },
     "done": true
   },
@@ -12679,9 +12751,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2024-12-21 19:52:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/tungsten_plate": {
     "criteria": {
       "has_tag_c_tungsten_ingots": "2024-12-21 19:41:55 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_dual": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2024-12-21 19:46:29 +0000"
     },
     "done": true
   },
@@ -12694,6 +12784,18 @@
   "botania:recipes/building_blocks/livingrock_slate": {
     "criteria": {
       "has_item": "2024-12-21 19:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-21 19:45:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-21 19:46:29 +0000"
     },
     "done": true
   },
@@ -12859,6 +12961,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2024-12-21 19:44:34 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_scatter": {
     "criteria": {
       "has_base": "2024-12-21 16:51:28 +0000"
@@ -12991,6 +13099,18 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-21 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-21 19:48:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_lead": {
     "criteria": {
       "has_raw_lead_ores": "2024-12-21 18:36:14 +0000"
@@ -13057,6 +13177,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_paver_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -13075,9 +13201,22 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2024-12-21 19:46:29 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_helmet": {
     "criteria": {
       "has_nether_ruby": "2024-12-21 17:02:28 +0000"
+    },
+    "done": true
+  },
+  "beachparty:bikini": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000",
+      "has_the_recipe": "2024-12-21 19:50:10 +0000"
     },
     "done": true
   },
@@ -13102,6 +13241,18 @@
   "techreborn:recipes/extractor/orange_dye_from_carrot": {
     "criteria": {
       "has_carrot": "2024-12-21 19:08:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-21 19:52:45 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-21 19:50:59 +0000"
     },
     "done": true
   },
@@ -13153,6 +13304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-21 19:18:09 +0000"
@@ -13183,9 +13340,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/fox_trophy": {
     "criteria": {
       "has_fox_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/campfire_cooking/cooked_duck": {
+    "criteria": {
+      "has_duck": "2024-12-21 19:52:30 +0000"
     },
     "done": true
   },
@@ -13231,6 +13400,12 @@
     },
     "done": true
   },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2024-12-21 19:50:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2024-12-21 16:53:08 +0000"
@@ -13252,6 +13427,12 @@
   "techreborn:recipes/compressor/invar_plate": {
     "criteria": {
       "has_tag_c_invar_ingots": "2024-12-21 18:11:41 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/deer_venison": {
+    "criteria": {
+      "got_the_venison": "2024-12-21 19:54:09 +0000"
     },
     "done": true
   },
@@ -13279,15 +13460,33 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2024-12-21 19:46:29 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_drawer": {
     "criteria": {
       "has_warped_drawer": "2024-12-21 16:53:08 +0000"
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2024-12-21 19:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
     },
     "done": true
   },
@@ -13303,6 +13502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/invar_storage_block": {
     "criteria": {
       "has_invar_ingot": "2024-12-21 18:11:41 +0000"
@@ -13312,6 +13517,12 @@
   "supplementaries:recipes/stonecutting/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-21 17:03:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-21 19:52:35 +0000"
     },
     "done": true
   },
@@ -13351,6 +13562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-21 19:52:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:implosion": {
     "criteria": {
       "crit_0": "2024-12-21 18:28:23 +0000"
@@ -13360,6 +13577,12 @@
   "stoneworks:recipes/building_blocks/basalt_tile_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-21 19:46:29 +0000"
     },
     "done": true
   },
@@ -13387,6 +13610,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
@@ -13411,6 +13640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/double_axes/double_axe_whirlwind": {
     "criteria": {
       "has_feather": "2024-12-21 17:06:58 +0000"
@@ -13420,6 +13655,12 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 19:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
     },
     "done": true
   },
@@ -13489,6 +13730,18 @@
     },
     "done": true
   },
+  "mcdw:recipes/shortbows/bow_shortbow": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-21 19:52:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/adjustable_su": {
     "criteria": {
       "has_energy_crystal": "2024-12-21 18:24:14 +0000"
@@ -13531,6 +13784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 19:50:59 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/sting": {
     "criteria": {
       "has_item": "2024-12-21 19:42:40 +0000"
@@ -13540,6 +13799,12 @@
   "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
     "criteria": {
       "has_the_recipe": "2024-12-21 19:11:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2024-12-21 19:52:35 +0000"
     },
     "done": true
   },
@@ -13600,6 +13865,12 @@
   "betternether:ruby_ore": {
     "criteria": {
       "ruby_ore": "2024-12-21 17:02:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/longbows/bow_longbow": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
     },
     "done": true
   },
@@ -13711,6 +13982,12 @@
     },
     "done": true
   },
+  "beachparty:beachpartybikini": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:mfe": {
     "criteria": {
       "crit_0": "2024-12-21 19:02:29 +0000"
@@ -13807,6 +14084,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2024-12-21 19:52:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -13816,6 +14099,12 @@
   "techreborn:recipes/blast_furnace/hot_tungstensteel_ingot": {
     "criteria": {
       "has_tungsten_ingot": "2024-12-21 19:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-21 19:50:10 +0000"
     },
     "done": true
   },
@@ -13896,6 +14185,12 @@
       "in_better_zombie_dungeon": "2024-12-21 19:07:48 +0000"
     },
     "done": false
+  },
+  "techreborn:recipes/grinder/raw_copper": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2024-12-21 19:44:34 +0000"
+    },
+    "done": true
   },
   "techreborn:recipes/misc/crafting_table/nugget/titanium_nugget": {
     "criteria": {
@@ -13987,6 +14282,18 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 19:52:35 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-21 19:46:29 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_sword": {
     "criteria": {
       "has_nether_ruby": "2024-12-21 17:02:28 +0000"
@@ -14056,6 +14363,12 @@
   "betternether:recipes/misc/bn_red_mushroom": {
     "criteria": {
       "has_wall_mushroom_red": "2024-12-21 17:09:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2024-12-21 19:52:35 +0000"
     },
     "done": true
   },
@@ -14149,9 +14462,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2024-12-21 19:52:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2024-12-21 19:50:10 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-21 19:07:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2024-12-21 19:50:59 +0000"
     },
     "done": true
   },
@@ -14164,6 +14495,12 @@
   "botania:recipes/building_blocks/green_pavement": {
     "criteria": {
       "has_item": "2024-12-21 19:13:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2024-12-21 19:52:45 +0000"
     },
     "done": true
   },
@@ -14227,6 +14564,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-21 19:52:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_paver_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -14236,6 +14579,12 @@
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2024-12-21 19:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-21 19:44:34 +0000"
     },
     "done": true
   },
@@ -14263,6 +14612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 19:50:59 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/breathalyzer": {
     "criteria": {
       "has_iron_nugget": "2024-12-21 19:05:04 +0000"
@@ -14275,9 +14630,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-21 19:52:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/wood_plate": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-21 19:52:35 +0000"
     },
     "done": true
   },
@@ -14314,6 +14681,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-21 19:09:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-21 19:50:10 +0000"
     },
     "done": true
   },
@@ -14359,6 +14732,12 @@
     },
     "done": true
   },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2024-12-21 19:53:19 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2024-12-21 18:00:20 +0000"
@@ -14380,6 +14759,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-21 19:18:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2024-12-21 19:52:45 +0000"
     },
     "done": true
   },
@@ -14443,6 +14828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-21 19:45:51 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_ruby_block": {
     "criteria": {
       "has_nether_ruby": "2024-12-21 17:02:28 +0000"
@@ -14479,6 +14870,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_from_diamond_ore_with_water": {
+    "criteria": {
+      "has_tag_c_diamond_ores": "2024-12-21 19:45:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_sodium_persulfate": {
     "criteria": {
       "has_tag_minecraft_gold_ores": "2024-12-21 19:44:24 +0000"
@@ -14509,6 +14906,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2024-12-21 19:52:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2024-12-21 19:05:04 +0000"
@@ -14518,6 +14921,12 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2024-12-21 19:18:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_water": {
+    "criteria": {
+      "has_tag_c_copper_ores": "2024-12-21 19:44:34 +0000"
     },
     "done": true
   },

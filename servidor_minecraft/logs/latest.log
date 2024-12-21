@@ -3148,3 +3148,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:25:10] [Server thread/INFO]: <salgeron> bresh
 [19:41:23] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
 [19:42:40] [Server thread/INFO]: salgeron has made the advancement [False Water]
+[19:48:28] [Server thread/INFO]: salgeron has made the advancement [Close Quarters]
+[19:49:38] [Server thread/INFO]: [salgeron: Teleported salgeron to 199.500000, 66.500000, 701.500000]
