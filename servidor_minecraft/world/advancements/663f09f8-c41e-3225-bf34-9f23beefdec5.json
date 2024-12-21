@@ -12198,6 +12198,12 @@
     },
     "done": false
   },
+  "techreborn:recipes/implosion_compressor/iridium_alloy_plate": {
+    "criteria": {
+      "has_iridium_alloy_ingot": "2024-12-21 18:24:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_hoe": {
     "criteria": {
       "has_nether_ruby": "2024-12-21 17:02:28 +0000"
@@ -12549,6 +12555,12 @@
   "handcrafted:recipes/misc/warped_couch": {
     "criteria": {
       "has_warped_couch": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/energy_crystal": {
+    "criteria": {
+      "has_synthetic_redstone_crystal": "2024-12-21 18:20:36 +0000"
     },
     "done": true
   },
@@ -12990,6 +13002,12 @@
     },
     "done": true
   },
+  "techreborn:implosion": {
+    "criteria": {
+      "crit_0": "2024-12-21 18:28:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_tile_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -13017,6 +13035,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/charge_o_mat": {
+    "criteria": {
+      "has_energy_crystal": "2024-12-21 18:24:14 +0000"
     },
     "done": true
   },
@@ -13050,6 +13074,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/medium_voltage_su": {
+    "criteria": {
+      "has_energy_crystal": "2024-12-21 18:24:14 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2024-12-21 17:04:36 +0000"
@@ -13068,6 +13098,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/adjustable_su": {
+    "criteria": {
+      "has_energy_crystal": "2024-12-21 18:24:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-21 17:03:10 +0000"
@@ -13077,6 +13113,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-12-21 17:26:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/lapotron_crystal": {
+    "criteria": {
+      "has_energy_crystal": "2024-12-21 18:24:14 +0000"
     },
     "done": true
   },
