@@ -3150,3 +3150,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:42:40] [Server thread/INFO]: salgeron has made the advancement [False Water]
 [19:48:28] [Server thread/INFO]: salgeron has made the advancement [Close Quarters]
 [19:49:38] [Server thread/INFO]: [salgeron: Teleported salgeron to 199.500000, 66.500000, 701.500000]
+[19:57:29] [Server thread/INFO]: salgeron lost connection: Disconnected
+[19:57:29] [Server thread/INFO]: salgeron left the game
+[19:57:29] [Server thread/INFO]: remove player wand
+[19:57:29] [Server thread/INFO]: Updating all forceload tickets for 663f09f8-c41e-3225-bf34-9f23beefdec5
+[19:57:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:57:39] [Server thread/INFO]: close<--[HERE]
