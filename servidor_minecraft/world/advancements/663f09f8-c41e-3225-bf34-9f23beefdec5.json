@@ -12300,6 +12300,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/titanium_dust": {
+    "criteria": {
+      "has_tag_c_titanium_ingots": "2024-12-21 17:53:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
@@ -12852,6 +12858,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/titanium_storage_block": {
+    "criteria": {
+      "has_titanium_ingot": "2024-12-21 17:53:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -12885,6 +12897,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-21 17:26:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/titanium_plate": {
+    "criteria": {
+      "has_tag_c_titanium_ingots": "2024-12-21 17:53:26 +0000"
     },
     "done": true
   },
@@ -13167,6 +13185,12 @@
   "computercraft:recipes/redstone/pocket_computer_normal": {
     "criteria": {
       "has_apple": "2024-12-21 17:04:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/titanium_nugget": {
+    "criteria": {
+      "has_titanium_ingot": "2024-12-21 17:53:26 +0000"
     },
     "done": true
   },
@@ -13461,6 +13485,12 @@
   "create:recipes/decorations/brass_ladder_from_brass_ingots_stonecutting": {
     "criteria": {
       "has_brass_ingots": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-21 17:59:21 +0000"
     },
     "done": true
   },

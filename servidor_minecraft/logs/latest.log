@@ -2696,3 +2696,15 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [17:52:42] [Server thread/INFO]: <salgeron> whold
 [17:52:56] [Server thread/INFO]: <salgeron> web
 [17:52:59] [Server thread/INFO]: <salgeron> wool web
+[17:55:27] [Server thread/INFO]: Irinasan24 has made the advancement ['X' Marks the Spot]
+[17:56:35] [Server thread/INFO]: Irinasan24 has made the advancement [Novice Spellcaster]
+[17:58:17] [Server thread/INFO]: [Irinasan24: Set own game mode to Creative Mode]
+[17:59:21] [Server thread/INFO]: salgeron has made the advancement [Disme A Dozen]
+[18:00:04] [Server thread/INFO]: [Irinasan24: Set own game mode to Survival Mode]
+[18:00:23] [Server thread/INFO]: No return portal found
+[18:00:23] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[18:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[18:00:28] [Server thread/INFO]: No return portal found
+[18:00:28] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[18:00:36] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[18:01:08] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
