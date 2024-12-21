@@ -12174,6 +12174,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-21 19:44:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/elevator_pulley": {
     "criteria": {
       "has_item": "2024-12-21 17:34:57 +0000"
@@ -12298,6 +12304,12 @@
   "botania:recipes/building_blocks/white_pavement": {
     "criteria": {
       "has_item": "2024-12-21 19:13:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/tungsten_storage_block": {
+    "criteria": {
+      "has_tungsten_ingot": "2024-12-21 19:41:55 +0000"
     },
     "done": true
   },
@@ -12631,6 +12643,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/raw_iron": {
+    "criteria": {
+      "has_tag_c_iron_ores": "2024-12-21 19:42:13 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/snow_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2024-12-21 19:03:52 +0000"
@@ -12658,6 +12676,12 @@
   "techreborn:recipes/centrifuge/carrot": {
     "criteria": {
       "has_carrot": "2024-12-21 19:08:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/tungsten_plate": {
+    "criteria": {
+      "has_tag_c_tungsten_ingots": "2024-12-21 19:41:55 +0000"
     },
     "done": true
   },
@@ -12709,6 +12733,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-21 19:44:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -12730,6 +12760,12 @@
   "handcrafted:recipes/misc/skeleton_horse_trophy": {
     "criteria": {
       "has_skeleton_horse_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_water": {
+    "criteria": {
+      "has_tag_minecraft_gold_ores": "2024-12-21 19:44:24 +0000"
     },
     "done": true
   },
@@ -12841,6 +12877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-12-21 19:44:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/brass_dust": {
     "criteria": {
       "has_tag_c_brass_ingots": "2024-12-21 17:34:57 +0000"
@@ -12925,6 +12967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-21 19:44:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_bars_from_brass_ingots_stonecutting": {
     "criteria": {
       "has_brass_ingots": "2024-12-21 17:34:57 +0000"
@@ -12970,6 +13018,12 @@
   "techreborn:recipes/crafting_table/tool/advanced_chainsaw": {
     "criteria": {
       "has_lithium_ion_battery": "2024-12-21 17:43:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/tungsten_grinding_head": {
+    "criteria": {
+      "has_tungsten_ingot": "2024-12-21 19:41:55 +0000"
     },
     "done": true
   },
@@ -13087,6 +13141,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2024-12-21 19:42:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 19:08:09 +0000"
@@ -13144,6 +13204,12 @@
   "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_galena_ores": "2024-12-21 19:42:08 +0000"
     },
     "done": true
   },
@@ -13261,6 +13327,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_gold_ores": "2024-12-21 19:44:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/titanium_storage_block": {
     "criteria": {
       "has_titanium_ingot": "2024-12-21 17:53:26 +0000"
@@ -13375,6 +13447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-12-21 19:44:03 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/snow_armor_chestplate": {
     "criteria": {
       "has_iron_chestplate": "2024-12-21 19:04:00 +0000"
@@ -13396,6 +13474,18 @@
   "techreborn:recipes/crafting_table/machine/lapotronic_su": {
     "criteria": {
       "has_advanced_circuit": "2024-12-21 17:04:28 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2024-12-21 19:42:40 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2024-12-21 19:42:40 +0000"
     },
     "done": true
   },
@@ -13438,6 +13528,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-21 17:03:10 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2024-12-21 19:42:40 +0000"
     },
     "done": true
   },
@@ -13537,6 +13633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-21 19:42:13 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_pool": {
     "criteria": {
       "has_item": "2024-12-21 19:13:55 +0000"
@@ -13627,6 +13729,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/refined_iron_ingot_from_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-21 19:42:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
@@ -13681,6 +13789,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/tungsten_nugget": {
+    "criteria": {
+      "has_tungsten_ingot": "2024-12-21 19:41:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/red_pavement": {
     "criteria": {
       "has_item": "2024-12-21 19:13:55 +0000"
@@ -13696,6 +13810,12 @@
   "stoneworks:recipes/building_blocks/cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/hot_tungstensteel_ingot": {
+    "criteria": {
+      "has_tungsten_ingot": "2024-12-21 19:41:55 +0000"
     },
     "done": true
   },
@@ -13762,6 +13882,12 @@
   "computercraft:recipes/redstone/pocket_computer_normal": {
     "criteria": {
       "has_apple": "2024-12-21 17:04:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/redstone_from_redstone_ore_with_water": {
+    "criteria": {
+      "has_tag_c_redstone_ores": "2024-12-21 19:44:03 +0000"
     },
     "done": true
   },
@@ -13897,6 +14023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-21 19:44:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/iridium_plate": {
     "criteria": {
       "has_tag_c_iridium_ingots": "2024-12-21 18:03:32 +0000"
@@ -13975,6 +14107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-21 19:42:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/attribute_filter": {
     "criteria": {
       "has_item": "2024-12-21 17:34:57 +0000"
@@ -13990,6 +14128,12 @@
   "mcda:recipes/base_armors/sprout_armor_helmet": {
     "criteria": {
       "has_twisting_vines": "2024-12-21 17:05:58 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2024-12-21 19:42:40 +0000"
     },
     "done": true
   },
@@ -14026,6 +14170,12 @@
   "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-12-21 17:04:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_iron_from_iron_ore_with_water": {
+    "criteria": {
+      "has_tag_c_iron_ores": "2024-12-21 19:42:13 +0000"
     },
     "done": true
   },
@@ -14116,6 +14266,12 @@
   "brewery:recipes/breathalyzer": {
     "criteria": {
       "has_iron_nugget": "2024-12-21 19:05:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_gold": {
+    "criteria": {
+      "has_tag_c_gold_ores": "2024-12-21 19:44:24 +0000"
     },
     "done": true
   },
@@ -14320,6 +14476,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-21 17:03:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_sodium_persulfate": {
+    "criteria": {
+      "has_tag_minecraft_gold_ores": "2024-12-21 19:44:24 +0000"
     },
     "done": true
   },
