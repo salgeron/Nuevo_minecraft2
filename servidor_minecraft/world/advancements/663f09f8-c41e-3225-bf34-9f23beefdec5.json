@@ -12210,6 +12210,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/dust/calcite_dust_from_small": {
+    "criteria": {
+      "has_calcite_small_dust": "2024-12-21 18:08:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2024-12-21 17:34:57 +0000"
@@ -12225,6 +12231,12 @@
   "mcda:recipes/base_armors/sprout_armor_boots": {
     "criteria": {
       "has_twisting_vines": "2024-12-21 17:05:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-12-21 18:00:20 +0000"
     },
     "done": true
   },
@@ -12282,6 +12294,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/dust/pyrite_dust_from_small": {
+    "criteria": {
+      "has_pyrite_small_dust": "2024-12-21 18:08:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_leggings": {
     "criteria": {
       "has_nether_ruby": "2024-12-21 17:02:28 +0000"
@@ -12291,6 +12309,12 @@
   "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
     "criteria": {
       "has_the_recipe": "2024-12-21 17:43:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-12-21 18:00:20 +0000"
     },
     "done": true
   },
@@ -12414,6 +12438,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_iridium_storage_block": {
+    "criteria": {
+      "has_raw_iridium": "2024-12-21 18:03:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_brick_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -12423,6 +12453,18 @@
   "create:recipes/misc/crafting/kinetics/brass_hand": {
     "criteria": {
       "has_item": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-12-21 18:00:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-12-21 18:00:20 +0000"
     },
     "done": true
   },
@@ -12498,6 +12540,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-12-21 18:00:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -12513,6 +12561,12 @@
   "handcrafted:recipes/misc/skeleton_horse_trophy": {
     "criteria": {
       "has_skeleton_horse_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/data_storage_chip": {
+    "criteria": {
+      "has_iridium_ingot": "2024-12-21 18:03:32 +0000"
     },
     "done": true
   },
@@ -12630,6 +12684,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iridium_ingot_from_raw": {
+    "criteria": {
+      "has_raw_iridium": "2024-12-21 18:03:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_bars_from_brass_ingots_stonecutting": {
     "criteria": {
       "has_brass_ingots": "2024-12-21 17:34:57 +0000"
@@ -12645,6 +12705,12 @@
   "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-12-21 18:00:20 +0000"
     },
     "done": true
   },
@@ -12669,6 +12735,12 @@
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/dust/sodalite_dust_from_small": {
+    "criteria": {
+      "has_sodalite_small_dust": "2024-12-21 18:08:10 +0000"
     },
     "done": true
   },
@@ -12708,6 +12780,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/ingot/iridium_ingot_from_nugget": {
+    "criteria": {
+      "has_iridium_nugget": "2024-12-21 18:03:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plate_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -12735,6 +12813,12 @@
   "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
     "criteria": {
       "has_the_recipe": "2024-12-21 17:43:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/iridium_nugget": {
+    "criteria": {
+      "has_iridium_ingot": "2024-12-21 18:03:32 +0000"
     },
     "done": true
   },
@@ -12858,6 +12942,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/lazurite_plate": {
+    "criteria": {
+      "has_tag_c_lazurite_dusts": "2024-12-21 18:08:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/titanium_storage_block": {
     "criteria": {
       "has_titanium_ingot": "2024-12-21 17:53:26 +0000"
@@ -12879,6 +12969,12 @@
   "techreborn:recipes/crafting_table/machine/player_detector": {
     "criteria": {
       "has_advanced_circuit": "2024-12-21 17:04:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/calcite": {
+    "criteria": {
+      "has_calcite_small_dust": "2024-12-21 18:08:09 +0000"
     },
     "done": true
   },
@@ -13026,6 +13122,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-12-21 18:00:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_shingle_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -13098,6 +13200,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/iridium_storage_block": {
+    "criteria": {
+      "has_iridium_ingot": "2024-12-21 18:03:32 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-12-21 17:04:05 +0000"
@@ -13125,6 +13233,12 @@
   "stoneworks:recipes/building_blocks/cobbled_basalt_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/lazurite_dust": {
+    "criteria": {
+      "has_lazurite_dust": "2024-12-21 18:08:09 +0000"
     },
     "done": true
   },
@@ -13236,6 +13350,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-12-21 18:00:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/lazurite_small_dust_from_dust": {
+    "criteria": {
+      "has_lazurite_dust": "2024-12-21 18:08:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
@@ -13251,6 +13377,12 @@
   "techreborn:recipes/crafting_table/tool/industrial_drill": {
     "criteria": {
       "has_the_recipe": "2024-12-21 17:43:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iridium_plate": {
+    "criteria": {
+      "has_tag_c_iridium_ingots": "2024-12-21 18:03:32 +0000"
     },
     "done": true
   },
@@ -13293,6 +13425,12 @@
   "handcrafted:recipes/misc/warped_shelf": {
     "criteria": {
       "has_warped_shelf": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/iridium_neutron_reflector": {
+    "criteria": {
+      "has_iridium_ingot": "2024-12-21 18:03:32 +0000"
     },
     "done": true
   },
@@ -13344,6 +13482,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2024-12-21 18:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2024-12-21 16:53:05 +0000"
@@ -13392,6 +13536,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/omni_tool": {
+    "criteria": {
+      "has_advanced_drill": "2024-12-21 18:02:14 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-12-21 17:04:05 +0000"
@@ -13437,6 +13587,12 @@
   "betternether:recipes/transportation/warped_boat": {
     "criteria": {
       "has_warped_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-12-21 18:00:20 +0000"
     },
     "done": true
   },
