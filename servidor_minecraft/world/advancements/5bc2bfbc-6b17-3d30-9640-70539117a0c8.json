@@ -9527,6 +9527,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/refined_iron_plate_from_c_iron_plates": {
+    "criteria": {
+      "has_tag_c_iron_plates": "2024-12-21 17:24:35 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/ghostly_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
@@ -9626,6 +9632,12 @@
   "mcda:recipes/base_armors/mystery_armor_white_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_iron_plate": "2024-12-21 17:24:35 +0000"
     },
     "done": true
   },
@@ -9935,6 +9947,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-21 17:25:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2024-12-21 16:34:20 +0000"
@@ -10016,6 +10034,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-12-21 17:24:35 +0000"
     },
     "done": true
   },
@@ -10163,6 +10187,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-12-21 17:24:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2024-12-21 16:53:06 +0000"
@@ -10298,6 +10328,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/refined_iron_plate_from_c_iron_plates": {
+    "criteria": {
+      "has_tag_c_iron_plates": "2024-12-21 17:24:35 +0000"
     },
     "done": true
   },
@@ -10469,6 +10505,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-12-21 17:24:35 +0000"
+    },
+    "done": true
+  },
   "immersive_melodies:misc/instruments": {
     "criteria": {
       "has_item": "2024-12-21 16:34:20 +0000"
@@ -10526,6 +10568,12 @@
   "vinery:recipes/big_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-12-21 17:24:35 +0000"
     },
     "done": true
   },
@@ -10758,6 +10806,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/white_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-21 17:25:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/cincinnasite_sword_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2024-12-21 16:53:06 +0000"
@@ -10806,6 +10860,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
+    "criteria": {
+      "has_carbon_plate": "2024-12-21 17:23:05 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/thief_armor_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
@@ -10833,6 +10893,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_white": {
+    "criteria": {
+      "has_item": "2024-12-21 17:25:30 +0000"
     },
     "done": true
   },
@@ -11172,6 +11238,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-21 17:25:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-12-21 16:34:20 +0000"
@@ -11199,6 +11271,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 17:22:12 +0000"
     },
     "done": true
   },

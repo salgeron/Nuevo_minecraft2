@@ -12438,6 +12438,12 @@
     },
     "done": true
   },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2024-12-21 17:26:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_planks": {
     "criteria": {
       "has_tag_minecraft_planks": "2024-12-21 16:53:08 +0000"
@@ -12459,6 +12465,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "has_clay_ball": "2024-12-21 17:26:30 +0000"
     },
     "done": true
   },
@@ -12786,6 +12798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-21 17:26:30 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/double_axes/double_axe_whirlwind": {
     "criteria": {
       "has_feather": "2024-12-21 17:06:58 +0000"
@@ -12819,6 +12837,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-21 17:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-21 17:26:30 +0000"
     },
     "done": true
   },
