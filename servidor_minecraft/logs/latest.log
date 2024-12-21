@@ -2688,3 +2688,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [17:14:21] [Server thread/INFO]: [salgeron: Teleported salgeron to -18.500000, 47.500000, 169.500000]
 [17:15:06] [Server thread/INFO]: [salgeron: Teleported salgeron to -29.500000, 62.500000, 97.500000]
 [17:15:29] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[17:36:18] [Server thread/INFO]: <salgeron> mix
+[17:38:13] [Server thread/INFO]: <salgeron> alloy = aleacion
+[17:39:15] [Server thread/INFO]: <salgeron> carbon mesh
+[17:40:25] [Server thread/INFO]: <salgeron> grinder = pulverizador

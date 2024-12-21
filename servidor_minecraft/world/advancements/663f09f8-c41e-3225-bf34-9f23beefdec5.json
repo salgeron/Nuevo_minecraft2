@@ -12173,6 +12173,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:nether_jungle": "2024-12-21 16:50:32 +0000",
@@ -12201,6 +12207,12 @@
   "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2024-12-21 17:34:57 +0000"
     },
     "done": true
   },
@@ -12237,6 +12249,12 @@
   "handcrafted:recipes/misc/bear_trophy": {
     "criteria": {
       "has_bear_trophy": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-12-21 17:34:57 +0000"
     },
     "done": true
   },
@@ -12390,6 +12408,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
@@ -12492,6 +12516,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/clay_dust": {
+    "criteria": {
+      "has_clay_dust": "2024-12-21 17:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-21 17:03:30 +0000"
@@ -12534,6 +12564,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/brass_dust": {
+    "criteria": {
+      "has_tag_c_brass_ingots": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/warped_seat": {
     "criteria": {
       "has_plank": "2024-12-21 16:53:08 +0000"
@@ -12573,6 +12609,12 @@
   "twigs:recipes/decorated_blackstone_bricks/twisting_polished_blackstone_bricks": {
     "criteria": {
       "has_item": "2024-12-21 17:05:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_bars_from_brass_ingots_stonecutting": {
+    "criteria": {
+      "has_brass_ingots": "2024-12-21 17:34:57 +0000"
     },
     "done": true
   },
@@ -12732,9 +12774,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/clay_small_dust_from_dust": {
+    "criteria": {
+      "has_clay_dust": "2024-12-21 17:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2024-12-21 17:34:57 +0000"
     },
     "done": true
   },
@@ -12792,6 +12846,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
@@ -12807,6 +12867,12 @@
   "mcdw:recipes/double_axes/double_axe_whirlwind": {
     "criteria": {
       "has_feather": "2024-12-21 17:06:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2024-12-21 17:34:57 +0000"
     },
     "done": true
   },
@@ -13074,6 +13140,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/warped_window": {
     "criteria": {
       "has_ingredient": "2024-12-21 16:53:08 +0000"
@@ -13158,9 +13230,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sprout_armor_helmet": {
     "criteria": {
       "has_twisting_vines": "2024-12-21 17:05:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-21 17:34:57 +0000"
     },
     "done": true
   },
@@ -13272,6 +13356,18 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_scaffolding_from_brass_ingots_stonecutting": {
+    "criteria": {
+      "has_brass_ingots": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot_alt": {
+    "criteria": {
+      "has_brass_ingot": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/warped_boat": {
     "criteria": {
       "has_warped_planks": "2024-12-21 16:53:08 +0000"
@@ -13314,6 +13410,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_brass_ingots_stonecutting": {
+    "criteria": {
+      "has_brass_ingots": "2024-12-21 17:34:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_ruby_block": {
     "criteria": {
       "has_nether_ruby": "2024-12-21 17:02:28 +0000"
@@ -13347,6 +13455,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-21 17:03:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/brass_plate": {
+    "criteria": {
+      "has_tag_c_brass_ingots": "2024-12-21 17:34:57 +0000"
     },
     "done": true
   },
