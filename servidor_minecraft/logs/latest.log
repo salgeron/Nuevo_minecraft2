@@ -3138,3 +3138,11 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:13:03] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 282.500000, 71.500000, 721.500000]
 [19:13:38] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
 [19:15:13] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 161.500000, 103.500000, 403.500000]
+[19:15:58] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 282.500000, 71.500000, 721.500000]
+[19:16:19] [Server thread/INFO]: <Irinasan24> t
+[19:19:46] [Server thread/INFO]: Irinasan24 lost connection: Disconnected
+[19:19:46] [Server thread/INFO]: Irinasan24 left the game
+[19:19:46] [Server thread/INFO]: remove player wand
+[19:19:46] [Server thread/INFO]: Updating all forceload tickets for 5bc2bfbc-6b17-3d30-9640-70539117a0c8
+[19:22:52] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
+[19:25:10] [Server thread/INFO]: <salgeron> bresh
