@@ -12288,6 +12288,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 17:43:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_pavers_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -12504,6 +12510,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/advanced_drill": {
+    "criteria": {
+      "has_lithium_ion_battery": "2024-12-21 17:43:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/bn_brown_mushroom": {
     "criteria": {
       "has_wall_mushroom_brown": "2024-12-21 17:06:23 +0000"
@@ -12636,6 +12648,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/advanced_chainsaw": {
+    "criteria": {
+      "has_lithium_ion_battery": "2024-12-21 17:43:04 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/pocket_computer_advanced": {
     "criteria": {
       "has_apple": "2024-12-21 17:04:28 +0000"
@@ -12705,6 +12723,12 @@
   "stoneworks:recipes/building_blocks/basalt_plate_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 17:43:04 +0000"
     },
     "done": true
   },
@@ -13044,6 +13068,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/advanced_jackhammer": {
+    "criteria": {
+      "has_lithium_ion_battery": "2024-12-21 17:43:04 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 16:53:08 +0000"
@@ -13053,6 +13083,12 @@
   "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-12-21 17:04:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/titanium_small_dust_from_dust": {
+    "criteria": {
+      "has_titanium_dust": "2024-12-21 17:45:51 +0000"
     },
     "done": true
   },
@@ -13185,6 +13221,12 @@
   "betternether:recipes/tools/nether_ruby_sword": {
     "criteria": {
       "has_nether_ruby": "2024-12-21 17:02:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/industrial_drill": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 17:43:04 +0000"
     },
     "done": true
   },

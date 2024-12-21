@@ -9587,6 +9587,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/coal_dust": {
+    "criteria": {
+      "has_coal_dust": "2024-12-21 17:41:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-21 17:35:22 +0000"
@@ -9791,6 +9797,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/semi_fluid_generator_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2024-12-21 17:44:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2024-12-21 17:30:38 +0000"
@@ -9812,6 +9824,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:34:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/digital_display": {
+    "criteria": {
+      "has_aluminium_plate": "2024-12-21 17:44:43 +0000"
     },
     "done": true
   },
@@ -9965,6 +9983,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/lithium_ion_batpack": {
+    "criteria": {
+      "has_aluminum_plate": "2024-12-21 17:44:43 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
@@ -9986,6 +10010,12 @@
   "mcda:recipes/base_armors/mystery_armor_red_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2024-12-21 17:44:43 +0000"
     },
     "done": true
   },
@@ -10133,9 +10163,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/aluminum_dust": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2024-12-21 17:44:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-21 17:44:44 +0000"
     },
     "done": true
   },
@@ -10196,6 +10238,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2024-12-21 17:44:43 +0000"
     },
     "done": true
   },
@@ -10403,6 +10451,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/aluminum_plate": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2024-12-21 17:44:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/basin": {
     "criteria": {
       "has_item": "2024-12-21 17:30:39 +0000"
@@ -10526,6 +10580,12 @@
   "mcda:recipes/base_armors/goat_gear_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/gas_turbine_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2024-12-21 17:44:43 +0000"
     },
     "done": true
   },
@@ -10746,6 +10806,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/carbon_fiber": {
+    "criteria": {
+      "has_coal_dust": "2024-12-21 17:41:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:34:01 +0000"
@@ -10905,6 +10971,18 @@
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2024-12-21 17:30:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/aluminum_storage_block": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-21 17:44:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/quantum_solar_panel": {
+    "criteria": {
+      "has_ultimate_solar_panel": "2024-12-21 17:45:50 +0000"
     },
     "done": true
   },
@@ -11142,6 +11220,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/coal_plate": {
+    "criteria": {
+      "has_tag_c_coal_dusts": "2024-12-21 17:41:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
@@ -11178,6 +11262,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/carbon_plate": {
+    "criteria": {
+      "has_carbon_mesh": "2024-12-21 17:43:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-21 16:53:06 +0000"
@@ -11211,6 +11301,12 @@
   "mcda:recipes/base_armors/mystery_armor_green_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/coal_small_dust_from_dust": {
+    "criteria": {
+      "has_coal_dust": "2024-12-21 17:41:12 +0000"
     },
     "done": true
   },
@@ -11277,6 +11373,12 @@
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2024-12-21 16:53:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/lithium_ion_battery": {
+    "criteria": {
+      "has_aluminium_plate": "2024-12-21 17:44:43 +0000"
     },
     "done": true
   },
@@ -11529,6 +11631,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-12-21 16:34:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/diesel_generator_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2024-12-21 17:44:43 +0000"
     },
     "done": true
   },
