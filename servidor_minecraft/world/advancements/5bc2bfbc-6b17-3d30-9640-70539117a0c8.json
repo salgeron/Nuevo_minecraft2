@@ -653,6 +653,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2024-12-21 18:50:35 +0000",
       "minecraft:lukewarm_ocean": "2024-12-15 16:22:10 +0000",
       "minecraft:river": "2024-12-19 20:04:23 +0000",
       "minecraft:jungle": "2024-12-14 22:09:30 +0000"
@@ -717,19 +718,25 @@
     "criteria": {
       "ancient_delta": "2024-12-15 13:28:27 +0000",
       "grassy_beach": "2024-12-15 15:58:14 +0000",
+      "sparse_redwoods": "2024-12-21 18:52:04 +0000",
       "deciduous_forest": "2024-12-15 13:46:37 +0000",
+      "chalk_cliffs": "2024-12-21 18:48:52 +0000",
       "infernal_holt": "2024-12-19 19:40:25 +0000",
       "prairie": "2024-12-14 22:11:01 +0000",
-      "grassland": "2024-12-21 18:42:32 +0000"
+      "grassland": "2024-12-21 18:42:32 +0000",
+      "redwoods": "2024-12-21 18:46:15 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "grassy_beach": "2024-12-15 15:58:14 +0000",
+      "sparse_redwoods": "2024-12-21 18:52:04 +0000",
       "deciduous_forest": "2024-12-15 13:46:37 +0000",
+      "chalk_cliffs": "2024-12-21 18:48:52 +0000",
       "prairie": "2024-12-14 22:11:01 +0000",
-      "grassland": "2024-12-21 18:42:32 +0000"
+      "grassland": "2024-12-21 18:42:32 +0000",
+      "redwoods": "2024-12-21 18:46:15 +0000"
     },
     "done": false
   },
@@ -9536,6 +9543,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/emerald_gear_helmet": {
+    "criteria": {
+      "has_emerald": "2024-12-21 18:51:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2024-12-21 17:30:38 +0000"
@@ -9902,6 +9915,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-21 18:51:34 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/goat_gear_leggings": {
     "criteria": {
       "has_leather_leggings": "2024-12-21 18:37:36 +0000"
@@ -10106,6 +10125,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/jungle_shrub": {
+    "criteria": {
+      "has_jungle_sapling": "2024-12-21 18:47:10 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_tiles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 18:37:25 +0000"
@@ -10133,6 +10158,12 @@
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2024-12-21 17:30:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-21 18:49:29 +0000"
     },
     "done": true
   },
@@ -10193,6 +10224,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/flowering_sapling_from_flowering_shrub": {
+    "criteria": {
+      "has_flowering_shrub": "2024-12-21 18:48:59 +0000"
     },
     "done": true
   },
@@ -10436,6 +10473,18 @@
     },
     "done": true
   },
+  "beachparty:beachpartypalm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 18:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 18:45:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2024-12-21 17:55:33 +0000"
@@ -10505,6 +10554,12 @@
   "botania:recipes/building_blocks/livingwood": {
     "criteria": {
       "has_log": "2024-12-21 16:30:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/date_sapling": {
+    "criteria": {
+      "has_date": "2024-12-21 18:46:59 +0000"
     },
     "done": true
   },
@@ -10727,6 +10782,12 @@
   "handcrafted:recipes/misc/blackstone_pillar_trim": {
     "criteria": {
       "has_blackstone_pillar_trim": "2024-12-21 18:06:46 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
+    "criteria": {
+      "has_bamboo_leaves": "2024-12-21 18:46:05 +0000"
     },
     "done": true
   },
@@ -11030,6 +11091,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 18:45:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2024-12-21 17:30:39 +0000"
@@ -11144,6 +11211,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2024-12-21 18:54:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/copper_plate": {
     "criteria": {
       "has_copper_ingot": "2024-12-21 16:34:20 +0000"
@@ -11162,9 +11235,21 @@
     },
     "done": true
   },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 18:45:43 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/spelunker_armor_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-21 18:51:39 +0000"
     },
     "done": true
   },
@@ -11213,6 +11298,12 @@
   "botania:recipes/building_blocks/glimmering_livingwood_log": {
     "criteria": {
       "has_item": "2024-12-21 16:30:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_sticky_toffee_pudding": {
+    "criteria": {
+      "has_date": "2024-12-21 18:46:59 +0000"
     },
     "done": true
   },
@@ -11426,6 +11517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 18:45:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/copper_cable": {
     "criteria": {
       "has_copper_ingot": "2024-12-21 16:34:20 +0000"
@@ -11519,6 +11616,12 @@
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-12-21 17:30:39 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2024-12-21 18:51:39 +0000"
     },
     "done": true
   },
@@ -11714,6 +11817,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2024-12-21 18:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-21 18:07:04 +0000"
@@ -11723,6 +11832,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-21 18:37:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 18:45:43 +0000"
     },
     "done": true
   },
@@ -11753,6 +11868,12 @@
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2024-12-21 17:52:48 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2024-12-21 18:54:12 +0000"
     },
     "done": true
   },
@@ -11831,6 +11952,12 @@
   "mcda:recipes/base_armors/evocation_robe_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 17:52:02 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2024-12-21 18:54:12 +0000"
     },
     "done": true
   },
@@ -12153,6 +12280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-21 18:51:39 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
     "criteria": {
       "has_nether_quartz": "2024-12-21 18:07:04 +0000"
@@ -12288,6 +12421,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_black": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_blue": {
+    "criteria": {
+      "has_item": "2024-12-21 18:49:29 +0000"
     },
     "done": true
   },
@@ -12465,6 +12604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 18:45:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-21 16:53:06 +0000"
@@ -12522,6 +12667,12 @@
   "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
     "criteria": {
       "has_carbon_plate": "2024-12-21 17:23:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2024-12-21 18:45:43 +0000"
     },
     "done": true
   },
@@ -12809,6 +12960,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-21 18:51:34 +0000",
       "opened_chest": "2024-12-21 17:55:27 +0000"
     },
     "done": false
@@ -12858,6 +13010,12 @@
   "bclib:recipes/transportation/tag_minecart": {
     "criteria": {
       "has_tag_c_iron_ingots": "2024-12-21 17:12:35 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2024-12-21 18:54:12 +0000"
     },
     "done": true
   },
@@ -13143,6 +13301,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/friend_pottery_sherd": {
+    "criteria": {
+      "has_emerald": "2024-12-21 18:51:39 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_sword": {
     "criteria": {
       "has_nether_quartz": "2024-12-21 18:07:04 +0000"
@@ -13194,6 +13358,12 @@
   "mcda:recipes/base_armors/vanguard_armor_leggings": {
     "criteria": {
       "has_leather": "2024-12-21 17:52:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_figgy_pudding": {
+    "criteria": {
+      "has_date": "2024-12-21 18:46:59 +0000"
     },
     "done": true
   },
@@ -13407,6 +13577,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-21 18:53:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plates_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 18:37:25 +0000"
@@ -13422,6 +13598,12 @@
   "mcda:recipes/base_armors/thief_armor_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 17:12:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_green": {
+    "criteria": {
+      "has_emerald": "2024-12-21 18:51:39 +0000"
     },
     "done": true
   },
@@ -13470,6 +13652,12 @@
   "botania:recipes/misc/petal_brown": {
     "criteria": {
       "has_item": "2024-12-21 18:40:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/emerald_nugget": {
+    "criteria": {
+      "has_emerald": "2024-12-21 18:51:39 +0000"
     },
     "done": true
   },

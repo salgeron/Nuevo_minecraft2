@@ -3116,3 +3116,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[18:50:29] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 239.500000, 88.500000, 224.500000]
+[18:51:34] [Server thread/INFO]: Irinasan24 has made the advancement [Barrel Booty]
+[18:52:00] [Server thread/INFO]: salgeron has made the advancement [Accumulating]
+[18:53:38] [Server thread/INFO]: Irinasan24 has made the advancement [Disme A Dozen]
+[18:54:12] [Server thread/INFO]: Irinasan24 has made the advancement [False Water]

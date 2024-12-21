@@ -12408,6 +12408,12 @@
     },
     "done": true
   },
+  "techreborn:batbox": {
+    "criteria": {
+      "crit_0": "2024-12-21 18:52:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_tiles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-21 17:04:36 +0000"
@@ -13125,6 +13131,12 @@
   "techreborn:recipes/crafting_table/battery/lapotron_crystal": {
     "criteria": {
       "has_energy_crystal": "2024-12-21 18:24:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/lapotronic_orbpack": {
+    "criteria": {
+      "has_lithium_ion_batpack": "2024-12-21 18:45:35 +0000"
     },
     "done": true
   },
