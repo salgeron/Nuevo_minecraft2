@@ -717,6 +717,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "redstone_abyss": "2024-12-26 21:00:30 +0000",
       "ancient_delta": "2024-12-15 13:28:27 +0000",
       "grassy_beach": "2024-12-15 15:58:14 +0000",
       "mycotoxic_undergrowth": "2024-12-26 19:00:32 +0000",
@@ -5769,6 +5770,7 @@
     "criteria": {
       "mycotoxic_undergrowth": "2024-12-26 19:00:32 +0000",
       "infernal_holt": "2024-12-19 19:40:25 +0000",
+      "redstone_abyss": "2024-12-26 21:00:30 +0000",
       "glistering_meadow": "2024-12-26 20:30:26 +0000"
     },
     "done": false
@@ -5807,10 +5809,15 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:bone_reef": "2024-12-26 20:02:36 +0000",
+      "betternether:wart_forest_edge": "2024-12-26 21:05:21 +0000",
       "betternether:upside_down_forest_cleared": "2024-12-26 20:37:03 +0000",
       "betternether:gravel_desert": "2024-12-26 20:34:21 +0000",
+      "betternether:old_fungiwoods": "2024-12-26 21:05:24 +0000",
+      "betternether:nether_mushroom_forest_edge": "2024-12-26 21:05:24 +0000",
       "betternether:nether_jungle": "2024-12-26 19:00:59 +0000",
+      "betternether:wart_forest": "2024-12-26 21:03:45 +0000",
       "betternether:old_warped_woods": "2024-12-19 19:41:31 +0000",
+      "betternether:soul_plain": "2024-12-26 21:02:38 +0000",
       "betternether:sulfuric_bone_reef": "2024-12-26 20:16:55 +0000"
     },
     "done": false
@@ -5827,6 +5834,7 @@
       "got_warped": "2024-12-19 19:41:49 +0000",
       "got_nether_mushroom": "2024-12-26 19:54:56 +0000",
       "got_nether_sakura": "2024-12-26 20:37:28 +0000",
+      "got_wart": "2024-12-26 21:04:54 +0000",
       "got_rubeus": "2024-12-26 19:18:24 +0000"
     },
     "done": false
@@ -14074,6 +14082,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2024-12-26 21:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
@@ -14119,6 +14133,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2024-12-26 21:00:56 +0000"
     },
     "done": true
   },
@@ -14518,6 +14538,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_cut": {
+    "criteria": {
+      "has_soul_sandstone": "2024-12-26 21:03:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/quantum_boots": {
     "criteria": {
       "has_data_storage_chip": "2024-12-26 19:29:13 +0000"
@@ -14776,6 +14802,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/wart_bark": {
+    "criteria": {
+      "has_wart_log": "2024-12-26 21:04:54 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_stone_button": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
@@ -14992,9 +15024,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2024-12-26 21:00:33 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_black": {
     "criteria": {
       "has_dyes/black": "2024-12-26 20:43:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_smelting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2024-12-26 21:03:07 +0000"
     },
     "done": true
   },
@@ -15334,6 +15378,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_stairs": {
+    "criteria": {
+      "has_soul_sandstone": "2024-12-26 21:03:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/purple_dye_from_bubble_coral": {
     "criteria": {
       "has_bubble_coral": "2024-12-26 20:43:22 +0000"
@@ -15385,6 +15435,12 @@
   "copycats:recipes/misc/stonecutting/copycat_block": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2024-12-26 21:00:33 +0000"
     },
     "done": true
   },
@@ -15562,6 +15618,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2024-12-26 21:00:56 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/bone_stairs_stonecutting": {
     "criteria": {
       "has_block.betternether.bone_block": "2024-12-26 19:51:33 +0000"
@@ -15632,6 +15694,18 @@
   "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
     "criteria": {
       "has_golden_leggings": "2024-12-26 19:38:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2024-12-26 21:03:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/redstone_from_redstone_ore_with_water": {
+    "criteria": {
+      "has_tag_c_redstone_ores": "2024-12-26 21:00:56 +0000"
     },
     "done": true
   },
@@ -15854,6 +15928,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-26 20:43:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2024-12-26 21:03:07 +0000"
     },
     "done": true
   },
@@ -16097,6 +16177,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/soul_sandstone_cut_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2024-12-26 21:03:07 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-12-26 19:06:43 +0000"
@@ -16187,6 +16273,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2024-12-26 21:02:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:31 +0000"
@@ -16202,6 +16294,12 @@
   "copycats:recipes/misc/stonecutting/copycat_half_layer": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_slab": {
+    "criteria": {
+      "has_soul_sandstone": "2024-12-26 21:03:07 +0000"
     },
     "done": true
   },

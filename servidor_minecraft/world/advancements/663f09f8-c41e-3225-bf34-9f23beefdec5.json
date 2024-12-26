@@ -14953,6 +14953,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-26 21:02:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 20:12:21 +0000"
@@ -15064,6 +15070,12 @@
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2024-12-26 18:47:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-26 21:02:59 +0000"
     },
     "done": true
   },
@@ -15529,6 +15541,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2024-12-26 21:02:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-26 20:12:22 +0000"
@@ -15889,6 +15907,18 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/polished_slab": {
+    "criteria": {
+      "has_asphalt": "2024-12-26 21:02:27 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2024-12-26 21:02:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-26 18:43:25 +0000"
@@ -16135,6 +16165,12 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/polished_stairs": {
+    "criteria": {
+      "has_asphalt": "2024-12-26 21:02:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_pillar_trim": {
     "criteria": {
       "has_oak_pillar_trim": "2024-12-26 20:12:20 +0000"
@@ -16186,6 +16222,12 @@
   "supplementaries:recipes/deepslate_lamp": {
     "criteria": {
       "has_shroomlight": "2024-12-26 19:24:35 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2024-12-26 21:02:27 +0000"
     },
     "done": true
   },
@@ -16417,6 +16459,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-26 21:02:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
@@ -16432,6 +16480,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_shingle_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:02:10 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2024-12-26 21:02:27 +0000"
     },
     "done": true
   },
@@ -16474,6 +16528,12 @@
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-26 21:02:59 +0000"
     },
     "done": true
   },
@@ -16747,6 +16807,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-26 21:02:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-26 20:12:22 +0000"
@@ -16813,6 +16879,12 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2024-12-26 21:02:27 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/gladius": {
     "criteria": {
       "arcane": "2024-12-26 20:12:19 +0000"
@@ -16861,6 +16933,18 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-26 21:02:59 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-26 21:02:59 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2024-12-26 20:02:10 +0000"
@@ -16882,6 +16966,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
     "criteria": {
       "has_steel_ingot": "2024-12-26 19:23:20 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2024-12-26 21:02:27 +0000"
     },
     "done": true
   },
@@ -16918,6 +17008,12 @@
   "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-12-26 20:51:59 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-26 21:02:59 +0000"
     },
     "done": true
   },
@@ -16978,6 +17074,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2024-12-26 21:02:27 +0000"
     },
     "done": true
   },
@@ -17107,6 +17209,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-26 21:02:59 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2024-12-26 20:12:20 +0000"
@@ -17221,6 +17329,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-26 21:02:59 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/calcite/calcite_slab_stonecutting": {
     "criteria": {
       "has_item": "2024-12-26 18:43:25 +0000"
@@ -17323,6 +17437,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-26 21:02:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_paver_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
@@ -17332,6 +17452,12 @@
   "stoneworks:recipes/building_blocks/cobbled_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-26 21:02:59 +0000"
     },
     "done": true
   },
@@ -17452,6 +17578,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-26 20:12:20 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2024-12-26 21:02:27 +0000"
     },
     "done": true
   },
