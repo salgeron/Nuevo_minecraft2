@@ -3915,3 +3915,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [21:55:53] [Server thread/INFO]: [salgeron: Gave 1 [Lever] to salgeron]
+[22:11:00] [Server thread/INFO]: [salgeron: Gave 200 [Torch] to salgeron]
+[22:11:37] [Server thread/INFO]: Villager class_1646['Lupe'/116777, l='ServerLevel[world]', x=470.62, y=25.00, z=788.85] died, message: 'Lupe was slain by Ghoul'
+[22:11:37] [Server thread/INFO]: Named entity class_1646['Lupe'/116777, l='ServerLevel[world]', x=470.62, y=25.00, z=788.85] died: Lupe was slain by Ghoul
+[22:11:46] [Server thread/INFO]: Villager class_1646['Matthew'/116778, l='ServerLevel[world]', x=477.30, y=7.00, z=866.32] died, message: 'Matthew was slain by Zombie'
+[22:11:46] [Server thread/INFO]: Named entity class_1646['Matthew'/116778, l='ServerLevel[world]', x=477.30, y=7.00, z=866.32] died: Matthew was slain by Zombie

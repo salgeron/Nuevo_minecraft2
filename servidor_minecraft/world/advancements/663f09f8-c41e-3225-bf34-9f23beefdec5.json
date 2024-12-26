@@ -14947,6 +14947,12 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2024-12-26 22:07:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/quantum_helmet": {
     "criteria": {
       "has_data_storage_chip": "2024-12-26 20:08:22 +0000"
@@ -14983,6 +14989,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
@@ -14998,6 +15010,12 @@
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2024-12-26 20:50:30 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2024-12-26 22:07:38 +0000"
     },
     "done": true
   },
@@ -15031,9 +15049,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/steel_dust": {
     "criteria": {
       "has_tag_c_steel_ingots": "2024-12-26 19:23:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
     },
     "done": true
   },
@@ -15133,6 +15169,18 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/blunite/polished_slab": {
+    "criteria": {
+      "has_blunite": "2024-12-26 22:07:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_axe_right": {
     "criteria": {
       "has_item": "2024-12-26 18:39:34 +0000"
@@ -15142,6 +15190,12 @@
   "stoneworks:recipes/building_blocks/diorite_tile_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2024-12-26 22:04:45 +0000"
     },
     "done": true
   },
@@ -15187,6 +15241,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
@@ -15205,9 +15265,21 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2024-12-26 22:07:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_corner_trim": {
     "criteria": {
       "has_granite_corner_trim": "2024-12-26 21:56:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -15373,6 +15445,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-26 20:53:05 +0000"
@@ -15418,6 +15502,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2024-12-26 22:07:38 +0000"
     },
     "done": true
   },
@@ -15493,6 +15583,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_plates_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:02:10 +0000"
@@ -15508,6 +15604,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:02:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -15598,6 +15700,12 @@
   "brewery:recipes/wooden_brewingstation": {
     "criteria": {
       "has_furnace": "2024-12-26 21:33:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -15745,6 +15853,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-12-26 20:51:59 +0000"
@@ -15763,6 +15877,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_plate_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
@@ -15778,6 +15898,12 @@
   "stoneworks:recipes/building_blocks/calcite_paver_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -15832,6 +15958,12 @@
   "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2024-12-26 22:07:38 +0000"
     },
     "done": true
   },
@@ -15907,9 +16039,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_trap": {
     "criteria": {
       "has_flint": "2024-12-26 18:47:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -15991,6 +16135,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:02:10 +0000"
@@ -16000,6 +16150,12 @@
   "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-12-26 20:51:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -16261,6 +16417,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-26 20:12:20 +0000"
@@ -16294,6 +16456,12 @@
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
     "criteria": {
       "has_diamond_sword": "2024-12-26 20:12:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -16339,6 +16507,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/industrial_sawmill": {
     "criteria": {
       "has_advanced_machine_frame": "2024-12-26 19:20:38 +0000"
@@ -16363,6 +16537,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-26 20:53:05 +0000"
@@ -16372,6 +16552,12 @@
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2024-12-26 20:12:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -16441,6 +16627,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2024-12-26 22:07:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_shingles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
@@ -16486,6 +16678,12 @@
   "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_item": "2024-12-26 18:43:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
     },
     "done": true
   },
@@ -16558,6 +16756,12 @@
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
       "has_wood_bowl": "2024-12-26 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -16723,9 +16927,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 20:12:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -16831,6 +17047,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/coal_from_coal_ore_with_mercury": {
     "criteria": {
       "has_tag_c_coal_ores": "2024-12-26 20:50:24 +0000"
@@ -16882,6 +17104,12 @@
   "soulsweapons:recipes/tools/moonstone_hoe_left": {
     "criteria": {
       "has_item": "2024-12-26 18:39:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
     },
     "done": true
   },
@@ -16951,6 +17179,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-12-26 20:12:22 +0000"
@@ -16987,6 +17221,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-26 20:53:05 +0000"
@@ -17002,6 +17242,12 @@
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2024-12-26 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -17023,6 +17269,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
@@ -17041,9 +17293,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-26 20:53:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -17083,9 +17347,27 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/blunite/polished_stairs": {
+    "criteria": {
+      "has_blunite": "2024-12-26 22:07:38 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
     "criteria": {
       "has_upgrade_item": "2024-12-26 20:12:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -17155,6 +17437,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_couch": {
     "criteria": {
       "has_oak_couch": "2024-12-26 20:12:20 +0000"
@@ -17185,6 +17473,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-26 18:43:25 +0000"
@@ -17200,6 +17494,12 @@
   "promenade:recipes/stonecutting/asphalt/slab": {
     "criteria": {
       "has_asphalt": "2024-12-26 21:02:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -17242,6 +17542,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-26 20:53:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -17359,6 +17665,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2024-12-26 19:12:07 +0000"
@@ -17449,6 +17761,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-26 20:12:20 +0000"
@@ -17461,6 +17779,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_plates_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
@@ -17470,6 +17794,18 @@
   "stoneworks:recipes/building_blocks/cobbled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-26 21:56:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
     },
     "done": true
   },
@@ -17518,6 +17854,12 @@
   "handcrafted:recipes/misc/oak_corner_trim": {
     "criteria": {
       "has_oak_corner_trim": "2024-12-26 20:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
     },
     "done": true
   },
@@ -17656,6 +17998,12 @@
   "techreborn:recipes/crafting_table/machine_block/industrial_machine_frame": {
     "criteria": {
       "has_advanced_machine_frame": "2024-12-26 19:20:38 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2024-12-26 22:07:38 +0000"
     },
     "done": true
   },
@@ -17827,6 +18175,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:02:10 +0000"
@@ -17839,6 +18193,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
@@ -17848,6 +18208,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
     },
     "done": true
   },
@@ -17905,6 +18271,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2024-12-26 21:56:55 +0000"
@@ -17953,6 +18325,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-26 21:56:55 +0000"
@@ -17962,6 +18346,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
     "criteria": {
       "has_plank": "2024-12-26 20:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
     },
     "done": true
   },
@@ -18085,6 +18475,12 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2024-12-26 22:07:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_shingle_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-26 21:56:55 +0000"
@@ -18118,6 +18514,12 @@
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_calcite_corner_trim": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
     },
     "done": true
   },
@@ -18166,6 +18568,12 @@
   "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-12-26 20:51:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
     },
     "done": true
   },
