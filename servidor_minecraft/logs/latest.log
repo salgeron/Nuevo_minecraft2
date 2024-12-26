@@ -3141,3 +3141,23 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:58:22] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
 [19:58:22] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
 [19:59:34] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 222.500000, 64.500000, 746.500000]
+[20:00:50] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[20:01:13] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[20:01:37] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 53.500000, 60.500000, -174.500000]
+[20:01:53] [Server thread/INFO]: Locating element betterfortresses:fortress took 30 ms
+[20:02:00] [Server thread/INFO]: [salgeron: Teleported salgeron to -351.500000, 66.000000, -415.500000]
+[20:02:01] [Server thread/INFO]: salgeron has made the advancement [A Terrible Fortress]
+[20:02:33] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[20:02:33] [Server thread/INFO]: Irinasan24 has made the advancement [A Terrible Fortress]
+[20:04:41] [Server thread/INFO]: salgeron has made the advancement [Into Fire]
+[20:04:56] [Server thread/INFO]: salgeron has made the advancement [Spooky Scary Skeleton]
+[20:05:21] [Server thread/INFO]: Irinasan24 has made the advancement [Into Fire]
+[20:05:31] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
+[20:05:31] [Server thread/INFO]: salgeron has made the advancement [Penteconter]
+[20:05:52] [Server thread/INFO]: Irinasan24 has made the advancement [Close Quarters]
+[20:06:48] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
+[20:07:18] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor
+[20:09:28] [Server thread/INFO]: [salgeron: Teleported salgeron to 27.500000, 67.500000, 97.500000]
+[20:09:34] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[20:09:58] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[20:10:05] [Server thread/INFO]: Irinasan24 has made the advancement [Penteconter]
