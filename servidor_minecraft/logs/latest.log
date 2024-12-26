@@ -2511,3 +2511,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[18:31:11] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 210.500000, 64.500000, 709.500000]
+[18:31:33] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 282.500000, 71.500000, 721.500000]
+[18:32:02] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[18:36:29] [Server thread/INFO]: [salgeron: Gave 1 [Rail] to salgeron]
+[18:38:11] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 210.500000, 64.500000, 709.500000]
