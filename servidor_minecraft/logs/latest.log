@@ -3920,3 +3920,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:11:37] [Server thread/INFO]: Named entity class_1646['Lupe'/116777, l='ServerLevel[world]', x=470.62, y=25.00, z=788.85] died: Lupe was slain by Ghoul
 [22:11:46] [Server thread/INFO]: Villager class_1646['Matthew'/116778, l='ServerLevel[world]', x=477.30, y=7.00, z=866.32] died, message: 'Matthew was slain by Zombie'
 [22:11:46] [Server thread/INFO]: Named entity class_1646['Matthew'/116778, l='ServerLevel[world]', x=477.30, y=7.00, z=866.32] died: Matthew was slain by Zombie
+[22:12:28] [Server thread/INFO]: Villager class_1646['Long'/116773, l='ServerLevel[world]', x=507.54, y=51.00, z=749.51] died, message: 'Long was slain by Zombie Villager'
+[22:12:28] [Server thread/INFO]: Named entity class_1646['Long'/116773, l='ServerLevel[world]', x=507.54, y=51.00, z=749.51] died: Long was slain by Zombie Villager
+[22:18:54] [Server thread/INFO]: [EMI] salgeron deleted 1 redstone_bulb
+[22:18:56] [Server thread/INFO]: [EMI] salgeron deleted 5 pointed_redstone
+[22:19:09] [Server thread/INFO]: [EMI] salgeron deleted 2 arrow
+[22:19:47] [Server thread/INFO]: [EMI] salgeron deleted 4 rotten_flesh
