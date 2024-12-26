@@ -5814,7 +5814,9 @@
       "betternether:gravel_desert": "2024-12-26 20:34:21 +0000",
       "betternether:old_fungiwoods": "2024-12-26 21:05:24 +0000",
       "betternether:nether_mushroom_forest_edge": "2024-12-26 21:05:24 +0000",
+      "betternether:upside_down_forest": "2024-12-26 21:13:41 +0000",
       "betternether:nether_jungle": "2024-12-26 19:00:59 +0000",
+      "betternether:nether_mushroom_forest": "2024-12-26 21:10:19 +0000",
       "betternether:wart_forest": "2024-12-26 21:03:45 +0000",
       "betternether:old_warped_woods": "2024-12-19 19:41:31 +0000",
       "betternether:soul_plain": "2024-12-26 21:02:38 +0000",
@@ -5832,6 +5834,7 @@
     "criteria": {
       "got_nether_reed": "2024-12-26 20:02:47 +0000",
       "got_warped": "2024-12-19 19:41:49 +0000",
+      "got_anchor_tree": "2024-12-26 21:14:01 +0000",
       "got_nether_mushroom": "2024-12-26 19:54:56 +0000",
       "got_nether_sakura": "2024-12-26 20:37:28 +0000",
       "got_wart": "2024-12-26 21:04:54 +0000",
@@ -13992,9 +13995,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/purple_candle_from_candle_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/bone_reed_door": {
     "criteria": {
       "has_bone_block": "2024-12-26 19:51:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -14037,6 +14052,18 @@
   "techreborn:recipes/assembling_machine/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_concrete_powder_from_magenta_concrete_powder_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -14100,9 +14127,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_purple": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
     "criteria": {
       "has_tag_minecraft_trim_templates": "2024-12-26 20:20:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_from_magenta_stained_glass_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -14121,6 +14160,12 @@
   "twigs:recipes/lamps/warped_shroomlamp": {
     "criteria": {
       "has_item": "2024-12-26 18:52:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
     },
     "done": true
   },
@@ -14166,6 +14211,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/magenta_stained_glass_from_pink_stained_glass_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_pavers_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
@@ -14205,6 +14256,12 @@
   "mcdw:recipes/bows/bow_lost_souls": {
     "criteria": {
       "has_string": "2024-12-26 19:06:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_terracotta_from_terracotta_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -14250,6 +14307,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:31 +0000"
@@ -14274,9 +14337,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_purple": {
+    "criteria": {
+      "has_dyes/black": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_magenta_stained_glass_pane_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2024-12-26 20:05:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_wool_from_magenta_wool_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -14388,9 +14469,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/hydralux_petal_block_purple": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/electrum_nugget": {
     "criteria": {
       "has_electrum_ingot": "2024-12-26 19:23:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/mushroom_fir_log_stem": {
+    "criteria": {
+      "has_mushroom_fir_stem": "2024-12-26 21:10:27 +0000"
     },
     "done": true
   },
@@ -14421,6 +14514,18 @@
   "mcda:recipes/base_armors/soul_robe_leggings": {
     "criteria": {
       "has_soul_sand": "2024-12-26 19:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
     },
     "done": true
   },
@@ -14490,6 +14595,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_stairs": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
@@ -14532,6 +14643,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2024-12-26 21:07:35 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2024-12-26 19:41:53 +0000"
@@ -14541,6 +14658,18 @@
   "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_cut": {
     "criteria": {
       "has_soul_sandstone": "2024-12-26 21:03:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
     },
     "done": true
   },
@@ -14571,6 +14700,12 @@
   "botania:recipes/tools/mana_tablet_alt": {
     "criteria": {
       "has_item": "2024-12-26 18:35:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -14628,6 +14763,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_layer": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
@@ -14676,6 +14823,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/purple_terracotta_from_magenta_terracotta_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_food": {
     "criteria": {
       "calamari": "2024-12-26 20:43:10 +0000"
@@ -14718,6 +14871,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
     "criteria": {
       "has_zinc_ingots": "2024-12-26 19:19:44 +0000"
@@ -14727,6 +14886,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2024-12-26 20:05:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -14754,15 +14919,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
     "criteria": {
       "has_steel_ingot": "2024-12-26 19:29:18 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_glass_pane_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/bone_wall_stonecutting": {
     "criteria": {
       "has_block.betternether.bone_block": "2024-12-26 19:51:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_stained_glass_from_glass_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -14898,6 +15093,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2024-12-26 21:07:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_sakura_log": {
     "criteria": {
       "has_nether_sakura_bark": "2024-12-26 20:37:28 +0000"
@@ -14919,6 +15120,12 @@
   "mcdw:recipes/bows/bow_twisting_vine_bow": {
     "criteria": {
       "has_twisting_vines": "2024-12-26 18:48:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
     },
     "done": true
   },
@@ -14988,6 +15195,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_bacon": {
     "criteria": {
       "has_porkchop": "2024-12-26 20:29:54 +0000"
@@ -15000,6 +15213,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2024-12-26 21:07:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:31 +0000"
@@ -15009,6 +15228,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-26 20:18:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_bark": {
+    "criteria": {
+      "has_anchor_tree_log": "2024-12-26 21:14:01 +0000"
     },
     "done": true
   },
@@ -15240,6 +15465,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_framed_purple": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_beam": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
@@ -15249,6 +15480,12 @@
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_item": "2024-12-26 20:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -15270,6 +15507,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_paver_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
@@ -15285,6 +15528,12 @@
   "betternether:recipes/building_blocks/nether_mushroom_planks": {
     "criteria": {
       "has_nether_mushroom_stem": "2024-12-26 19:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -15339,6 +15588,12 @@
   "betternether:recipes/redstone/bone_block_bone_plate": {
     "criteria": {
       "has_bone_block": "2024-12-26 19:51:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2024-12-26 21:07:35 +0000"
     },
     "done": true
   },
@@ -15492,6 +15747,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/purple_concrete_powder_from_white_concrete_powder_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_from_pebble": {
     "criteria": {
       "has_item": "2024-12-26 20:34:50 +0000"
@@ -15555,6 +15816,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/zinc_nugget": {
     "criteria": {
       "has_zinc_ingot": "2024-12-26 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_concrete_powder_from_pink_concrete_powder_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -15667,6 +15934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
       "has_item": "2024-12-26 19:06:03 +0000"
@@ -15703,6 +15976,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/purple_carpet_from_magenta_carpet_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/redstone_from_redstone_ore_with_water": {
     "criteria": {
       "has_tag_c_redstone_ores": "2024-12-26 21:00:56 +0000"
@@ -15730,6 +16009,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
     "criteria": {
       "has_steel_ingot": "2024-12-26 19:29:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_purple": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -15799,6 +16084,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/magenta_carpet_from_pink_carpet_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
     "criteria": {
       "has_steel_ingot": "2024-12-26 19:29:18 +0000"
@@ -15814,6 +16105,12 @@
   "techreborn:recipes/compressor/iron_plate_from_block": {
     "criteria": {
       "has_iron_block": "2024-12-26 19:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
     },
     "done": true
   },
@@ -15838,6 +16135,12 @@
   "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
     },
     "done": true
   },
@@ -15868,6 +16171,12 @@
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2024-12-26 20:43:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_candle_from_pink_candle_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -15967,6 +16276,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/purple_wool_from_white_wool_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit": {
     "criteria": {
       "has_the_recipe": "2024-12-26 19:29:13 +0000"
@@ -15976,6 +16291,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-26 19:06:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
     },
     "done": true
   },
@@ -16039,15 +16360,45 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/thallasium_bulb_lantern_purple": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_wool_from_pink_wool_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
     "criteria": {
       "has_calamari": "2024-12-26 20:43:10 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/purple_carpet_from_white_carpet_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_wooden_button": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_stained_glass_pane_from_pink_stained_glass_pane_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -16060,6 +16411,18 @@
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-12-26 19:06:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_tile_small_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_tile_large": "2024-12-26 21:07:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_tile_small": {
+    "criteria": {
+      "has_cincinnasite_tile_large": "2024-12-26 21:07:06 +0000"
     },
     "done": true
   },
@@ -16147,9 +16510,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_purple_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/bone_cin_door": {
     "criteria": {
       "has_bone_block": "2024-12-26 19:51:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/purple_candle_from_magenta_candle_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
@@ -16189,6 +16564,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_purple": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/rubeus_log": {
     "criteria": {
       "has_rubeus_bark": "2024-12-26 19:18:24 +0000"
@@ -16225,6 +16612,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2024-12-26 21:07:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_ladder_from_brass_ingots_stonecutting": {
     "criteria": {
       "has_brass_ingots": "2024-12-26 18:42:55 +0000"
@@ -16237,6 +16636,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_tile_small": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2024-12-26 21:07:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2024-12-26 21:07:35 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "cursed_eye": "2024-12-26 19:19:53 +0000"
@@ -16246,6 +16657,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magenta_terracotta_from_pink_terracotta_with_purple_dye": {
+    "criteria": {
+      "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
