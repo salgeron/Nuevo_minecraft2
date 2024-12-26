@@ -669,17 +669,20 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "pine_taiga": "2024-12-26 22:38:11 +0000",
       "ancient_delta": "2024-12-14 22:19:43 +0000",
       "barley_fields": "2024-12-26 18:51:57 +0000",
       "redstone_caves": "2024-12-26 22:17:35 +0000",
       "grassy_beach": "2024-12-14 22:09:36 +0000",
       "scorching_caves": "2024-12-19 23:03:56 +0000",
       "rocky_meadow": "2024-12-14 22:08:30 +0000",
+      "blackwood_taiga": "2024-12-26 22:39:11 +0000",
       "mycotoxic_undergrowth": "2024-12-19 19:54:30 +0000",
       "magnolia_highlands": "2024-12-19 23:08:04 +0000",
       "deciduous_forest": "2024-12-15 13:43:35 +0000",
       "chalk_cliffs": "2024-12-14 22:06:44 +0000",
       "infernal_holt": "2024-12-19 19:00:46 +0000",
+      "temperate_grove": "2024-12-26 22:37:59 +0000",
       "grassland": "2024-12-14 22:06:59 +0000",
       "prairie": "2024-12-14 22:07:04 +0000",
       "redwoods": "2024-12-14 22:07:32 +0000"
@@ -688,12 +691,15 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "pine_taiga": "2024-12-26 22:38:11 +0000",
       "barley_fields": "2024-12-26 18:51:57 +0000",
       "grassy_beach": "2024-12-14 22:09:36 +0000",
       "rocky_meadow": "2024-12-14 22:08:30 +0000",
+      "blackwood_taiga": "2024-12-26 22:39:11 +0000",
       "magnolia_highlands": "2024-12-19 23:08:04 +0000",
       "deciduous_forest": "2024-12-15 13:43:35 +0000",
       "chalk_cliffs": "2024-12-14 22:06:44 +0000",
+      "temperate_grove": "2024-12-26 22:37:59 +0000",
       "grassland": "2024-12-14 22:06:59 +0000",
       "prairie": "2024-12-14 22:07:04 +0000",
       "redwoods": "2024-12-14 22:07:32 +0000"
@@ -15034,6 +15040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-26 22:33:24 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:02:10 +0000"
@@ -15574,9 +15586,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2024-12-26 22:33:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/glass_bottle_from_potion": {
     "criteria": {
       "has_potion": "2024-12-26 20:12:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/blue_orchid_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-26 22:37:26 +0000"
     },
     "done": true
   },
@@ -15838,6 +15862,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/teleportation_robe_boots": {
+    "criteria": {
+      "has_ender_eye": "2024-12-26 22:33:24 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/living_vines_armor_leggings": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:07 +0000"
@@ -15976,6 +16006,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-26 22:37:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
     "criteria": {
       "has_advanced_machine_frame": "2024-12-26 19:20:38 +0000"
@@ -16063,6 +16099,12 @@
   "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2024-12-26 22:33:24 +0000"
     },
     "done": true
   },
@@ -16216,6 +16258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-26 22:33:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2024-12-26 19:08:22 +0000"
@@ -16249,6 +16297,12 @@
   "promenade:recipes/crafting/asphalt/polished_block": {
     "criteria": {
       "has_asphalt": "2024-12-26 21:02:27 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/handbook_recipe": {
+    "criteria": {
+      "got_the_ender_eye": "2024-12-26 22:33:24 +0000"
     },
     "done": true
   },
@@ -16840,6 +16894,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2024-12-26 22:33:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_item": "2024-12-26 20:04:41 +0000"
@@ -17050,6 +17110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-26 22:37:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-26 20:02:08 +0000"
@@ -17059,6 +17125,12 @@
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-26 21:56:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_leggings": {
+    "criteria": {
+      "has_ender_eye": "2024-12-26 22:33:24 +0000"
     },
     "done": true
   },
@@ -17203,6 +17275,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/blue_orchid": {
+    "criteria": {
+      "has_flower": "2024-12-26 22:37:26 +0000"
     },
     "done": true
   },
@@ -17494,6 +17572,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/teleportation_robe_helmet": {
+    "criteria": {
+      "has_ender_eye": "2024-12-26 22:33:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_chair": {
     "criteria": {
       "has_oak_chair": "2024-12-26 20:12:20 +0000"
@@ -17752,6 +17836,12 @@
     },
     "done": true
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2024-12-26 22:33:24 +0000"
+    },
+    "done": true
+  },
   "animal_feeding_trough:recipes/decorations/feeding_trough": {
     "criteria": {
       "has_wood_slab": "2024-12-26 20:12:57 +0000"
@@ -17839,6 +17929,12 @@
   "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_void": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-26 22:33:24 +0000"
     },
     "done": true
   },
@@ -17953,6 +18049,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2024-12-26 22:33:24 +0000"
     },
     "done": true
   },

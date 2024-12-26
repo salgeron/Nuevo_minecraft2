@@ -3936,3 +3936,35 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:27:45] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 210.500000, 64.500000, 709.500000]
 [22:29:23] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
 [22:31:19] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 210.500000, 64.500000, 709.500000]
+[22:34:30] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
+[22:34:39] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
+[22:36:15] [Server thread/INFO]: Locating element betterstrongholds:stronghold took 296 ms
+[22:36:43] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 282.500000, 71.500000, 721.500000]
+[22:37:01] [Server thread/INFO]: salgeron fell from a high place
+[22:37:03] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:37:10] [Server thread/INFO]: [salgeron: Teleported salgeron to 906.500000, 114.500000, 332.500000]
+[22:37:26] [Server thread/INFO]: [salgeron: Gave 10 [Blue Orchid] to salgeron]
+[22:37:38] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
+[22:37:47] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
+[22:38:17] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[22:38:17] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1157, y=8, z=208}
+[22:38:17] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1158, y=8, z=208}
+[22:38:18] [Server thread/INFO]: salgeron fell from a high place
+[22:38:18] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1253, y=26, z=213}
+[22:38:18] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1253, y=26, z=214}
+[22:38:19] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[22:38:19] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:38:25] [Server thread/INFO]: [salgeron: Teleported salgeron to 1256.500000, 81.500000, 339.500000]
+[22:38:33] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
+[22:38:40] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[22:38:56] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1280, y=-14, z=72}
+[22:39:02] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
+[22:40:07] [Server thread/INFO]: salgeron was doomed to fall by Mutant Skeleton
+[22:40:09] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:40:16] [Server thread/INFO]: [salgeron: Teleported salgeron to 1221.500000, 81.500000, 311.500000]
+[22:40:21] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
+[22:40:43] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
+[22:42:01] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 210.500000, 64.500000, 709.500000]
+[22:42:13] [Server thread/INFO]: salgeron was slain by Old Champion's Remains
+[22:42:15] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:42:20] [Server thread/INFO]: [salgeron: Teleported salgeron to 1232.500000, 99.500000, 267.500000]
