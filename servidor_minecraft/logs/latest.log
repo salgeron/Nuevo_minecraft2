@@ -3613,3 +3613,37 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [21:29:11] [Server thread/INFO]: [EMI] salgeron deleted 1 MaterialItem[charged_certus_quartz_crystal]
 [21:29:12] [Server thread/INFO]: [EMI] salgeron deleted 1 quartz
 [21:31:38] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
+[21:33:10] [Server thread/ERROR]: [betternether] Unable to get Drops for 1 advanced_drill
+java.util.NoSuchElementException: minecraft:block_entity
+	at net.minecraft.loot.context.LootContextParameterSet$Builder.get(LootContextParameterSet.java:106) ~[server-intermediary.jar:?]
+	at net.minecraft.block.AnvilBlock.getDroppedStacks(AnvilBlock.java:1652) ~[server-intermediary.jar:?]
+	at net.minecraft.block.AbstractBlock$AbstractBlockState.getDroppedStacks(AbstractBlock.java:1129) ~[server-intermediary.jar:?]
+	at net.minecraft.block.Block.getDroppedStacks(Block.java:333) ~[server-intermediary.jar:?]
+	at org.betterx.betternether.enchantments.RubyFire.getDrops(RubyFire.java:137) ~[better-nether-9.0.10.jar:?]
+	at net.minecraft.block.Block.handler$bla000$betternether$bn_getDrops(Block.java:3667) ~[server-intermediary.jar:?]
+	at net.minecraft.block.Block.dropStacks(Block.java) ~[server-intermediary.jar:?]
+	at net.minecraft.block.Block.afterBreak(Block.java:431) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.tryBreakBlock(ServerPlayerInteractionManager.java:275) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.finishMining(ServerPlayerInteractionManager.java:228) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayerInteractionManager.processBlockBreakingAction(ServerPlayerInteractionManager.java:203) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerAction(ServerPlayNetworkHandler.java:1083) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerActionC2SPacket.apply(PlayerActionC2SPacket.java:42) ~[server-intermediary.jar:?]
+	at net.minecraft.network.packet.c2s.play.PlayerActionC2SPacket.apply(PlayerActionC2SPacket.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkThreadUtils.method_11072(NetworkThreadUtils.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:34:11] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
+[21:39:27] [Server thread/INFO]: [EMI] salgeron deleted 1 linear_chassis
+[21:39:28] [Server thread/INFO]: [EMI] salgeron deleted 1 deployer
+[21:39:29] [Server thread/INFO]: [EMI] salgeron deleted 1 mechanical_drill
