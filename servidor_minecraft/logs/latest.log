@@ -4038,3 +4038,48 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:51:41] [Server thread/INFO]: Irinasan24 has completed the challenge [Steeped in Strength]
 [22:51:46] [Server thread/INFO]: Irinasan24 has reached the goal [Restless Sleepwalker]
 [22:52:25] [Server thread/INFO]: Irinasan24 has made the advancement [World of illusion]
+[22:53:18] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1313, y=-46, z=-18}
+[22:53:35] [Server thread/INFO]: Villager class_1646['Helga'/156096, l='ServerLevel[world]', x=1562.50, y=74.00, z=135.50] died, message: 'Helga hit the ground too hard'
+[22:53:35] [Server thread/INFO]: Named entity class_1646['Helga'/156096, l='ServerLevel[world]', x=1562.50, y=74.00, z=135.50] died: Helga fell from a high place
+[22:53:48] [Server thread/INFO]: Locating element betterstrongholds:stronghold took 0 ms
+[22:53:52] [Server thread/INFO]: [salgeron: Teleported salgeron to 1728.500000, 86.000000, 208.500000]
+[22:53:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2849ms or 56 ticks behind
+[22:54:03] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[22:54:03] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[22:54:03] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[22:54:03] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[22:54:03] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[22:54:29] [Server thread/INFO]: salgeron has made the advancement [Eye Spy]
+[22:54:29] [Server thread/INFO]: salgeron fell from a high place
+[22:54:30] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:54:43] [Server thread/INFO]: [salgeron: Teleported salgeron to 1741.500000, 11.500000, 199.500000]
+[22:55:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[22:55:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[22:55:21] [Server thread/INFO]: [salgeron: Gave 1 [Torch] to salgeron]
+[22:56:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:56:42] [Worker-Main-1/WARN]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[22:56:42] [Worker-Main-1/WARN]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[22:56:42] [Worker-Main-1/WARN]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[22:56:42] [Worker-Main-1/WARN]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[22:56:42] [Worker-Main-1/WARN]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[22:56:42] [Worker-Main-1/WARN]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[22:56:43] [Worker-Main-1/WARN]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[22:56:43] [Worker-Main-1/WARN]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[22:56:43] [Worker-Main-1/WARN]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[22:56:47] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1098, y=-36, z=-106}
+[22:56:47] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1179, y=-36, z=-98}
+[22:56:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9713ms or 194 ticks behind
+[22:57:35] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 1243.500000, 110.500000, 125.500000]
+[22:58:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[22:58:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=969, y=24, z=-88}
+[22:58:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3323ms or 66 ticks behind
+[22:58:55] [Server thread/INFO]: salgeron has completed the challenge [Centennial]
+[22:59:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22:59:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[23:00:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23:00:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23:01:16] [Server thread/INFO]: Irinasan24 has made the advancement [Arcane Empowerment]
+[23:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[23:02:09] [Server thread/INFO]: Irinasan24 has made the advancement [Guns and Roses]
+[23:02:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23:03:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind

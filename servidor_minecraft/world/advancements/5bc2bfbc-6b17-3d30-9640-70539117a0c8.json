@@ -721,12 +721,14 @@
       "pine_taiga": "2024-12-26 22:42:56 +0000",
       "ancient_delta": "2024-12-15 13:28:27 +0000",
       "grassy_beach": "2024-12-15 15:58:14 +0000",
+      "blackwood_taiga": "2024-12-26 22:52:50 +0000",
       "mycotoxic_undergrowth": "2024-12-26 19:00:32 +0000",
       "sparse_redwoods": "2024-12-21 18:52:04 +0000",
       "deciduous_forest": "2024-12-15 13:46:37 +0000",
       "glistering_meadow": "2024-12-26 20:30:26 +0000",
       "chalk_cliffs": "2024-12-21 18:48:52 +0000",
       "infernal_holt": "2024-12-19 19:40:25 +0000",
+      "temperate_grove": "2024-12-26 22:58:32 +0000",
       "prairie": "2024-12-14 22:11:01 +0000",
       "grassland": "2024-12-21 18:42:32 +0000",
       "redwoods": "2024-12-21 18:46:15 +0000"
@@ -737,9 +739,11 @@
     "criteria": {
       "pine_taiga": "2024-12-26 22:42:56 +0000",
       "grassy_beach": "2024-12-15 15:58:14 +0000",
+      "blackwood_taiga": "2024-12-26 22:52:50 +0000",
       "sparse_redwoods": "2024-12-21 18:52:04 +0000",
       "deciduous_forest": "2024-12-15 13:46:37 +0000",
       "chalk_cliffs": "2024-12-21 18:48:52 +0000",
+      "temperate_grove": "2024-12-26 22:58:32 +0000",
       "prairie": "2024-12-14 22:11:01 +0000",
       "grassland": "2024-12-21 18:42:32 +0000",
       "redwoods": "2024-12-21 18:46:15 +0000"
@@ -8470,6 +8474,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-19 22:19:45 +0000",
+      "golden_apple": "2024-12-26 22:55:09 +0000",
       "beetroot": "2024-12-19 22:19:40 +0000",
       "cooked_chicken": "2024-12-19 22:21:25 +0000"
     },
@@ -14022,6 +14027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-26 22:59:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2024-12-26 19:20:09 +0000"
@@ -14150,9 +14161,10 @@
   },
   "soulsweapons:draugr_boss": {
     "criteria": {
-      "soulsweapons:draugr_boss": "2024-12-26 22:44:24 +0000"
+      "soulsweapons:draugr_boss": "2024-12-26 22:44:24 +0000",
+      "soulsweapons:night_shade": "2024-12-26 22:51:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
     "criteria": {
@@ -14238,6 +14250,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/electric_furnace": {
+    "criteria": {
+      "has_electronic_circuit": "2024-12-26 22:56:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_pavers_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
@@ -14247,6 +14265,12 @@
   "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
       "has_blazing_eye": "2024-12-26 18:58:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/jungle_slab_from_stairs": {
+    "criteria": {
+      "has_jungle_stairs": "2024-12-26 23:01:54 +0000"
     },
     "done": true
   },
@@ -14316,6 +14340,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-26 22:56:51 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2024-12-26 19:06:43 +0000"
@@ -14340,9 +14370,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/basic_display": {
+    "criteria": {
+      "has_electronic_circuit": "2024-12-26 22:56:18 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkin_scythe_pre": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -14355,6 +14397,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-26 19:06:14 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/leviathan_axe_right": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -14433,6 +14481,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -14532,6 +14586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-26 22:59:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/red_mushroom": {
     "criteria": {
       "has_red_mushroom": "2024-12-26 18:51:32 +0000"
@@ -14604,6 +14664,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-12-26 19:06:43 +0000"
@@ -14622,15 +14688,34 @@
     },
     "done": true
   },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "blue_bioshroom": "2024-12-26 22:53:17 +0000",
+      "pink_bioshroom": "2024-12-26 22:53:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-26 20:23:35 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/cacophonium": {
+    "criteria": {
+      "has_item": "2024-12-26 23:00:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonlight_greatsword": {
+    "criteria": {
+      "has_lord_soul": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -14706,6 +14791,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_reaper": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
@@ -14754,6 +14845,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2024-12-26 22:55:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/chemical_reactor": {
     "criteria": {
       "has_advanced_circuit": "2024-12-26 19:41:22 +0000"
@@ -14799,6 +14896,12 @@
   "techreborn:recipes/grinder/brass_dust": {
     "criteria": {
       "has_tag_c_brass_ingots": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/mjolnir": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -14868,6 +14971,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/tin_plate": {
+    "criteria": {
+      "has_tag_c_tin_ingots": "2024-12-26 22:56:49 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/master_sword": {
+    "criteria": {
+      "has_lord_soul": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_terracotta_from_magenta_terracotta_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2024-12-26 21:09:12 +0000"
@@ -14904,9 +15019,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/galeforce": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/soul_sand": {
     "criteria": {
       "has_soul_sand": "2024-12-26 19:32:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-26 22:55:17 +0000"
     },
     "done": true
   },
@@ -14949,6 +15076,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_treasure": "2024-12-26 19:19:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2024-12-26 22:55:43 +0000"
     },
     "done": true
   },
@@ -15018,6 +15151,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
+    "criteria": {
+      "has_pine_shrub": "2024-12-26 22:53:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-26 18:31:29 +0000"
@@ -15072,6 +15211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-26 23:01:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-26 19:22:09 +0000"
@@ -15084,6 +15229,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/tin_nugget": {
+    "criteria": {
+      "has_tin_ingot": "2024-12-26 22:56:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_axe": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-26 20:02:47 +0000"
@@ -15093,6 +15244,12 @@
   "croptopia:recipes/pork_and_beans": {
     "criteria": {
       "has_pork": "2024-12-26 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2024-12-26 22:53:17 +0000"
     },
     "done": true
   },
@@ -15117,6 +15274,12 @@
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2024-12-26 19:32:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
+    "criteria": {
+      "has_blue_bioshroom": "2024-12-26 22:53:17 +0000"
     },
     "done": true
   },
@@ -15155,6 +15318,12 @@
       "has_block.betternether.nether_brick_tile_large": "2024-12-26 21:07:35 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2024-12-26 22:52:25 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/building_blocks/nether_sakura_log": {
     "criteria": {
@@ -15231,6 +15400,18 @@
   "ae2:recipes/misc/network/cables/dense_covered_black": {
     "criteria": {
       "has_dyes/black": "2024-12-26 20:43:10 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonlight_shortsword": {
+    "criteria": {
+      "has_lord_soul": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/glistering_melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-26 23:01:31 +0000"
     },
     "done": true
   },
@@ -15342,9 +15523,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/draugr": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-26 22:42:28 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/rageblade": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -15369,6 +15562,12 @@
   "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
     "criteria": {
       "has_netherrack_stalactite": "2024-12-26 19:47:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2024-12-26 23:01:31 +0000"
     },
     "done": true
   },
@@ -15480,6 +15679,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/crucible_sword": {
+    "criteria": {
+      "has_lord_soul": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
     "criteria": {
       "has_soul_sand": "2024-12-26 19:32:14 +0000"
@@ -15489,6 +15694,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-26 19:06:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-26 23:01:24 +0000"
     },
     "done": true
   },
@@ -15534,6 +15745,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-26 22:59:19 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_pork": "2024-12-26 20:29:54 +0000"
@@ -15555,6 +15772,12 @@
   "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
       "has_bone_block": "2024-12-26 19:50:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:lord_soul": {
+    "criteria": {
+      "soul": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -15612,9 +15835,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2024-12-26 22:56:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/player_detector": {
     "criteria": {
       "has_advanced_circuit": "2024-12-26 19:41:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/lead_plate": {
+    "criteria": {
+      "has_tag_c_lead_ingots": "2024-12-26 22:55:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-26 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kraken_slayer": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -15675,6 +15922,12 @@
   "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
     "criteria": {
       "has_nether_brick": "2024-12-26 19:06:03 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-26 23:01:24 +0000"
     },
     "done": true
   },
@@ -15750,6 +16003,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/darkmoon_longbow": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-26 20:18:23 +0000"
@@ -15777,6 +16036,12 @@
   "betternether:recipes/building_blocks/bone_block_bone_stairs": {
     "criteria": {
       "has_bone_block": "2024-12-26 19:51:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/lich_bane": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -15816,6 +16081,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
+    "criteria": {
+      "has_electronic_circuit": "2024-12-26 22:56:18 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/shortbows/bow_shortbow": {
     "criteria": {
       "has_string": "2024-12-26 19:06:14 +0000"
@@ -15846,6 +16117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-26 23:01:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
@@ -15864,9 +16141,27 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/frostmourne": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-26 22:59:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/whirligig_sawblade": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -15909,6 +16204,12 @@
   "copycats:recipes/misc/stonecutting/copycat_wall": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/forlorn_scythe": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -15963,6 +16264,12 @@
   "techreborn:recipes/centrifuge/golden_apple": {
     "criteria": {
       "has_golden_apple": "2024-12-26 22:42:43 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:arcanethyst": {
+    "criteria": {
+      "requirement": "2024-12-26 23:01:16 +0000"
     },
     "done": true
   },
@@ -16021,6 +16328,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-26 22:56:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/nickel_dust": {
     "criteria": {
       "has_tag_c_nickel_ingots": "2024-12-26 19:22:54 +0000"
@@ -16045,6 +16358,18 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/darkin_blade": {
+    "criteria": {
+      "has_lord_soul": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/freyr_sword": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
     "criteria": {
       "has_advanced_circuit": "2024-12-26 19:41:22 +0000"
@@ -16054,6 +16379,12 @@
   "minecraft:recipes/building_blocks/dye_purple_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-26 23:01:31 +0000"
     },
     "done": true
   },
@@ -16105,6 +16436,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/nightfall": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/redstone_from_redstone_ore_with_water": {
     "criteria": {
       "has_tag_c_redstone_ores": "2024-12-26 21:00:56 +0000"
@@ -16120,6 +16457,12 @@
   "techreborn:recipes/compressor/nickel_plate": {
     "criteria": {
       "has_tag_c_nickel_ingots": "2024-12-26 19:22:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_bioshroom_block": {
+    "criteria": {
+      "has_pink_bioshroom": "2024-12-26 22:53:14 +0000"
     },
     "done": true
   },
@@ -16162,6 +16505,12 @@
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2024-12-26 22:56:49 +0000"
     },
     "done": true
   },
@@ -16237,6 +16586,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-26 23:01:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
@@ -16279,6 +16634,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/tin_storage_block": {
+    "criteria": {
+      "has_tin_ingot": "2024-12-26 22:56:49 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/leviathan_axe_left": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
@@ -16306,6 +16673,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-26 19:20:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/advanced_circuit": {
+    "criteria": {
+      "has_electronic_circuit": "2024-12-26 22:56:18 +0000"
     },
     "done": true
   },
@@ -16342,6 +16715,12 @@
   "betternether:recipes/tools/cincinnasite_pickaxe": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-26 20:02:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lsu_storage": {
+    "criteria": {
+      "has_electronic_circuit": "2024-12-26 22:56:18 +0000"
     },
     "done": true
   },
@@ -16390,6 +16769,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-26 20:43:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-26 23:01:31 +0000"
     },
     "done": true
   },
@@ -16501,6 +16886,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/tall_pink_bioshroom": {
+    "criteria": {
+      "has_pink_bioshroom": "2024-12-26 22:53:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_mercury": {
     "criteria": {
       "has_ancient_debris": "2024-12-26 19:20:09 +0000"
@@ -16516,6 +16907,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
+    "criteria": {
+      "has_barrel": "2024-12-26 23:01:24 +0000"
     },
     "done": true
   },
@@ -16543,9 +16940,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2024-12-26 23:01:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_carpet_from_white_carpet_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragonslayer_swordspear": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -16567,9 +16976,21 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/wither_rose": {
+    "criteria": {
+      "has_flower": "2024-12-26 22:56:51 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-12-26 19:06:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dawnbreaker": {
+    "criteria": {
+      "has_lord_soul": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -16591,6 +17012,12 @@
       "draugr": "2024-12-26 22:44:25 +0000"
     },
     "done": false
+  },
+  "techreborn:recipes/crafting_table/frequency_transmitter": {
+    "criteria": {
+      "has_circuit": "2024-12-26 22:56:18 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
@@ -16616,9 +17043,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/draupnir_spear": {
+    "criteria": {
+      "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/holy_moonlight_sword": {
+    "criteria": {
+      "has_lord_soul": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
@@ -16640,6 +17079,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/data_storage_core": {
+    "criteria": {
+      "has_electronic_circuit": "2024-12-26 22:56:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot_alt": {
     "criteria": {
       "has_brass_ingot": "2024-12-26 18:42:55 +0000"
@@ -16649,6 +17094,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-26 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2024-12-26 22:53:17 +0000"
     },
     "done": true
   },
@@ -16730,6 +17181,18 @@
     },
     "done": true
   },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2024-12-26 23:01:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cell": {
+    "criteria": {
+      "has_tin_ingot": "2024-12-26 22:56:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-12-26 19:06:43 +0000"
@@ -16751,6 +17214,12 @@
   "betternether:recipes/building_blocks/rubeus_log": {
     "criteria": {
       "has_rubeus_bark": "2024-12-26 19:18:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray_double": {
+    "criteria": {
+      "has_item": "2024-12-26 22:52:40 +0000"
     },
     "done": true
   },
@@ -16778,9 +17247,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/pink_bioshroom_from_tall_pink_bioshroom": {
+    "criteria": {
+      "has_tall_pink_bioshroom": "2024-12-26 22:53:19 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2024-12-26 22:52:25 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:nether/gauntlet_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:gauntlet": "2024-12-26 18:58:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
+    "criteria": {
+      "has_lead_ingot": "2024-12-26 22:55:43 +0000"
     },
     "done": true
   },
@@ -16790,9 +17277,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-26 23:01:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_wall_from_large_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_large": "2024-12-26 21:07:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_bioshroom": {
+    "criteria": {
+      "has_pink_bioshroom": "2024-12-26 22:53:14 +0000"
     },
     "done": true
   },
@@ -16811,6 +17310,12 @@
   "betternether:recipes/building_blocks/nether_tile_small": {
     "criteria": {
       "has_nether_brick_tile_large": "2024-12-26 21:07:35 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-26 22:58:39 +0000"
     },
     "done": true
   },
@@ -16907,6 +17412,12 @@
   "betterend:recipes/misc/dragon_bone_block": {
     "criteria": {
       "has_bone_block": "2024-12-26 19:50:30 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung": {
+    "criteria": {
+      "has_lord_soul": "2024-12-26 22:51:41 +0000"
     },
     "done": true
   },
