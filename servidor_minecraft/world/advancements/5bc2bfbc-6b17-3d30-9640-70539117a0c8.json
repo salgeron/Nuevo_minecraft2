@@ -718,6 +718,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "redstone_abyss": "2024-12-26 21:00:30 +0000",
+      "pine_taiga": "2024-12-26 22:42:56 +0000",
       "ancient_delta": "2024-12-15 13:28:27 +0000",
       "grassy_beach": "2024-12-15 15:58:14 +0000",
       "mycotoxic_undergrowth": "2024-12-26 19:00:32 +0000",
@@ -734,6 +735,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "pine_taiga": "2024-12-26 22:42:56 +0000",
       "grassy_beach": "2024-12-15 15:58:14 +0000",
       "sparse_redwoods": "2024-12-21 18:52:04 +0000",
       "deciduous_forest": "2024-12-15 13:46:37 +0000",
@@ -13990,6 +13992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/elevator_pulley": {
     "criteria": {
       "has_item": "2024-12-26 18:42:55 +0000"
@@ -14029,6 +14037,12 @@
   "techreborn:recipes/extractor/black_dye_from_ink_sac": {
     "criteria": {
       "has_ink_sac": "2024-12-26 20:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-12-26 22:45:11 +0000"
     },
     "done": true
   },
@@ -14133,6 +14147,12 @@
       "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
+  },
+  "soulsweapons:draugr_boss": {
+    "criteria": {
+      "soulsweapons:draugr_boss": "2024-12-26 22:44:24 +0000"
+    },
+    "done": false
   },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
     "criteria": {
@@ -14299,6 +14319,12 @@
   "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2024-12-26 19:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
     },
     "done": true
   },
@@ -14536,6 +14562,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-26 22:42:28 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_dual": {
     "criteria": {
       "has_string": "2024-12-26 19:06:14 +0000"
@@ -14638,6 +14670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/brick_pot": {
     "criteria": {
       "has_nether_brick": "2024-12-26 19:06:03 +0000"
@@ -14647,6 +14685,12 @@
   "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_large": "2024-12-26 21:07:35 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/soul_lamp": {
+    "criteria": {
+      "has_item": "2024-12-26 22:45:11 +0000"
     },
     "done": true
   },
@@ -14908,6 +14952,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2024-12-26 22:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
@@ -15088,6 +15138,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-26 22:42:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bricks_fire_bowl_soul": {
     "criteria": {
       "has_nether_brick": "2024-12-26 19:06:03 +0000"
@@ -15238,6 +15294,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 22:42:28 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/soul_robe_boots": {
     "criteria": {
       "has_soul_sand": "2024-12-26 19:32:14 +0000"
@@ -15280,9 +15342,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 22:42:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/invar_plate": {
     "criteria": {
       "has_tag_c_invar_ingots": "2024-12-26 19:19:45 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/deer_venison": {
+    "criteria": {
+      "got_the_venison": "2024-12-26 22:42:10 +0000"
     },
     "done": true
   },
@@ -15310,6 +15384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-26 22:42:28 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_ladder": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
@@ -15319,6 +15399,12 @@
   "create:recipes/misc/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
     },
     "done": true
   },
@@ -15436,6 +15522,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-12-26 22:45:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
@@ -15532,6 +15624,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 22:42:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
       "has_purple_dye": "2024-12-26 21:09:12 +0000"
@@ -15565,6 +15663,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
     "criteria": {
       "has_nickel_ingot": "2024-12-26 19:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
     },
     "done": true
   },
@@ -15832,6 +15936,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2024-12-26 22:42:28 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_door": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
@@ -15847,6 +15957,12 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-12-26 19:20:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2024-12-26 22:42:43 +0000"
     },
     "done": true
   },
@@ -15968,6 +16084,12 @@
   "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
     "criteria": {
       "has_golden_leggings": "2024-12-26 19:38:59 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2024-12-26 22:42:43 +0000"
     },
     "done": true
   },
@@ -16121,6 +16243,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-26 22:45:11 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_sword": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-26 20:02:47 +0000"
@@ -16148,6 +16276,12 @@
   "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
     },
     "done": true
   },
@@ -16229,9 +16363,21 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-26 22:45:11 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/cincinnasite_bricks": {
     "criteria": {
       "has_nether_brick": "2024-12-26 19:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
     },
     "done": true
   },
@@ -16337,6 +16483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/bone_block_bone_slab": {
     "criteria": {
       "has_bone_block": "2024-12-26 19:51:33 +0000"
@@ -16435,7 +16587,8 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
-      "darkin_blade": "2024-12-26 19:23:15 +0000"
+      "darkin_blade": "2024-12-26 19:23:15 +0000",
+      "draugr": "2024-12-26 22:44:25 +0000"
     },
     "done": false
   },
@@ -16523,6 +16676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/bone_cin_door": {
     "criteria": {
       "has_bone_block": "2024-12-26 19:51:33 +0000"
@@ -16562,6 +16721,12 @@
   "betternether:recipes/building_blocks/soul_sandstone_cut_stonecutting": {
     "criteria": {
       "has_block.betternether.soul_sandstone": "2024-12-26 21:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
     },
     "done": true
   },
@@ -16667,6 +16832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/magenta_terracotta_from_pink_terracotta_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2024-12-26 21:09:12 +0000"
@@ -16688,6 +16859,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-26 19:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
     },
     "done": true
   },

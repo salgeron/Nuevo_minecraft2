@@ -3968,3 +3968,73 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:42:13] [Server thread/INFO]: salgeron was slain by Old Champion's Remains
 [22:42:15] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
 [22:42:20] [Server thread/INFO]: [salgeron: Teleported salgeron to 1232.500000, 99.500000, 267.500000]
+[22:42:55] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[22:44:40] [Server thread/INFO]: Irinasan24 was shot by Frenzied Shade
+[22:44:42] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[22:44:44] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[22:45:36] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[22:45:52] [Server thread/INFO]: salgeron was shot by Frenzied Shade
+[22:45:53] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:46:02] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[22:46:07] [Server thread/INFO]: Irinasan24 was slain by Frenzied Shade
+[22:46:09] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[22:46:15] [Server thread/INFO]: salgeron was shot by Frenzied Shade
+[22:46:16] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:46:23] [Server thread/INFO]: [salgeron: Teleported salgeron to 1238.500000, 107.500000, 283.500000]
+[22:46:27] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[22:46:32] [Server thread/INFO]: salgeron was shot by Frenzied Shade
+[22:46:33] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:46:35] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[22:47:01] [Server thread/INFO]: salgeron was slain by Frenzied Shade
+[22:47:03] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:47:05] [Server thread/INFO]: Irinasan24 was slain by Frenzied Shade
+[22:47:06] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[22:47:07] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[22:47:09] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[22:47:16] [Server thread/INFO]: salgeron was doomed to fall by Frenzied Shade
+[22:47:17] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:47:19] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[22:47:24] [Server thread/INFO]: Irinasan24 was slain by Frenzied Shade
+[22:47:26] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[22:47:35] [Server thread/INFO]: salgeron was slain by Frenzied Shade
+[22:47:37] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:47:38] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[22:47:38] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to salgeron]
+[22:47:46] [Server thread/INFO]: [salgeron: Teleported salgeron to 1242.500000, 107.500000, 285.500000]
+[22:47:49] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[22:47:52] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 1213.500000, 106.500000, 282.500000]
+[22:48:06] [Server thread/INFO]: salgeron was shot by Frenzied Shade
+[22:48:08] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:48:12] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[22:48:15] [Server thread/INFO]: Irinasan24 was shot by Frenzied Shade
+[22:48:16] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[22:48:25] [Server thread/INFO]: salgeron was slain by Frenzied Shade
+[22:48:26] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 1246.500000, 107.500000, 276.500000]
+[22:48:26] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:48:29] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[22:48:38] [Server thread/INFO]: salgeron was slain by Frenzied Shade
+[22:48:39] [Server thread/INFO]: Irinasan24 was slain by Frenzied Shade
+[22:48:40] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:48:41] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[22:48:45] [Server thread/INFO]: [salgeron: Teleported salgeron to 1217.500000, 88.500000, 298.500000]
+[22:48:48] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 1233.500000, 99.500000, 278.500000]
+[22:48:50] [Server thread/INFO]: [salgeron: Teleported salgeron to 1257.500000, 104.500000, 285.500000]
+[22:48:56] [Server thread/INFO]: salgeron was slain by Frenzied Shade
+[22:48:57] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 1247.500000, 107.500000, 277.500000]
+[22:48:58] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:49:03] [Server thread/INFO]: [salgeron: Teleported salgeron to 1225.500000, 108.500000, 285.500000]
+[22:49:06] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[22:50:18] [Server thread/INFO]: salgeron was shot by Frenzied Shade
+[22:50:20] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:50:22] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[22:50:41] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 1224.500000, 108.500000, 250.500000]
+[22:51:21] [Server thread/INFO]: Irinasan24 was slain by Frenzied Shade
+[22:51:23] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[22:51:26] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[22:51:27] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 1216.500000, 115.500000, 208.500000]
+[22:51:37] [Server thread/INFO]: salgeron was slain by Frenzied Shade
+[22:51:39] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[22:51:41] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[22:51:41] [Server thread/INFO]: Irinasan24 has completed the challenge [Steeped in Strength]
+[22:51:46] [Server thread/INFO]: Irinasan24 has reached the goal [Restless Sleepwalker]
+[22:52:25] [Server thread/INFO]: Irinasan24 has made the advancement [World of illusion]
