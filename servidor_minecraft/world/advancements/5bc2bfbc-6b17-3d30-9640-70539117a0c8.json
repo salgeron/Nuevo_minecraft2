@@ -657,6 +657,7 @@
       "minecraft:sparse_jungle": "2024-12-21 18:50:35 +0000",
       "minecraft:lukewarm_ocean": "2024-12-15 16:22:10 +0000",
       "minecraft:river": "2024-12-19 20:04:23 +0000",
+      "minecraft:lush_caves": "2024-12-26 23:14:28 +0000",
       "minecraft:jungle": "2024-12-14 22:09:30 +0000"
     },
     "done": false
@@ -14148,6 +14149,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-26 23:15:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
@@ -14230,6 +14237,12 @@
   "botania:recipes/tools/third_eye": {
     "criteria": {
       "has_item": "2024-12-26 18:35:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-26 23:15:50 +0000"
     },
     "done": true
   },
@@ -15122,6 +15135,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2024-12-26 23:15:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/rubeus_bark": {
     "criteria": {
       "has_rubeus_log": "2024-12-26 19:52:51 +0000"
@@ -15491,6 +15510,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:31 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-26 23:15:50 +0000"
     },
     "done": true
   },
@@ -15974,6 +15999,18 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2024-12-26 23:18:12 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2024-12-26 23:15:50 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/fermentation_barrel": {
     "criteria": {
       "has_barrel": "2024-12-26 23:01:24 +0000"
@@ -16280,6 +16317,12 @@
     },
     "done": true
   },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2024-12-26 23:15:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_water": {
     "criteria": {
       "has_diamond_horse_armor": "2024-12-26 20:20:45 +0000"
@@ -16443,6 +16486,12 @@
     },
     "done": true
   },
+  "spellbladenext:spellblades/gladius": {
+    "criteria": {
+      "arcane": "2024-12-26 23:12:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
@@ -16572,6 +16621,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_plate_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2024-12-26 23:15:50 +0000"
     },
     "done": true
   },
@@ -16767,6 +16822,12 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2024-12-26 23:15:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
@@ -16788,6 +16849,12 @@
   "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2024-12-26 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-26 23:15:50 +0000"
     },
     "done": true
   },
@@ -16992,6 +17059,12 @@
   "techreborn:recipes/chemical_reactor/magenta_wool_from_pink_wool_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-12-26 23:18:16 +0000"
     },
     "done": true
   },
@@ -17392,6 +17465,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-26 23:15:50 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2024-12-26 22:58:39 +0000"
@@ -17491,6 +17570,12 @@
   "betterend:recipes/misc/dragon_bone_block": {
     "criteria": {
       "has_bone_block": "2024-12-26 19:50:30 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2024-12-26 23:15:50 +0000"
     },
     "done": true
   },
