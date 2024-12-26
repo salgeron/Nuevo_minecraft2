@@ -3926,3 +3926,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:18:56] [Server thread/INFO]: [EMI] salgeron deleted 5 pointed_redstone
 [22:19:09] [Server thread/INFO]: [EMI] salgeron deleted 2 arrow
 [22:19:47] [Server thread/INFO]: [EMI] salgeron deleted 4 rotten_flesh
+[22:23:00] [Server thread/INFO]: [salgeron: Teleported salgeron to 199.500000, 66.500000, 701.500000]
+[22:24:17] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
+[22:25:54] [Server thread/INFO]: <Irinasan24> tamo
+[22:26:43] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
+[22:27:06] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
+[22:27:11] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
+[22:27:15] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[22:27:45] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 210.500000, 64.500000, 709.500000]
+[22:29:23] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[22:31:19] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 210.500000, 64.500000, 709.500000]
