@@ -14090,6 +14090,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_furnace": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2024-12-26 21:09:12 +0000"
@@ -14117,6 +14123,12 @@
   "bewitchment:recipes/decorations/obsidian_witch_altar": {
     "criteria": {
       "has_item": "2024-12-26 19:06:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -14211,6 +14223,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_shingle_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
@@ -14220,6 +14238,12 @@
   "mcda:recipes/base_armors/living_vines_armor_boots": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -14343,6 +14367,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-12-26 19:06:43 +0000"
@@ -14373,6 +14403,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/sheldonite_ore_with_water": {
+    "criteria": {
+      "has_sheldonite_ore": "2024-12-26 23:35:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_cracked_smelting": {
+    "criteria": {
+      "has_block.minecraft.end_stone_bricks": "2024-12-26 23:37:17 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2024-12-26 19:06:43 +0000"
@@ -14397,6 +14439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-26 23:37:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/basic_display": {
     "criteria": {
       "has_electronic_circuit": "2024-12-26 22:56:18 +0000"
@@ -14406,6 +14454,18 @@
   "dungeons_arise:find_thornborn_towers": {
     "criteria": {
       "location0": "2024-12-26 23:02:09 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_shard_to_dust": {
+    "criteria": {
+      "has_item.betterend.ender_shard": "2024-12-26 23:34:39 +0000"
     },
     "done": true
   },
@@ -14454,6 +14514,12 @@
   "techreborn:recipes/chemical_reactor/purple_stained_glass_pane_from_magenta_stained_glass_pane_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -14520,6 +14586,12 @@
   "soulsweapons:recipes/combat/comet_spear": {
     "criteria": {
       "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_tile_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -14601,6 +14673,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_brick_weathered_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-26 23:37:17 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/squid_armor_helmet": {
     "criteria": {
       "has_ink_sac": "2024-12-26 20:43:10 +0000"
@@ -14661,6 +14739,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_dual": {
     "criteria": {
       "has_string": "2024-12-26 19:06:14 +0000"
@@ -14682,6 +14766,12 @@
   "betternether:recipes/tools/cincinnasite_sword": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-26 20:02:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -14709,6 +14799,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_shingles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_byte": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
@@ -14727,6 +14829,12 @@
       "pink_bioshroom": "2024-12-26 22:53:14 +0000"
     },
     "done": false
+  },
+  "bewitchment:recipes/decorations/end_stone_witch_altar": {
+    "criteria": {
+      "has_item": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
@@ -14824,6 +14932,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_end_stone_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_reaper": {
     "criteria": {
       "has_item": "2024-12-26 22:51:41 +0000"
@@ -14872,6 +14986,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_paver_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/smart_purple": {
     "criteria": {
       "has_dyes/black": "2024-12-26 21:09:12 +0000"
@@ -14887,6 +15007,12 @@
   "techreborn:recipes/crafting_table/machine/chemical_reactor": {
     "criteria": {
       "has_advanced_circuit": "2024-12-26 19:41:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -15046,6 +15172,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/end_stone_bricks_with_water": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-26 23:37:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_shingle_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
@@ -15088,6 +15220,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/endstone_flower_pot": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-26 23:37:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
     "criteria": {
       "has_zinc_ingots": "2024-12-26 19:19:44 +0000"
@@ -15124,6 +15262,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_shingle_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/pocket_computer_advanced": {
     "criteria": {
       "has_apple": "2024-12-26 22:42:43 +0000"
@@ -15151,6 +15301,12 @@
   "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-26 23:37:17 +0000"
     },
     "done": true
   },
@@ -15262,6 +15418,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-26 23:01:31 +0000"
@@ -15313,6 +15475,12 @@
   "beachparty:bikini": {
     "criteria": {
       "has_string": "2024-12-26 19:06:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_end_stone_tiles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -15381,6 +15549,12 @@
       "killed_illusioner": "2024-12-26 22:52:25 +0000"
     },
     "done": false
+  },
+  "stoneworks:recipes/building_blocks/end_stone_paver_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
   },
   "betternether:recipes/building_blocks/nether_sakura_log": {
     "criteria": {
@@ -15526,6 +15700,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/end_stone_with_water": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-26 20:18:23 +0000"
@@ -15595,6 +15775,12 @@
   "soulsweapons:recipes/combat/draugr": {
     "criteria": {
       "has_item": "2024-12-26 22:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-26 23:37:17 +0000"
     },
     "done": true
   },
@@ -15712,6 +15898,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-26 23:33:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/food/herbal_medicine": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:31 +0000"
@@ -15754,6 +15946,12 @@
     },
     "done": true
   },
+  "mythicupgrades:recipes/misc/ametrine_ingot": {
+    "criteria": {
+      "has_necessary_ingredients": "2024-12-26 23:34:29 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/crucible_sword": {
     "criteria": {
       "has_lord_soul": "2024-12-26 22:51:41 +0000"
@@ -15781,6 +15979,18 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-26 19:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -15829,6 +16039,12 @@
   "techreborn:recipes/centrifuge/raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-26 22:59:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-26 23:37:17 +0000"
     },
     "done": true
   },
@@ -15892,6 +16108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/electrum_storage_block": {
     "criteria": {
       "has_electrum_ingot": "2024-12-26 19:23:19 +0000"
@@ -15913,6 +16135,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_paver_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -16012,9 +16240,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_vine": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-26 23:37:17 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_horde": {
     "criteria": {
       "kill_horde": "2024-12-26 23:18:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_tile_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -16030,6 +16270,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_cracked_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-26 23:37:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
     "criteria": {
       "has_steel_ingot": "2024-12-26 19:29:18 +0000"
@@ -16039,6 +16291,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-26 19:06:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_plates_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -16087,6 +16345,12 @@
   "croptopia:recipes/food/cooked_calamari_from_calamari": {
     "criteria": {
       "has_calamari": "2024-12-26 20:43:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_lingering_potion": {
+    "criteria": {
+      "has_lingering_potion": "2024-12-26 23:32:21 +0000"
     },
     "done": true
   },
@@ -16216,6 +16480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-26 23:01:31 +0000"
@@ -16228,15 +16498,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/platinum_ingot_from_c_sheldonite_ores": {
+    "criteria": {
+      "has_tag_c_sheldonite_ores": "2024-12-26 23:35:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_concrete_powder_from_white_concrete_powder_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2024-12-26 21:09:12 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_pavers_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_from_pebble": {
     "criteria": {
       "has_item": "2024-12-26 20:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-26 23:37:17 +0000"
     },
     "done": true
   },
@@ -16282,6 +16570,12 @@
     },
     "done": true
   },
+  "ends_delight:root": {
+    "criteria": {
+      "the_end": "2024-12-26 23:33:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/bn_glowstone_dust": {
     "criteria": {
       "has_glowstone_pile": "2024-12-26 20:08:45 +0000"
@@ -16309,6 +16603,12 @@
   "soulsweapons:recipes/combat/forlorn_scythe": {
     "criteria": {
       "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-26 23:33:48 +0000"
     },
     "done": true
   },
@@ -16360,6 +16660,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_plate_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-12-26 19:20:07 +0000"
@@ -16384,9 +16690,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_plate_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/food/stalagnate_bowl_wart": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -16399,6 +16717,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_plate_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -16445,6 +16769,12 @@
     },
     "done": true
   },
+  "betterend:enter_end": {
+    "criteria": {
+      "entered_end": "2024-12-26 23:33:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/glowstone_dust": {
     "criteria": {
       "has_glowstone_dust": "2024-12-26 18:31:29 +0000"
@@ -16466,6 +16796,12 @@
   "soulsweapons:recipes/combat/darkin_blade": {
     "criteria": {
       "has_lord_soul": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/platinum_ingot_from_c_sheldonite_ores": {
+    "criteria": {
+      "has_tag_c_sheldonite_ores": "2024-12-26 23:35:51 +0000"
     },
     "done": true
   },
@@ -16577,6 +16913,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_shingle_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2024-12-26 20:03:41 +0000"
@@ -16673,6 +17015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/nether_brick_witch_altar": {
     "criteria": {
       "has_item": "2024-12-26 20:03:41 +0000"
@@ -16739,6 +17087,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_plate_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_pillar_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/squid_armor_chestplate": {
     "criteria": {
       "has_ink_sac": "2024-12-26 20:43:10 +0000"
@@ -16748,6 +17108,12 @@
   "twigs:recipes/gravel_bricks/gravel_bricks": {
     "criteria": {
       "has_item": "2024-12-26 20:34:50 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_ingot_furnace_raw_blasting": {
+    "criteria": {
+      "has_item.betterend.thallasium_raw": "2024-12-26 23:34:20 +0000"
     },
     "done": true
   },
@@ -16883,6 +17249,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_tiles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
     "criteria": {
       "has_torch": "2024-12-26 22:45:11 +0000"
@@ -16949,6 +17321,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/end_stone_paver_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
     "criteria": {
       "has_steel_ingot": "2024-12-26 19:29:18 +0000"
@@ -16997,6 +17375,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/dragon_staff": {
     "criteria": {
       "has_item": "2024-12-26 20:05:21 +0000"
@@ -17012,6 +17396,12 @@
   "betternether:recipes/misc/paper": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-26 20:02:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
     },
     "done": true
   },
@@ -17159,6 +17549,12 @@
     },
     "done": true
   },
+  "techreborn:root": {
+    "criteria": {
+      "crit_0": "2024-12-26 23:35:51 +0000"
+    },
+    "done": false
+  },
   "betternether:recipes/building_blocks/cincinnasite_tile_small_from_large_stonecutting": {
     "criteria": {
       "has_block.betternether.cincinnasite_tile_large": "2024-12-26 21:07:06 +0000"
@@ -17259,6 +17655,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-26 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-26 23:37:17 +0000"
     },
     "done": true
   },
@@ -17460,6 +17862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-26 23:37:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_ladder_from_brass_ingots_stonecutting": {
     "criteria": {
       "has_brass_ingots": "2024-12-26 18:42:55 +0000"
@@ -17592,6 +18000,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_end_stone_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/skofnung": {
     "criteria": {
       "has_lord_soul": "2024-12-26 22:51:41 +0000"
@@ -17607,6 +18021,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_mercury": {
     "criteria": {
       "has_diamond_horse_armor": "2024-12-26 20:20:45 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_ingot_furnace_raw_smelting": {
+    "criteria": {
+      "has_item.betterend.thallasium_raw": "2024-12-26 23:34:20 +0000"
     },
     "done": true
   },
