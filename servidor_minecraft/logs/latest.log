@@ -4506,3 +4506,28 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:22:13] [Server thread/INFO]: salgeron has made the advancement [Who's Guarding The Temple Now?]
 [23:22:14] [Server thread/INFO]: salgeron has made the advancement [Arghh, Where be Me Ship?]
 [23:23:10] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
+[23:26:08] [Server thread/INFO]: [Irinasan24: Set own game mode to Creative Mode]
+[23:26:33] [Server thread/INFO]: <salgeron> backpack
+[23:28:18] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[23:28:30] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
+[23:29:09] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
+[23:29:23] [Server thread/INFO]: [salgeron: Set Irinasan24's game mode to Survival Mode]
+[23:31:31] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 1673.500000, -26.500000, 213.500000]
+[23:31:50] [Server thread/INFO]: [salgeron: Teleported salgeron to 1740.500000, 4.500000, 260.500000]
+[23:31:59] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[23:32:24] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 1758.500000, -39.500000, 175.500000]
+[23:32:28] [Server thread/INFO]: [salgeron: Teleported salgeron to 1740.500000, 4.500000, 260.500000]
+[23:32:35] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[23:33:34] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[23:33:35] [Server thread/INFO]: salgeron has made the advancement [Face the Void]
+[23:33:35] [Server thread/INFO]: salgeron has made the advancement [The End?]
+[23:33:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3175ms or 63 ticks behind
+[23:33:40] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[23:33:40] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[23:33:41] [Server thread/INFO]: Portal location is null. Placing manually...
+[23:33:41] [Server thread/INFO]: Set the exit portal location to: class_2338{x=0, y=62, z=0}
+[23:33:48] [Server thread/INFO]: Irinasan24 has made the advancement [Face the Void]
+[23:33:48] [Server thread/INFO]: Irinasan24 has made the advancement [The End?]
+[23:33:48] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[23:34:13] [Server thread/INFO]: Starting initial dragon fight!
+[23:34:13] [Server thread/INFO]: Found all crystals, starting initial dragon spawn.

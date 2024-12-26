@@ -658,7 +658,8 @@
       "minecraft:lukewarm_ocean": "2024-12-14 22:06:46 +0000",
       "minecraft:river": "2024-12-14 22:07:28 +0000",
       "minecraft:lush_caves": "2024-12-26 18:51:51 +0000",
-      "minecraft:jungle": "2024-12-14 22:04:27 +0000"
+      "minecraft:jungle": "2024-12-14 22:04:27 +0000",
+      "minecraft:deep_dark": "2024-12-26 23:28:19 +0000"
     },
     "done": false
   },
@@ -2197,6 +2198,7 @@
       "minecraft:wither_skeleton": "2024-12-26 20:04:03 +0000",
       "minecraft:piglin": "2024-12-19 19:02:01 +0000",
       "minecraft:enderman": "2024-12-19 19:00:59 +0000",
+      "minecraft:silverfish": "2024-12-26 23:24:05 +0000",
       "minecraft:zombie": "2024-12-14 23:13:28 +0000"
     },
     "done": false
@@ -15107,6 +15109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-26 23:25:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-26 18:46:12 +0000"
@@ -15518,6 +15526,18 @@
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-26 20:53:05 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2024-12-26 23:22:14 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/guardian_eye": {
+    "criteria": {
+      "guardian_eye": "2024-12-26 23:22:13 +0000"
     },
     "done": true
   },
@@ -16025,6 +16045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-26 23:25:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_paver_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
@@ -16301,6 +16327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-26 23:25:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-12-26 22:33:24 +0000"
@@ -16328,6 +16360,12 @@
   "stoneworks:recipes/building_blocks/calcite_tile_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-26 23:25:52 +0000"
     },
     "done": true
   },
@@ -16364,6 +16402,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-26 19:20:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-26 23:28:19 +0000"
     },
     "done": true
   },
@@ -16901,6 +16945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-26 23:25:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2024-12-26 20:12:57 +0000"
@@ -17306,6 +17356,12 @@
   "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
     "criteria": {
       "has_steel_ingot": "2024-12-26 19:23:20 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/evil_eye": {
+    "criteria": {
+      "evil_eye": "2024-12-26 23:22:11 +0000"
     },
     "done": true
   },
@@ -17744,6 +17800,12 @@
   "betterend:recipes/misc/sweet_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2024-12-26 20:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-26 23:25:52 +0000"
     },
     "done": true
   },
@@ -18596,6 +18658,12 @@
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-26 21:56:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2024-12-26 23:26:58 +0000"
     },
     "done": true
   },

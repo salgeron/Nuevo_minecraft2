@@ -658,7 +658,8 @@
       "minecraft:lukewarm_ocean": "2024-12-15 16:22:10 +0000",
       "minecraft:river": "2024-12-19 20:04:23 +0000",
       "minecraft:lush_caves": "2024-12-26 23:14:28 +0000",
-      "minecraft:jungle": "2024-12-14 22:09:30 +0000"
+      "minecraft:jungle": "2024-12-14 22:09:30 +0000",
+      "minecraft:deep_dark": "2024-12-26 23:23:24 +0000"
     },
     "done": false
   },
@@ -15273,6 +15274,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-26 23:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-26 20:34:50 +0000"
@@ -15678,6 +15685,12 @@
   "twigs:recipes/silt/silt_from_silt_balls": {
     "criteria": {
       "has_item": "2024-12-26 19:03:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee_smithing": {
+    "criteria": {
+      "has_bee": "2024-12-26 23:29:05 +0000"
     },
     "done": true
   },
