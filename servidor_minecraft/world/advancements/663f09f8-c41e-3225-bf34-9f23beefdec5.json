@@ -15181,6 +15181,12 @@
     },
     "done": true
   },
+  "indrev:empty_enhancer": {
+    "criteria": {
+      "checkInv": "2024-12-26 20:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 20:12:21 +0000"
@@ -16918,6 +16924,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-26 20:02:08 +0000"
+    },
+    "done": true
+  },
+  "indrev:speed_enhancer": {
+    "criteria": {
+      "checkInv": "2024-12-26 20:22:57 +0000"
     },
     "done": true
   },
