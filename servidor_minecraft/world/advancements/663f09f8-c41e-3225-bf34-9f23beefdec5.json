@@ -656,6 +656,7 @@
       "minecraft:sparse_jungle": "2024-12-21 19:07:54 +0000",
       "minecraft:lukewarm_ocean": "2024-12-14 22:06:46 +0000",
       "minecraft:river": "2024-12-14 22:07:28 +0000",
+      "minecraft:lush_caves": "2024-12-26 18:51:51 +0000",
       "minecraft:jungle": "2024-12-14 22:04:27 +0000"
     },
     "done": false
@@ -669,6 +670,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "ancient_delta": "2024-12-14 22:19:43 +0000",
+      "barley_fields": "2024-12-26 18:51:57 +0000",
       "grassy_beach": "2024-12-14 22:09:36 +0000",
       "scorching_caves": "2024-12-19 23:03:56 +0000",
       "rocky_meadow": "2024-12-14 22:08:30 +0000",
@@ -685,6 +687,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "barley_fields": "2024-12-26 18:51:57 +0000",
       "grassy_beach": "2024-12-14 22:09:36 +0000",
       "rocky_meadow": "2024-12-14 22:08:30 +0000",
       "magnolia_highlands": "2024-12-19 23:08:04 +0000",
@@ -14019,7 +14022,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2024-12-21 19:07:48 +0000"
+      "in_better_zombie_dungeon": "2024-12-21 19:07:48 +0000",
+      "in_better_monster_room": "2024-12-26 18:47:22 +0000"
     },
     "done": false
   },
@@ -14948,6 +14952,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2024-12-26 18:47:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
@@ -15110,6 +15120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-26 18:47:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_plate_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
@@ -15128,6 +15144,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-26 18:47:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
@@ -15137,6 +15159,12 @@
   "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2024-12-26 18:43:52 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_trap": {
+    "criteria": {
+      "has_flint": "2024-12-26 18:47:19 +0000"
     },
     "done": true
   },
@@ -15326,6 +15354,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/warped_palisade": {
+    "criteria": {
+      "has_log": "2024-12-26 18:56:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_shingle_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
@@ -15365,6 +15399,12 @@
   "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-26 18:46:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_horse_armor": {
+    "criteria": {
+      "has_iron_horse_armor": "2024-12-26 18:48:43 +0000"
     },
     "done": true
   },
@@ -15560,6 +15600,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/gravel": {
+    "criteria": {
+      "has_flint": "2024-12-26 18:47:19 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/boss_compass": {
     "criteria": {
       "has_item": "2024-12-26 18:39:34 +0000"
@@ -15578,6 +15624,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2024-12-26 18:47:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-26 18:43:25 +0000"
@@ -15587,6 +15639,12 @@
   "soulsweapons:moonstone": {
     "criteria": {
       "item": "2024-12-26 18:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-26 18:56:14 +0000"
     },
     "done": true
   },

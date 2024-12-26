@@ -13975,9 +13975,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_boots": {
+    "criteria": {
+      "has_twisting_vines": "2024-12-26 18:48:23 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/manadiamond_block_deconstruct": {
     "criteria": {
       "has_item": "2024-12-26 18:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
     },
     "done": true
   },
@@ -13987,9 +13999,27 @@
     },
     "done": true
   },
+  "twigs:recipes/lamps/warped_shroomlamp": {
+    "criteria": {
+      "has_item": "2024-12-26 18:52:37 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/third_eye": {
     "criteria": {
       "has_item": "2024-12-26 18:35:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
+    "criteria": {
+      "has_logs": "2024-12-26 18:48:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/crimson_shroomlamp": {
+    "criteria": {
+      "has_item": "2024-12-26 18:52:37 +0000"
     },
     "done": true
   },
@@ -13999,9 +14029,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_leggings": {
+    "criteria": {
+      "has_twisting_vines": "2024-12-26 18:48:23 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/runic_altar_alt": {
     "criteria": {
       "has_item": "2024-12-26 18:35:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_shrub": {
+    "criteria": {
+      "has_brimwood_sapling": "2024-12-26 18:47:51 +0000"
     },
     "done": true
   },
@@ -14011,9 +14053,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 18:48:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-26 18:51:32 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/avatar": {
     "criteria": {
       "has_item": "2024-12-26 18:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
     },
     "done": true
   },
@@ -14023,9 +14083,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-12-26 18:52:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/brass_dust": {
     "criteria": {
       "has_tag_c_brass_ingots": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/twisting_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2024-12-26 18:48:23 +0000"
     },
     "done": true
   },
@@ -14047,6 +14125,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_chestplate": {
+    "criteria": {
+      "has_twisting_vines": "2024-12-26 18:48:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-26 18:51:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_twisting_vine_bow": {
+    "criteria": {
+      "has_twisting_vines": "2024-12-26 18:48:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-12-26 18:52:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2024-12-26 18:42:55 +0000"
@@ -14056,6 +14164,18 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2024-12-26 18:31:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
     },
     "done": true
   },
@@ -14082,6 +14202,24 @@
       "has_item": "2024-12-26 18:42:55 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "brimwood_log": "2024-12-26 18:48:29 +0000"
+    },
+    "done": false
   },
   "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
     "criteria": {
@@ -14110,6 +14248,12 @@
   "create:recipes/misc/crafting/kinetics/attribute_filter": {
     "criteria": {
       "has_item": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_helmet": {
+    "criteria": {
+      "has_twisting_vines": "2024-12-26 18:48:23 +0000"
     },
     "done": true
   },
@@ -14146,6 +14290,12 @@
   "create:recipes/decorations/brass_ladder_from_brass_ingots_stonecutting": {
     "criteria": {
       "has_brass_ingots": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
     },
     "done": true
   },
