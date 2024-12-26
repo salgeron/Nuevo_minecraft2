@@ -2180,6 +2180,7 @@
       "minecraft:spider": "2024-12-15 13:34:16 +0000",
       "minecraft:piglin_brute": "2024-12-21 17:04:47 +0000",
       "minecraft:creeper": "2024-12-15 14:56:44 +0000",
+      "minecraft:zombified_piglin": "2024-12-26 19:03:12 +0000",
       "minecraft:witch": "2024-12-14 23:27:06 +0000",
       "minecraft:piglin": "2024-12-19 19:02:01 +0000",
       "minecraft:enderman": "2024-12-19 19:00:59 +0000",
@@ -14970,6 +14971,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2024-12-26 18:58:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_shingle_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
@@ -15003,6 +15010,12 @@
   "soulsweapons:recipes/combat/bluemoon_shortsword": {
     "criteria": {
       "has_item": "2024-12-26 18:39:34 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2024-12-26 18:58:17 +0000"
     },
     "done": true
   },
@@ -15384,6 +15397,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-26 19:05:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-26 18:43:25 +0000"
@@ -15453,6 +15472,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-26 19:05:02 +0000"
     },
     "done": true
   },
