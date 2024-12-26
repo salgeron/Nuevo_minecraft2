@@ -3184,3 +3184,11 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:38:55] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 175.500000, 33.500000, -1412.500000]
 [20:39:29] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 163.500000, 35.500000, -1382.500000]
 [20:39:58] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 43.500000, 39.500000, -1517.500000]
+[20:40:48] [Server thread/INFO]: Irinasan24 was slain by Piglin Brute
+[20:40:50] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[20:41:32] [Server thread/INFO]: <salgeron> dive glasses
+[20:41:43] [Server thread/INFO]: <salgeron> driving mask
+[20:41:48] [Server thread/INFO]: <salgeron> diving
+[20:43:57] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 222.500000, 64.500000, 746.500000]
+[20:44:04] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[20:44:20] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 46.500000, 35.500000, -1519.500000]
