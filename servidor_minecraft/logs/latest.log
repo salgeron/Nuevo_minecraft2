@@ -2516,3 +2516,18 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [18:32:02] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
 [18:36:29] [Server thread/INFO]: [salgeron: Gave 1 [Rail] to salgeron]
 [18:38:11] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 210.500000, 64.500000, 709.500000]
+[18:38:32] [Server thread/INFO]: [salgeron: Gave 10 [Rail] to salgeron]
+[18:38:47] [Server thread/INFO]: <salgeron> chest
+[18:39:11] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 282.500000, 71.500000, 721.500000]
+[18:39:34] [Server thread/INFO]: salgeron has made the advancement [Full Moon in a Pocket]
+[18:41:53] [Server thread/INFO]: [salgeron: Gave 200 [Torch] to salgeron]
+[18:41:58] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 223.500000, 64.500000, 743.500000]
+[18:42:37] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 222.500000, 64.500000, 746.500000]
+[18:42:44] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 210.500000, 64.500000, 709.500000]
+[18:45:29] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 222.500000, 64.500000, 746.500000]
+[18:45:37] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 210.500000, 64.500000, 709.500000]
+[18:45:46] [Server thread/INFO]: <salgeron> sword
+[18:45:56] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 222.500000, 64.500000, 746.500000]
+[18:46:04] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[18:47:22] [Server thread/INFO]: salgeron has made the advancement [Quite the Renovation]
+[18:48:00] [Server thread/INFO]: [salgeron: Gave 200 [Torch] to salgeron]

@@ -13951,9 +13951,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
     "criteria": {
       "has_glowstone_dust": "2024-12-26 18:31:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2024-12-26 18:42:55 +0000"
     },
     "done": true
   },
@@ -13966,6 +13978,12 @@
   "botania:recipes/misc/conversions/manadiamond_block_deconstruct": {
     "criteria": {
       "has_item": "2024-12-26 18:35:41 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-12-26 18:42:55 +0000"
     },
     "done": true
   },
@@ -13987,6 +14005,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/avatar": {
     "criteria": {
       "has_item": "2024-12-26 18:35:41 +0000"
@@ -13999,6 +14023,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/brass_dust": {
+    "criteria": {
+      "has_tag_c_brass_ingots": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_bars_from_brass_ingots_stonecutting": {
+    "criteria": {
+      "has_brass_ingots": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-26 18:31:29 +0000"
@@ -14008,6 +14044,12 @@
   "botania:recipes/tools/mana_gun": {
     "criteria": {
       "has_item": "2024-12-26 18:35:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2024-12-26 18:42:55 +0000"
     },
     "done": true
   },
@@ -14029,9 +14071,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2024-12-26 18:44:00 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/glowstone_dust": {
     "criteria": {
       "has_glowstone_dust": "2024-12-26 18:31:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2024-12-26 18:42:55 +0000"
     },
     "done": true
   },
@@ -14041,9 +14107,51 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/mana_diamond_block": {
     "criteria": {
       "has_item": "2024-12-26 18:35:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_scaffolding_from_brass_ingots_stonecutting": {
+    "criteria": {
+      "has_brass_ingots": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot_alt": {
+    "criteria": {
+      "has_brass_ingot": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_brass_ingots_stonecutting": {
+    "criteria": {
+      "has_brass_ingots": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/brass_plate": {
+    "criteria": {
+      "has_tag_c_brass_ingots": "2024-12-26 18:42:55 +0000"
     },
     "done": true
   },
