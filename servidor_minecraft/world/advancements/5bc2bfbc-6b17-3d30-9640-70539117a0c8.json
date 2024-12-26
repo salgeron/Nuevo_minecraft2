@@ -653,6 +653,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dark_forest": "2024-12-26 23:05:13 +0000",
       "minecraft:sparse_jungle": "2024-12-21 18:50:35 +0000",
       "minecraft:lukewarm_ocean": "2024-12-15 16:22:10 +0000",
       "minecraft:river": "2024-12-19 20:04:23 +0000",
@@ -14093,6 +14094,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/implosion_compressor": {
+    "criteria": {
+      "has_advanced_machine_frame": "2024-12-26 23:05:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/invar_dust": {
     "criteria": {
       "has_tag_c_invar_ingots": "2024-12-26 19:19:45 +0000"
@@ -14280,6 +14287,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2024-12-26 23:05:13 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/silt/silt_brick": {
     "criteria": {
       "has_item": "2024-12-26 19:03:47 +0000"
@@ -14373,6 +14386,12 @@
   "techreborn:recipes/crafting_table/parts/basic_display": {
     "criteria": {
       "has_electronic_circuit": "2024-12-26 22:56:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2024-12-26 23:02:09 +0000"
     },
     "done": true
   },
@@ -14893,6 +14912,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
+    "criteria": {
+      "has_advanced_machine_frame": "2024-12-26 23:05:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/brass_dust": {
     "criteria": {
       "has_tag_c_brass_ingots": "2024-12-26 18:42:55 +0000"
@@ -15130,6 +15155,12 @@
   "ae2:recipes/misc/network/cables/dense_smart_purple": {
     "criteria": {
       "has_dyes/black": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
+    "criteria": {
+      "has_advanced_machine_frame": "2024-12-26 23:05:24 +0000"
     },
     "done": true
   },
@@ -15481,6 +15512,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/industrial_sawmill": {
+    "criteria": {
+      "has_advanced_machine_frame": "2024-12-26 23:05:24 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/soul_robe_boots": {
     "criteria": {
       "has_soul_sand": "2024-12-26 19:32:14 +0000"
@@ -15733,6 +15770,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_machine_frame": "2024-12-26 23:05:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2024-12-26 22:45:11 +0000"
@@ -15868,6 +15911,12 @@
   "betternether:recipes/building_blocks/nether_mushroom_planks": {
     "criteria": {
       "has_nether_mushroom_stem": "2024-12-26 19:54:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
+    "criteria": {
+      "has_advanced_machine_frame": "2024-12-26 23:05:24 +0000"
     },
     "done": true
   },
@@ -16526,6 +16575,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-26 23:09:29 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_shaft": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
@@ -16607,6 +16662,12 @@
   "betternether:recipes/tools/nether_ruby_sword": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-26 20:02:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
+    "criteria": {
+      "has_advanced_machine_frame": "2024-12-26 23:05:24 +0000"
     },
     "done": true
   },
@@ -16790,6 +16851,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_frame": {
+    "criteria": {
+      "has_advanced_machine_frame": "2024-12-26 23:05:24 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sprout_armor_helmet": {
     "criteria": {
       "has_twisting_vines": "2024-12-26 18:48:23 +0000"
@@ -16943,6 +17010,18 @@
   "croptopia:recipes/misc/melon_juice": {
     "criteria": {
       "has_melon": "2024-12-26 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/assembling_machine": {
+    "criteria": {
+      "has_advanced_machine_frame": "2024-12-26 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge": {
+    "criteria": {
+      "has_advanced_machine_frame": "2024-12-26 23:05:24 +0000"
     },
     "done": true
   },

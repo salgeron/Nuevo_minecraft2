@@ -15761,6 +15761,12 @@
     },
     "done": true
   },
+  "simplyswords:stormbringer": {
+    "criteria": {
+      "requirement": "2024-12-26 23:05:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-26 21:56:55 +0000"
