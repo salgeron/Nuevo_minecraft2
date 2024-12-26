@@ -3647,3 +3647,4 @@ java.util.NoSuchElementException: minecraft:block_entity
 [21:39:27] [Server thread/INFO]: [EMI] salgeron deleted 1 linear_chassis
 [21:39:28] [Server thread/INFO]: [EMI] salgeron deleted 1 deployer
 [21:39:29] [Server thread/INFO]: [EMI] salgeron deleted 1 mechanical_drill
+[21:42:16] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]

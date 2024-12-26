@@ -14953,6 +14953,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_casing_alt": {
+    "criteria": {
+      "has_advanced_machine_casing": "2024-12-26 21:42:48 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/birch_poppet_shelf": {
     "criteria": {
       "has_item": "2024-12-26 21:02:59 +0000"
@@ -15328,6 +15334,18 @@
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/dragon_egg_syphon": {
+    "criteria": {
+      "has_iridium_alloy_plate": "2024-12-26 21:48:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/lapotronic_orb": {
+    "criteria": {
+      "has_iridium_alloy_plate": "2024-12-26 21:48:34 +0000"
     },
     "done": true
   },
@@ -16687,6 +16705,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/dark_ashes_dust": {
+    "criteria": {
+      "has_dark_ashes_dust": "2024-12-26 21:48:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/iron_ingot_from_crushed": {
     "criteria": {
       "has_item": "2024-12-26 19:05:02 +0000"
@@ -16957,6 +16981,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/gunpowder_from_tnt": {
+    "criteria": {
+      "has_tnt": "2024-12-26 21:46:12 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/warped_poppet_shelf": {
     "criteria": {
       "has_item": "2024-12-26 21:02:59 +0000"
@@ -17020,6 +17050,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_paver_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:02:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/interdimensional_su": {
+    "criteria": {
+      "has_iridium_alloy_plate": "2024-12-26 21:48:34 +0000"
     },
     "done": true
   },
@@ -17146,6 +17182,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2024-12-26 21:46:58 +0000"
     },
     "done": true
   },
@@ -17509,6 +17551,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/dark_ashes_small_dust_from_dust": {
+    "criteria": {
+      "has_dark_ashes_dust": "2024-12-26 21:48:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_banner": {
     "criteria": {
       "has_banner": "2024-12-26 18:47:37 +0000"
@@ -17530,6 +17578,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
     "criteria": {
       "has_plank": "2024-12-26 20:12:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/energy_flow_chip": {
+    "criteria": {
+      "has_iridium_alloy_plate": "2024-12-26 21:48:34 +0000"
     },
     "done": true
   },
