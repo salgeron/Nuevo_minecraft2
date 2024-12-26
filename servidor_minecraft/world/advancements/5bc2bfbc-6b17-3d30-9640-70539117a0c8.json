@@ -14461,6 +14461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-26 20:12:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/mana_tablet_alt": {
     "criteria": {
       "has_item": "2024-12-26 18:35:41 +0000"
@@ -14548,6 +14554,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_shingles_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-26 20:11:21 +0000"
     },
     "done": true
   },
@@ -14659,6 +14671,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/crimson_slab_from_stairs": {
+    "criteria": {
+      "has_crimson_stairs": "2024-12-26 20:06:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2024-12-26 20:02:33 +0000"
@@ -14740,6 +14758,12 @@
   "betternether:recipes/decorations/bricks_fire_bowl_soul": {
     "criteria": {
       "has_nether_brick": "2024-12-26 19:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-26 20:12:18 +0000"
     },
     "done": true
   },
@@ -15151,6 +15175,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-26 20:10:05 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2024-12-26 20:03:41 +0000"
@@ -15202,6 +15232,12 @@
   "copycats:recipes/misc/stonecutting/copycat_vertical_slice": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_glowstone_dust": {
+    "criteria": {
+      "has_glowstone_pile": "2024-12-26 20:08:45 +0000"
     },
     "done": true
   },
@@ -15665,6 +15701,12 @@
   "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-12-26 19:06:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-26 20:10:02 +0000"
     },
     "done": true
   },

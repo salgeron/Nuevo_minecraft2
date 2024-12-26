@@ -3161,3 +3161,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:09:34] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
 [20:09:58] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
 [20:10:05] [Server thread/INFO]: Irinasan24 has made the advancement [Penteconter]
+[20:10:48] [Server thread/INFO]: salgeron has made the advancement [Watch Your Fingers]
+[20:11:54] [Server thread/INFO]: salgeron has made the advancement [Cutlass? Why would I do that?]
+[20:11:56] [Server thread/INFO]: salgeron has made the advancement [God, Take The Wheel]
+[20:12:19] [Server thread/INFO]: salgeron has made the advancement [Glacial Profiling]
+[20:19:20] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to -341.500000, 67.500000, -371.500000]
