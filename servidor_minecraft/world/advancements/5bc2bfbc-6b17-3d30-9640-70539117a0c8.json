@@ -14012,6 +14012,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/smaragdant_crystal": {
+    "criteria": {
+      "has_smaragdant_crystal_shard": "2024-12-26 23:43:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_candle_from_candle_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2024-12-26 21:09:12 +0000"
@@ -14247,6 +14253,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/smaragdant_crystal_slab": {
+    "criteria": {
+      "has_smaragdant_crystal": "2024-12-26 23:43:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
@@ -14415,6 +14427,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_pillar_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:46:04 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2024-12-26 19:06:43 +0000"
@@ -14493,6 +14511,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_bricks": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:46:04 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/leviathan_axe_right": {
     "criteria": {
       "has_item": "2024-12-26 22:51:41 +0000"
@@ -14502,6 +14526,12 @@
   "betternether:recipes/decorations/cincinnasite_forge": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_polished_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:46:04 +0000"
     },
     "done": true
   },
@@ -14630,6 +14660,12 @@
       "has_item": "2024-12-26 19:19:44 +0000"
     },
     "done": true
+  },
+  "betterend:all_the_biomes": {
+    "criteria": {
+      "betterend:lush_smaragdant_cave": "2024-12-26 23:43:38 +0000"
+    },
+    "done": false
   },
   "mcdw:recipes/crossbows/crossbow_soul_hunter": {
     "criteria": {
@@ -14763,6 +14799,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_button": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:46:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_sword": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-26 20:02:47 +0000"
@@ -14772,6 +14814,18 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_pressure_plate": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:46:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_bricks_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:46:04 +0000"
     },
     "done": true
   },
@@ -14971,6 +15025,12 @@
   "soulsweapons:recipes/combat/guts_sword": {
     "criteria": {
       "has_item": "2024-12-26 19:41:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_brick_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:46:04 +0000"
     },
     "done": true
   },
@@ -15706,6 +15766,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/smaragdant_crystal_stairs": {
+    "criteria": {
+      "has_smaragdant_crystal": "2024-12-26 23:43:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-26 20:18:23 +0000"
@@ -15745,6 +15811,12 @@
   "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2024-12-26 21:00:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_stairs": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:46:04 +0000"
     },
     "done": true
   },
@@ -15820,6 +15892,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_slab": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:46:04 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2024-12-26 23:01:31 +0000"
@@ -15853,6 +15931,12 @@
   "create:recipes/misc/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/smaragdant_crystal_wall": {
+    "criteria": {
+      "has_smaragdant_crystal": "2024-12-26 23:43:53 +0000"
     },
     "done": true
   },
@@ -16114,6 +16198,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:46:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/electrum_storage_block": {
     "criteria": {
       "has_electrum_ingot": "2024-12-26 19:23:19 +0000"
@@ -16231,6 +16321,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:46:04 +0000"
     },
     "done": true
   },
@@ -16531,6 +16627,12 @@
   "soulsweapons:recipes/combat/frostmourne": {
     "criteria": {
       "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_tiles_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:46:04 +0000"
     },
     "done": true
   },
@@ -17093,6 +17195,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:46:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/end_stone_pillar_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-26 23:34:13 +0000"
@@ -17114,6 +17222,12 @@
   "betterend:recipes/misc/thallasium_ingot_furnace_raw_blasting": {
     "criteria": {
       "has_item.betterend.thallasium_raw": "2024-12-26 23:34:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/smaragdant_crystal_bricks": {
+    "criteria": {
+      "has_smaragdant_crystal": "2024-12-26 23:43:53 +0000"
     },
     "done": true
   },
@@ -17168,6 +17282,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-26 19:20:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_furnace": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:46:04 +0000"
     },
     "done": true
   },
@@ -17333,6 +17453,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_brick_stair_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:46:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2024-12-26 18:42:55 +0000"
@@ -17366,6 +17492,12 @@
   "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-12-26 19:06:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_wall": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:46:04 +0000"
     },
     "done": true
   },
@@ -17709,6 +17841,12 @@
   "techreborn:recipes/chemical_reactor/purple_candle_from_magenta_candle_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:46:04 +0000"
     },
     "done": true
   },

@@ -15541,6 +15541,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_pillar_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 20:12:21 +0000"
@@ -15637,6 +15643,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_bricks": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:45:50 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/blunite/slab": {
     "criteria": {
       "has_blunite": "2024-12-26 22:07:38 +0000"
@@ -15646,6 +15658,12 @@
   "betternether:recipes/decorations/cincinnasite_forge": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:02:10 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_polished_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:45:50 +0000"
     },
     "done": true
   },
@@ -15901,6 +15919,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_button": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:45:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-26 23:33:45 +0000"
@@ -15910,6 +15934,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-12-26 21:56:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_pressure_plate": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:45:50 +0000"
     },
     "done": true
   },
@@ -15934,6 +15964,12 @@
   "betterend:recipes/misc/thallasium_door": {
     "criteria": {
       "has_thallasium_ingot": "2024-12-26 23:34:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_bricks_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:45:50 +0000"
     },
     "done": true
   },
@@ -16150,6 +16186,12 @@
   "techreborn:recipes/crafting_table/armor/quantum_boots": {
     "criteria": {
       "has_data_storage_chip": "2024-12-26 20:08:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_brick_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:45:50 +0000"
     },
     "done": true
   },
@@ -16885,6 +16927,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_stairs": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:45:50 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/asphalt/polished_stairs": {
     "criteria": {
       "has_asphalt": "2024-12-26 21:02:27 +0000"
@@ -16978,6 +17026,12 @@
   "supplementaries:recipes/deepslate_lamp": {
     "criteria": {
       "has_shroomlight": "2024-12-26 19:24:35 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_slab": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:45:50 +0000"
     },
     "done": true
   },
@@ -17116,6 +17170,12 @@
   "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-26 18:46:12 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/ametrine_ingot": {
+    "criteria": {
+      "has_necessary_ingredients": "2024-12-26 23:43:19 +0000"
     },
     "done": true
   },
@@ -17305,6 +17365,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:45:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/calcite_pillar_trim": {
     "criteria": {
       "has_calcite_pillar_trim": "2024-12-26 18:43:25 +0000"
@@ -17374,6 +17440,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 20:12:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:45:50 +0000"
     },
     "done": true
   },
@@ -17692,6 +17764,12 @@
   "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-26 21:56:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_tiles_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:45:50 +0000"
     },
     "done": true
   },
@@ -18241,6 +18319,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/sodalite_dust": {
+    "criteria": {
+      "has_sodalite_dust": "2024-12-26 23:43:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-26 18:43:25 +0000"
@@ -18439,6 +18523,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:45:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-26 21:56:55 +0000"
@@ -18466,6 +18556,12 @@
   "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/sodalite_small_dust_from_dust": {
+    "criteria": {
+      "has_sodalite_dust": "2024-12-26 23:43:23 +0000"
     },
     "done": true
   },
@@ -18550,6 +18646,12 @@
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_furnace": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:45:50 +0000"
     },
     "done": true
   },
@@ -18721,6 +18823,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flavolite_brick_stair_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-26 21:56:55 +0000"
@@ -18772,6 +18880,12 @@
   "stoneworks:recipes/building_blocks/cracked_calcite_tiles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_wall": {
+    "criteria": {
+      "has_flavolite": "2024-12-26 23:45:50 +0000"
     },
     "done": true
   },
@@ -19150,6 +19264,12 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2024-12-26 18:56:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betterend.flavolite": "2024-12-26 23:45:50 +0000"
     },
     "done": true
   },
