@@ -3134,3 +3134,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:26:40] [Server thread/INFO]: [salgeron: Teleported salgeron to 27.500000, 67.500000, 97.500000]
 [19:26:47] [Server thread/INFO]: Return portal is no longer valid
 [19:26:47] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[19:40:33] [Server thread/INFO]: [salgeron: Set the weather to clear]
+[19:43:35] [Server thread/ERROR]: Caught unhandled exception : [null] java.lang.NullPointerException
+[19:43:35] [Server thread/ERROR]: See JadeErrorOutput.txt for more information

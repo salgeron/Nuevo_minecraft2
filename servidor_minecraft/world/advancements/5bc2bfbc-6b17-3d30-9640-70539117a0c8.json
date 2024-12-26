@@ -14077,6 +14077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 19:41:53 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
       "has_blazing_eye": "2024-12-26 18:58:23 +0000"
@@ -14143,6 +14149,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-26 19:41:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/runic_altar_alt": {
     "criteria": {
       "has_item": "2024-12-26 18:35:41 +0000"
@@ -14188,6 +14200,12 @@
   "mcdw:recipes/crossbows/crossbow_soul_hunter": {
     "criteria": {
       "has_soul_sand": "2024-12-26 19:32:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2024-12-26 19:41:22 +0000"
     },
     "done": true
   },
@@ -14251,6 +14269,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-26 19:41:53 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_stairs": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
@@ -14275,6 +14299,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-26 19:41:53 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/quantum_boots": {
     "criteria": {
       "has_data_storage_chip": "2024-12-26 19:29:13 +0000"
@@ -14287,9 +14317,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-26 19:41:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/mana_tablet_alt": {
     "criteria": {
       "has_item": "2024-12-26 18:35:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_advanced_circuit": "2024-12-26 19:41:22 +0000"
     },
     "done": true
   },
@@ -14308,6 +14350,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-26 19:32:14 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-26 19:41:53 +0000"
     },
     "done": true
   },
@@ -14683,6 +14731,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/player_detector": {
+    "criteria": {
+      "has_advanced_circuit": "2024-12-26 19:41:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2024-12-26 18:42:55 +0000"
@@ -14743,6 +14797,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
+    "criteria": {
+      "has_advanced_circuit": "2024-12-26 19:41:22 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_half_panel": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
@@ -14770,6 +14830,12 @@
   "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
     "criteria": {
       "has_steel_ingot": "2024-12-26 19:29:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_advanced_circuit": "2024-12-26 19:41:22 +0000"
     },
     "done": true
   },
@@ -14882,6 +14948,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
+    "criteria": {
+      "has_advanced_circuit": "2024-12-26 19:41:22 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
       "has_item": "2024-12-26 19:06:03 +0000"
@@ -14903,6 +14975,12 @@
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_nether_brick": "2024-12-26 19:06:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-26 19:38:59 +0000"
     },
     "done": true
   },
@@ -14930,6 +15008,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-26 19:41:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2024-12-26 18:42:55 +0000"
@@ -14942,6 +15026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 19:41:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_pot": {
     "criteria": {
       "has_soul_sand": "2024-12-26 19:32:14 +0000"
@@ -14951,6 +15041,12 @@
   "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
     "criteria": {
       "has_steel_ingot": "2024-12-26 19:29:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 19:41:53 +0000"
     },
     "done": true
   },
@@ -15215,6 +15311,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-26 19:03:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2024-12-26 19:41:53 +0000"
     },
     "done": true
   },
