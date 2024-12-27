@@ -16016,8 +16016,10 @@
       "betterend:neon_oasis": "2024-12-27 00:48:30 +0000",
       "betterend:dust_wastelands": "2024-12-27 00:49:30 +0000",
       "betterend:ice_starfield": "2024-12-27 00:27:30 +0000",
+      "betterend:glowing_grasslands": "2024-12-27 00:53:20 +0000",
       "betterend:lush_aurora_cave": "2024-12-27 00:51:55 +0000",
       "betterend:umbra_valley": "2024-12-27 00:45:38 +0000",
+      "betterend:umbrella_jungle": "2024-12-27 00:52:32 +0000",
       "betterend:lush_smaragdant_cave": "2024-12-27 00:51:29 +0000",
       "betterend:megalake": "2024-12-27 00:07:46 +0000"
     },
@@ -16761,6 +16763,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/slime_ball_smelting": {
+    "criteria": {
+      "has_block.betterend.jellyshroom_cap_purple": "2024-12-27 00:54:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/end_stone_bricks_with_water": {
     "criteria": {
       "has_end_stone_bricks": "2024-12-26 23:41:37 +0000"
@@ -16938,6 +16946,12 @@
   "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
     "criteria": {
       "has_steel_ingot": "2024-12-26 19:23:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_chandelier": {
+    "criteria": {
+      "has_lumecorn_rod": "2024-12-27 00:53:34 +0000"
     },
     "done": true
   },
@@ -17508,6 +17522,12 @@
   "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-26 22:10:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbrella_tree_log": {
+    "criteria": {
+      "has_umbrella_tree_bark": "2024-12-27 00:53:28 +0000"
     },
     "done": true
   },
@@ -18560,6 +18580,12 @@
   "betterend:recipes/misc/flavolite_tiles_stonecutting": {
     "criteria": {
       "has_block.betterend.flavolite": "2024-12-26 23:45:50 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbrella_tree_bark": {
+    "criteria": {
+      "has_umbrella_tree_log": "2024-12-27 00:53:29 +0000"
     },
     "done": true
   },

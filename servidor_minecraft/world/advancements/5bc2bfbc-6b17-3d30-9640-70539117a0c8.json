@@ -14224,6 +14224,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blue_vine_seed_dye": {
+    "criteria": {
+      "has_blue_vine_seed": "2024-12-27 00:59:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
@@ -14633,6 +14639,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/plantball_from_leaves": {
+    "criteria": {
+      "has_leaves": "2024-12-27 00:52:29 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2024-12-26 22:51:41 +0000"
@@ -14843,11 +14855,15 @@
       "betterend:amber_land": "2024-12-27 00:09:03 +0000",
       "betterend:sulphur_springs": "2024-12-27 00:27:26 +0000",
       "betterend:neon_oasis": "2024-12-27 00:49:04 +0000",
+      "betterend:painted_mountains": "2024-12-27 01:00:11 +0000",
       "betterend:dust_wastelands": "2024-12-27 00:51:42 +0000",
+      "betterend:foggy_mushroomland": "2024-12-27 00:57:40 +0000",
       "betterend:ice_starfield": "2024-12-27 00:08:28 +0000",
       "betterend:glowing_grasslands": "2024-12-27 00:50:07 +0000",
+      "betterend:dragon_graveyards": "2024-12-27 00:56:17 +0000",
       "betterend:umbra_valley": "2024-12-27 00:26:26 +0000",
       "betterend:lantern_woods": "2024-12-27 00:48:51 +0000",
+      "betterend:umbrella_jungle": "2024-12-27 00:52:18 +0000",
       "betterend:lush_smaragdant_cave": "2024-12-26 23:43:38 +0000",
       "betterend:megalake": "2024-12-27 00:07:59 +0000"
     },
@@ -15544,6 +15560,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/slime_ball_smelting": {
+    "criteria": {
+      "has_block.betterend.jellyshroom_cap_purple": "2024-12-27 00:54:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/end_stone_bricks_with_water": {
     "criteria": {
       "has_end_stone_bricks": "2024-12-26 23:37:17 +0000"
@@ -16048,6 +16070,12 @@
     },
     "done": false
   },
+  "betterend:recipes/misc/end_lily_leaf_dried_smelting": {
+    "criteria": {
+      "has_item.betterend.end_lily_leaf": "2024-12-27 00:59:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/umbralith_stairs_stonecutting": {
     "criteria": {
       "has_block.betterend.umbralith": "2024-12-27 00:26:41 +0000"
@@ -16321,6 +16349,12 @@
   "betterend:recipes/misc/depth_strider_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-27 00:34:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbrella_tree_log": {
+    "criteria": {
+      "has_umbrella_tree_bark": "2024-12-27 00:53:28 +0000"
     },
     "done": true
   },
@@ -17445,6 +17479,12 @@
   "copycats:recipes/misc/stonecutting/copycat_vertical_slice": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbrella_tree_bark": {
+    "criteria": {
+      "has_umbrella_tree_log": "2024-12-27 00:53:28 +0000"
     },
     "done": true
   },
