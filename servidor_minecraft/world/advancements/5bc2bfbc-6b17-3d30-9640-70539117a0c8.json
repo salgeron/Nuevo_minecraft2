@@ -14002,15 +14002,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 22:45:13 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/thallasium_chandelier": {
+    "criteria": {
+      "has_lumecorn_rod": "2024-12-27 00:50:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/elevator_pulley": {
     "criteria": {
       "has_item": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_purpur_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -14038,9 +14056,21 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-27 00:42:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-26 22:59:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_tiles_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -14225,6 +14255,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_purpur_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_stained_glass_from_magenta_stained_glass_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2024-12-26 21:09:12 +0000"
@@ -14255,6 +14291,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_purpur_tiles_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/end_stone_shingle_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-26 23:34:13 +0000"
@@ -14270,6 +14312,18 @@
   "mcda:recipes/base_armors/living_vines_armor_boots": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_purpur_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphuric_rock_slab": {
+    "criteria": {
+      "has_sulphuric_rock": "2024-12-27 00:46:03 +0000"
     },
     "done": true
   },
@@ -14567,6 +14621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:31 +0000"
@@ -14576,6 +14636,12 @@
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -14606,6 +14672,12 @@
   "soulsweapons:recipes/combat/leviathan_axe_right": {
     "criteria": {
       "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/bolux_mushroom_smoker": {
+    "criteria": {
+      "has_block.betterend.bolux_mushroom": "2024-12-27 00:51:26 +0000"
     },
     "done": true
   },
@@ -14705,6 +14777,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/comet_spear": {
     "criteria": {
       "has_item": "2024-12-26 22:51:41 +0000"
@@ -14741,6 +14819,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphuric_rock_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sulphuric_rock": "2024-12-27 00:46:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_plates_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
@@ -14755,10 +14839,15 @@
   },
   "betterend:all_the_biomes": {
     "criteria": {
+      "betterend:dry_shrubland": "2024-12-27 00:44:38 +0000",
       "betterend:amber_land": "2024-12-27 00:09:03 +0000",
       "betterend:sulphur_springs": "2024-12-27 00:27:26 +0000",
+      "betterend:neon_oasis": "2024-12-27 00:49:04 +0000",
+      "betterend:dust_wastelands": "2024-12-27 00:51:42 +0000",
       "betterend:ice_starfield": "2024-12-27 00:08:28 +0000",
+      "betterend:glowing_grasslands": "2024-12-27 00:50:07 +0000",
       "betterend:umbra_valley": "2024-12-27 00:26:26 +0000",
+      "betterend:lantern_woods": "2024-12-27 00:48:51 +0000",
       "betterend:lush_smaragdant_cave": "2024-12-26 23:43:38 +0000",
       "betterend:megalake": "2024-12-27 00:07:59 +0000"
     },
@@ -14794,6 +14883,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/raw_purpur_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/electrum_nugget": {
     "criteria": {
       "has_electrum_ingot": "2024-12-26 19:23:19 +0000"
@@ -14821,6 +14916,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphuric_rock_brick_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sulphuric_rock": "2024-12-27 00:46:03 +0000"
     },
     "done": true
   },
@@ -14902,6 +15003,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/dark_amaranth/planks": {
+    "criteria": {
+      "has_stems": "2024-12-27 00:46:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/steel_plate": {
     "criteria": {
       "has_tag_c_steel_ingots": "2024-12-26 19:29:18 +0000"
@@ -14917,6 +15024,12 @@
   "betternether:recipes/tools/cincinnasite_sword": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-26 20:02:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_tile_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -15041,6 +15154,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphuric_rock_button": {
+    "criteria": {
+      "has_sulphuric_rock": "2024-12-27 00:46:03 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_stairs": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
@@ -15137,6 +15256,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/raw_purpur_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
@@ -15146,6 +15271,18 @@
   "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_paver_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_purpur_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -15347,9 +15484,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_slope_layer": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -15461,6 +15610,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphuric_rock_brick_stair_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sulphuric_rock": "2024-12-27 00:46:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
     "criteria": {
       "has_zinc_ingots": "2024-12-26 19:19:44 +0000"
@@ -15506,6 +15661,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
     "criteria": {
       "has_lead_ingot": "2024-12-26 22:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -15563,6 +15724,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/stalagnate_bookshelf": {
     "criteria": {
       "has_book": "2024-12-27 00:34:33 +0000"
@@ -15605,6 +15772,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/terminite_chandelier": {
+    "criteria": {
+      "has_lumecorn_rod": "2024-12-27 00:50:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_purple": {
     "criteria": {
       "has_dyes/black": "2024-12-26 21:09:12 +0000"
@@ -15623,6 +15796,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphuric_rock_tiles_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sulphuric_rock": "2024-12-27 00:46:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
     "criteria": {
       "has_advanced_machine_frame": "2024-12-26 23:05:24 +0000"
@@ -15632,6 +15811,12 @@
   "betternether:recipes/building_blocks/bone_wall_stonecutting": {
     "criteria": {
       "has_block.betternether.bone_block": "2024-12-26 19:51:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -15839,6 +16024,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphuric_rock_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sulphuric_rock": "2024-12-27 00:46:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aqua_affinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-27 00:34:33 +0000"
@@ -15920,6 +16111,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
     "criteria": {
       "has_tag_minecraft_trim_templates": "2024-12-26 20:20:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphuric_rock_wall": {
+    "criteria": {
+      "has_sulphuric_rock": "2024-12-27 00:46:03 +0000"
     },
     "done": true
   },
@@ -16016,6 +16213,12 @@
   "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_large": "2024-12-26 21:07:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_tile_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -16121,6 +16324,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_pavers_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_black": {
     "criteria": {
       "has_dyes/black": "2024-12-26 20:43:10 +0000"
@@ -16154,6 +16363,12 @@
   "betternether:recipes/building_blocks/stalagnate_log": {
     "criteria": {
       "has_stalagnate_stem": "2024-12-26 19:29:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphuric_rock_bricks": {
+    "criteria": {
+      "has_sulphuric_rock": "2024-12-27 00:46:03 +0000"
     },
     "done": true
   },
@@ -16250,6 +16465,12 @@
   "techreborn:recipes/extractor/paper_from_book": {
     "criteria": {
       "has_book": "2024-12-27 00:34:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_purpur_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -16367,6 +16588,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/raw_purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/umbralith_pressure_plate": {
     "criteria": {
       "has_umbralith": "2024-12-27 00:26:41 +0000"
@@ -16382,6 +16609,12 @@
   "betterend:recipes/misc/smite_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-27 00:34:33 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/dark_amaranth/hyphae": {
+    "criteria": {
+      "has_stem": "2024-12-27 00:46:51 +0000"
     },
     "done": true
   },
@@ -16430,6 +16663,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-26 19:06:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphuric_rock_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sulphuric_rock": "2024-12-27 00:46:03 +0000"
     },
     "done": true
   },
@@ -16733,6 +16972,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/raw_purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/flavolite_brick_wall_stonecutting": {
     "criteria": {
       "has_block.betterend.flavolite": "2024-12-26 23:46:04 +0000"
@@ -16823,6 +17068,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_shingle_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_large_stonecutting": {
     "criteria": {
       "has_block.betternether.nether_brick_tile_large": "2024-12-26 21:07:35 +0000"
@@ -16865,6 +17116,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/bolux_mushroom_campfire": {
+    "criteria": {
+      "has_block.betterend.bolux_mushroom": "2024-12-27 00:51:26 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/cooked_calamari_from_calamari": {
     "criteria": {
       "has_calamari": "2024-12-26 20:43:10 +0000"
@@ -16874,6 +17131,12 @@
   "techreborn:recipes/extractor/glass_bottle_from_lingering_potion": {
     "criteria": {
       "has_lingering_potion": "2024-12-26 23:32:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_shingles_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -16922,7 +17185,8 @@
   "betterend:all_the_templates": {
     "criteria": {
       "got_leather": "2024-12-27 00:38:37 +0000",
-      "got_aeternium": "2024-12-27 00:38:39 +0000"
+      "got_aeternium": "2024-12-27 00:38:39 +0000",
+      "got_tool": "2024-12-27 00:47:46 +0000"
     },
     "done": false
   },
@@ -16935,6 +17199,12 @@
   "betternether:recipes/building_blocks/bone_block_bone_stairs": {
     "criteria": {
       "has_bone_block": "2024-12-26 19:51:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_paver_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -17046,6 +17316,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_brick_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-26 23:34:13 +0000"
@@ -17067,6 +17343,12 @@
   "techreborn:recipes/misc/smelting/platinum_ingot_from_c_sheldonite_ores": {
     "criteria": {
       "has_tag_c_sheldonite_ores": "2024-12-26 23:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -17109,6 +17391,12 @@
   "soulsweapons:recipes/combat/frostmourne": {
     "criteria": {
       "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_purpur_brick_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -17160,9 +17448,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/elytra": {
+    "criteria": {
+      "has_end_rod": "2024-12-27 00:47:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2024-12-26 20:20:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/purpur_brick_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -17175,6 +17475,12 @@
   "betternether:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2024-12-27 00:34:33 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/music_disc_appomattox": {
+    "criteria": {
+      "has_necessary_ingredients": "2024-12-27 00:47:50 +0000"
     },
     "done": true
   },
@@ -17238,6 +17544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/zinc_nugget": {
     "criteria": {
       "has_zinc_ingot": "2024-12-26 19:19:44 +0000"
@@ -17289,6 +17601,12 @@
   "stoneworks:recipes/building_blocks/end_stone_plate_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-26 23:34:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphuric_rock_furnace": {
+    "criteria": {
+      "has_sulphuric_rock": "2024-12-27 00:46:03 +0000"
     },
     "done": true
   },
@@ -17370,6 +17688,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_shingle_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_shovel": {
     "criteria": {
       "has_nether_reed_stem": "2024-12-26 20:02:47 +0000"
@@ -17404,6 +17728,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-27 00:34:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphuric_rock_polished_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sulphuric_rock": "2024-12-27 00:46:03 +0000"
     },
     "done": true
   },
@@ -17503,6 +17833,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_shingle_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
       "has_item": "2024-12-26 19:06:03 +0000"
@@ -17527,9 +17863,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphuric_rock_pillar_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sulphuric_rock": "2024-12-27 00:46:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2024-12-26 19:06:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -17719,6 +18067,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphuric_rock_stairs": {
+    "criteria": {
+      "has_sulphuric_rock": "2024-12-27 00:46:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-26 19:41:53 +0000"
@@ -17791,6 +18145,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_purpur_brick_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-26 21:07:43 +0000"
@@ -17812,6 +18172,12 @@
   "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
     "criteria": {
       "has_advanced_machine_frame": "2024-12-26 23:05:24 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_purpur_brick_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -17863,6 +18229,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_brick_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_ingot_furnace_raw_blasting": {
     "criteria": {
       "has_item.betterend.thallasium_raw": "2024-12-26 23:34:20 +0000"
@@ -17896,6 +18268,12 @@
   "soulsweapons:recipes/combat/leviathan_axe_left": {
     "criteria": {
       "has_item": "2024-12-26 22:51:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_purpur_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -18085,6 +18463,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_tile_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphuric_rock_pressure_plate": {
+    "criteria": {
+      "has_sulphuric_rock": "2024-12-27 00:46:03 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sprout_armor_helmet": {
     "criteria": {
       "has_twisting_vines": "2024-12-26 18:48:23 +0000"
@@ -18154,6 +18544,12 @@
   "betterend:recipes/misc/flavolite_wall": {
     "criteria": {
       "has_flavolite": "2024-12-26 23:46:04 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/purpur_witch_altar": {
+    "criteria": {
+      "has_item": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -18238,6 +18634,12 @@
   "soulsweapons:recipes/combat/withered_wabbajack": {
     "criteria": {
       "has_item": "2024-12-26 20:23:35 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/missing_tile": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -18440,6 +18842,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_purpur_bricks_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
@@ -18467,6 +18875,12 @@
   "create:recipes/decorations/brass_scaffolding_from_brass_ingots_stonecutting": {
     "criteria": {
       "has_brass_ingots": "2024-12-26 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphuric_rock_bricks_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sulphuric_rock": "2024-12-27 00:46:03 +0000"
     },
     "done": true
   },
@@ -18545,6 +18959,12 @@
   "travelersbackpack:recipes/building_blocks/dye_purple_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphuric_rock_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sulphuric_rock": "2024-12-27 00:46:03 +0000"
     },
     "done": true
   },
@@ -18662,6 +19082,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_paver_wall_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/umbralith_wall": {
     "criteria": {
       "has_umbralith": "2024-12-27 00:26:41 +0000"
@@ -18683,6 +19109,12 @@
   "betternether:recipes/decorations/stalagnate_bowl": {
     "criteria": {
       "has_stalagnate_stem": "2024-12-26 19:29:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_purpur_bricks_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },
@@ -18776,6 +19208,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/bolux_mushroom_smelting": {
+    "criteria": {
+      "has_block.betterend.bolux_mushroom": "2024-12-27 00:51:26 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2024-12-26 23:15:50 +0000"
@@ -18794,6 +19232,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/purpur_bricks_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "cursed_eye": "2024-12-26 19:19:53 +0000"
@@ -18803,6 +19247,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/neon_cactus_block": {
+    "criteria": {
+      "has_neon_cactus": "2024-12-27 00:49:07 +0000"
     },
     "done": true
   },
@@ -18848,6 +19298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/soul_soil": {
     "criteria": {
       "has_soul_soil": "2024-12-26 21:02:55 +0000"
@@ -18887,6 +19343,12 @@
   "transmog:recipes/misc/transmogrification_table": {
     "criteria": {
       "has_item": "2024-12-26 23:15:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_purpur_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-27 00:47:57 +0000"
     },
     "done": true
   },

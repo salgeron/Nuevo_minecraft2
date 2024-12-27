@@ -15019,6 +15019,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sandy_jadestone_bricks_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sandy_jadestone": "2024-12-27 00:52:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-26 20:53:05 +0000"
@@ -15169,6 +15175,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sandy_jadestone_polished_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sandy_jadestone": "2024-12-27 00:52:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-26 23:25:52 +0000"
@@ -15190,6 +15202,12 @@
   "techreborn:recipes/crafting_table/machine/implosion_compressor": {
     "criteria": {
       "has_advanced_machine_frame": "2024-12-26 19:20:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_button": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:45:45 +0000"
     },
     "done": true
   },
@@ -15268,6 +15286,12 @@
   "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/virid_jadestone_slab": {
+    "criteria": {
+      "has_virid_jadestone": "2024-12-27 00:52:03 +0000"
     },
     "done": true
   },
@@ -15358,6 +15382,12 @@
   "twigs:recipes/lamps/warped_shroomlamp": {
     "criteria": {
       "has_item": "2024-12-26 19:24:35 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/pythadendron_plate": {
+    "criteria": {
+      "has_pythadendron_planks": "2024-12-27 00:42:58 +0000"
     },
     "done": true
   },
@@ -15595,6 +15625,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sandy_jadestone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sandy_jadestone": "2024-12-27 00:52:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
@@ -15622,6 +15658,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-26 20:12:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_bricks": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:45:45 +0000"
     },
     "done": true
   },
@@ -15685,6 +15727,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sandy_jadestone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sandy_jadestone": "2024-12-27 00:52:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/flavolite_pillar_stonecutting": {
     "criteria": {
       "has_block.betterend.flavolite": "2024-12-26 23:45:50 +0000"
@@ -15742,6 +15790,12 @@
   "betterend:recipes/misc/ender_shard_to_dust": {
     "criteria": {
       "has_item.betterend.ender_shard": "2024-12-26 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/virid_jadestone_tiles_stonecutting": {
+    "criteria": {
+      "has_block.betterend.virid_jadestone": "2024-12-27 00:52:03 +0000"
     },
     "done": true
   },
@@ -15805,6 +15859,12 @@
     },
     "done": true
   },
+  "betterend:recipes/redstone/pythadendron_trapdoor": {
+    "criteria": {
+      "has_pythadendron_planks": "2024-12-27 00:42:58 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/flavolite_bricks": {
     "criteria": {
       "has_flavolite": "2024-12-26 23:45:50 +0000"
@@ -15862,6 +15922,12 @@
   "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-26 18:46:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sandy_jadestone_furnace": {
+    "criteria": {
+      "has_sandy_jadestone": "2024-12-27 00:52:05 +0000"
     },
     "done": true
   },
@@ -15945,8 +16011,14 @@
   },
   "betterend:all_the_biomes": {
     "criteria": {
+      "betterend:dry_shrubland": "2024-12-27 00:44:09 +0000",
       "betterend:amber_land": "2024-12-27 00:08:02 +0000",
+      "betterend:neon_oasis": "2024-12-27 00:48:30 +0000",
+      "betterend:dust_wastelands": "2024-12-27 00:49:30 +0000",
       "betterend:ice_starfield": "2024-12-27 00:27:30 +0000",
+      "betterend:lush_aurora_cave": "2024-12-27 00:51:55 +0000",
+      "betterend:umbra_valley": "2024-12-27 00:45:38 +0000",
+      "betterend:lush_smaragdant_cave": "2024-12-27 00:51:29 +0000",
       "betterend:megalake": "2024-12-27 00:07:46 +0000"
     },
     "done": false
@@ -16020,6 +16092,12 @@
   "mcda:recipes/unique_armors/gilded_glory_boots": {
     "criteria": {
       "has_upgrade_item": "2024-12-26 20:12:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/virid_jadestone_brick_stair_stonecutting": {
+    "criteria": {
+      "has_block.betterend.virid_jadestone": "2024-12-27 00:52:03 +0000"
     },
     "done": true
   },
@@ -16215,6 +16293,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sandy_jadestone_stairs": {
+    "criteria": {
+      "has_sandy_jadestone": "2024-12-27 00:52:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-26 23:33:45 +0000"
@@ -16260,6 +16344,12 @@
   "betternether:recipes/building_blocks/basalt_brick_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2024-12-26 18:43:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/virid_jadestone_pressure_plate": {
+    "criteria": {
+      "has_virid_jadestone": "2024-12-27 00:52:03 +0000"
     },
     "done": true
   },
@@ -16491,6 +16581,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/pythadendron_crafting_table": {
+    "criteria": {
+      "has_pythadendron_planks": "2024-12-27 00:42:58 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2024-12-26 18:47:22 +0000"
@@ -16569,6 +16665,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/virid_jadestone_furnace": {
+    "criteria": {
+      "has_virid_jadestone": "2024-12-27 00:52:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
     "criteria": {
       "has_block.minecraft.smooth_basalt": "2024-12-26 18:43:52 +0000"
@@ -16584,6 +16686,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_shingles_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:02:10 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/virid_jadestone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betterend.virid_jadestone": "2024-12-27 00:52:03 +0000"
     },
     "done": true
   },
@@ -16629,6 +16737,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sandy_jadestone_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sandy_jadestone": "2024-12-27 00:52:05 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_trap": {
     "criteria": {
       "has_flint": "2024-12-26 18:47:19 +0000"
@@ -16665,9 +16779,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/virid_jadestone_pillar_stonecutting": {
+    "criteria": {
+      "has_block.betterend.virid_jadestone": "2024-12-27 00:52:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:45:45 +0000"
     },
     "done": true
   },
@@ -16686,6 +16812,12 @@
   "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-26 18:46:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_stairs": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:45:45 +0000"
     },
     "done": true
   },
@@ -16767,6 +16899,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/pythadendron_wall": {
+    "criteria": {
+      "has_pythadendron_planks": "2024-12-27 00:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:02:10 +0000"
@@ -16821,9 +16959,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sandy_jadestone_brick_stair_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sandy_jadestone": "2024-12-27 00:52:05 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/phantom_armor_chestplate": {
     "criteria": {
       "has_phantom_bones": "2024-12-26 19:12:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_brick_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:45:45 +0000"
     },
     "done": true
   },
@@ -17007,6 +17157,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sandy_jadestone_button": {
+    "criteria": {
+      "has_sandy_jadestone": "2024-12-27 00:52:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-26 18:46:12 +0000"
@@ -17022,6 +17178,12 @@
   "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-26 18:46:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:45:45 +0000"
     },
     "done": true
   },
@@ -17145,9 +17307,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sandy_jadestone_slab": {
+    "criteria": {
+      "has_sandy_jadestone": "2024-12-27 00:52:05 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_shovel": {
     "criteria": {
       "has_item": "2024-12-26 18:39:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sandy_jadestone_brick_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sandy_jadestone": "2024-12-27 00:52:05 +0000"
     },
     "done": true
   },
@@ -17415,6 +17589,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sandy_jadestone_bricks": {
+    "criteria": {
+      "has_sandy_jadestone": "2024-12-27 00:52:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/virid_jadestone_brick_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.virid_jadestone": "2024-12-27 00:52:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-26 18:43:25 +0000"
@@ -17490,6 +17676,12 @@
   "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-26 18:46:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_furnace": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:45:45 +0000"
     },
     "done": true
   },
@@ -17583,6 +17775,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_pressure_plate": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:45:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/peridot_boots": {
     "criteria": {
       "has_peridot_gem": "2024-12-27 00:26:34 +0000"
@@ -17643,6 +17841,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/pythadendron_barrel": {
+    "criteria": {
+      "has_pythadendron_planks": "2024-12-27 00:42:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-26 22:10:16 +0000"
@@ -17688,6 +17892,12 @@
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2024-12-27 00:36:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_brick_stair_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:45:45 +0000"
     },
     "done": true
   },
@@ -17784,6 +17994,12 @@
   "stoneworks:recipes/building_blocks/polished_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_slab": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:45:45 +0000"
     },
     "done": true
   },
@@ -18052,6 +18268,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/virid_jadestone_bricks": {
+    "criteria": {
+      "has_virid_jadestone": "2024-12-27 00:52:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
@@ -18143,6 +18365,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/virid_jadestone_button": {
+    "criteria": {
+      "has_virid_jadestone": "2024-12-27 00:52:03 +0000"
+    },
+    "done": true
+  },
   "indrev:compressor": {
     "criteria": {
       "checkInv": "2024-12-26 20:10:48 +0000"
@@ -18185,6 +18413,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/virid_jadestone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.virid_jadestone": "2024-12-27 00:52:03 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2024-12-26 20:05:31 +0000"
@@ -18218,6 +18452,24 @@
   "soulsweapons:recipes/decorations/altar_block": {
     "criteria": {
       "has_item": "2024-12-26 18:39:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/virid_jadestone_polished_stonecutting": {
+    "criteria": {
+      "has_block.betterend.virid_jadestone": "2024-12-27 00:52:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:45:45 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:45:45 +0000"
     },
     "done": true
   },
@@ -18323,6 +18575,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_polished_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:45:45 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/vanilla_piles/blue_orchid": {
     "criteria": {
       "has_flower": "2024-12-26 22:37:26 +0000"
@@ -18413,9 +18671,21 @@
     },
     "done": true
   },
+  "betterend:recipes/redstone/pythadendron_button": {
+    "criteria": {
+      "has_pythadendron_planks": "2024-12-27 00:42:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-26 20:53:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/virid_jadestone_wall": {
+    "criteria": {
+      "has_virid_jadestone": "2024-12-27 00:52:03 +0000"
     },
     "done": true
   },
@@ -18473,9 +18743,21 @@
     },
     "done": true
   },
+  "betterend:recipes/building_blocks/pythadendron_stairs": {
+    "criteria": {
+      "has_pythadendron_planks": "2024-12-27 00:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-12-26 19:20:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/pythadendron_door": {
+    "criteria": {
+      "has_pythadendron_planks": "2024-12-27 00:42:58 +0000"
     },
     "done": true
   },
@@ -18587,6 +18869,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sandy_jadestone_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sandy_jadestone": "2024-12-27 00:52:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2024-12-26 20:12:56 +0000"
@@ -18689,6 +18977,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/betterend/sign_post_pythadendron": {
+    "criteria": {
+      "has_planks": "2024-12-27 00:42:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_pavers_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
@@ -18716,6 +19010,12 @@
   "stoneworks:recipes/building_blocks/calcite_plate_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/pythadendron_slab": {
+    "criteria": {
+      "has_pythadendron_planks": "2024-12-27 00:42:58 +0000"
     },
     "done": true
   },
@@ -18779,6 +19079,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_tiles_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:45:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/purpur_shingle_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-12-27 00:31:18 +0000"
@@ -18827,6 +19133,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/virid_jadestone_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.virid_jadestone": "2024-12-27 00:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-12-26 19:23:15 +0000"
@@ -18842,6 +19154,12 @@
   "betterend:recipes/misc/sweet_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2024-12-26 20:12:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_pillar_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:45:45 +0000"
     },
     "done": true
   },
@@ -18968,6 +19286,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-26 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sandy_jadestone_wall": {
+    "criteria": {
+      "has_sandy_jadestone": "2024-12-27 00:52:05 +0000"
     },
     "done": true
   },
@@ -19142,6 +19466,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-26 20:12:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sandy_jadestone_pressure_plate": {
+    "criteria": {
+      "has_sandy_jadestone": "2024-12-27 00:52:05 +0000"
     },
     "done": true
   },
@@ -19397,6 +19727,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/virid_jadestone_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.virid_jadestone": "2024-12-27 00:52:03 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2024-12-26 20:12:20 +0000"
@@ -19514,6 +19850,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-26 21:56:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/virid_jadestone_stairs": {
+    "criteria": {
+      "has_virid_jadestone": "2024-12-27 00:52:03 +0000"
     },
     "done": true
   },
@@ -19835,6 +20177,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sandy_jadestone_tiles_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sandy_jadestone": "2024-12-27 00:52:05 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/juniper_poppet_shelf": {
     "criteria": {
       "has_item": "2024-12-26 21:02:59 +0000"
@@ -19964,6 +20312,18 @@
   "botania:recipes/building_blocks/blaze_block": {
     "criteria": {
       "has_item": "2024-12-26 20:04:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_bricks_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:45:45 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sandy_jadestone_pillar_stonecutting": {
+    "criteria": {
+      "has_block.betterend.sandy_jadestone": "2024-12-27 00:52:05 +0000"
     },
     "done": true
   },
@@ -20117,6 +20477,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_wall": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:45:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_shingle_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-26 21:56:55 +0000"
@@ -20189,6 +20555,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/pythadendron_chest": {
+    "criteria": {
+      "has_pythadendron_planks": "2024-12-27 00:42:58 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_calcite_corner_trim": "2024-12-26 18:43:25 +0000"
@@ -20249,6 +20621,12 @@
     },
     "done": false
   },
+  "betterend:recipes/misc/virid_jadestone_bricks_stonecutting": {
+    "criteria": {
+      "has_block.betterend.virid_jadestone": "2024-12-27 00:52:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-26 18:46:12 +0000"
@@ -20276,6 +20654,12 @@
   "betterend:recipes/misc/thallasium_anvil": {
     "criteria": {
       "has_thallasium_ingot": "2024-12-26 23:34:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/neon_cactus_block": {
+    "criteria": {
+      "has_neon_cactus": "2024-12-27 00:48:43 +0000"
     },
     "done": true
   },

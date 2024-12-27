@@ -594,3 +594,28 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [00:44:37] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to salgeron]
 [00:44:37] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
 [00:45:36] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 61.500000, 58.500000, -1689.500000]
+[00:46:32] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 47.500000, 58.500000, -1850.500000]
+[00:47:23] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 138.500000, 60.500000, -1930.500000]
+[00:48:37] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 165.500000, 61.500000, -1934.500000]
+[00:48:51] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 172.500000, 168.500000, -2093.500000]
+[00:48:54] [Server thread/INFO]: Irinasan24 fell from a high place
+[00:48:55] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[00:49:04] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to salgeron]
+[00:49:04] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[00:49:44] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 103.500000, 115.500000, -2154.500000]
+[00:49:46] [Server thread/INFO]: Irinasan24 fell from a high place
+[00:49:48] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[00:49:55] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to salgeron]
+[00:49:55] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[00:50:06] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 157.500000, 55.500000, -2211.500000]
+[00:51:51] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 159.500000, 58.500000, -2405.500000]
+[00:52:04] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 103.500000, 61.500000, -2546.500000]
+[00:52:09] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 206.500000, 67.500000, -2639.500000]
+[00:52:18] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 209.500000, 93.500000, -2671.500000]
+[00:52:31] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[00:54:38] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 218.500000, 65.500000, -2697.500000]
+[00:55:29] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 213.500000, 90.500000, -2687.500000]
+[00:55:40] [Server thread/INFO]: Irinasan24 was doomed to fall by Enderman
+[00:55:41] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[00:55:49] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to salgeron]
+[00:55:49] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
