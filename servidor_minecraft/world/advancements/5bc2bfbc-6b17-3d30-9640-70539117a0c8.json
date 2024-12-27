@@ -14487,6 +14487,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_dark_oak_sign": "2024-12-27 00:13:25 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:31 +0000"
@@ -15205,6 +15211,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/cyan_coffin": {
+    "criteria": {
+      "has_item": "2024-12-27 00:13:26 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/master_sword": {
     "criteria": {
       "has_lord_soul": "2024-12-26 22:51:41 +0000"
@@ -15430,6 +15442,12 @@
   "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
     "criteria": {
       "has_pine_shrub": "2024-12-26 22:53:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "minecraft:shulker_boxes": "2024-12-27 00:16:02 +0000"
     },
     "done": true
   },
@@ -16345,6 +16363,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 00:13:25 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
     "criteria": {
       "has_nether_brick": "2024-12-26 19:06:03 +0000"
@@ -17090,6 +17114,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bed": {
+    "criteria": {
+      "has_bed": "2024-12-27 00:13:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/tin_cable": {
     "criteria": {
       "has_tin_ingot": "2024-12-26 22:56:49 +0000"
@@ -17117,6 +17147,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2024-12-26 23:09:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2024-12-27 00:13:25 +0000"
     },
     "done": true
   },
@@ -17808,6 +17844,12 @@
   "techreborn:recipes/crafting_table/parts/data_storage_core": {
     "criteria": {
       "has_electronic_circuit": "2024-12-26 22:56:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2024-12-27 00:13:25 +0000"
     },
     "done": true
   },
