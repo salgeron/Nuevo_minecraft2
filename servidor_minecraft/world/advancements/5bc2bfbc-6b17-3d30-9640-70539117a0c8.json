@@ -2454,8 +2454,10 @@
       "minecraft:hoglin": "2024-12-26 19:57:26 +0000",
       "minecraft:magma_cube": "2024-12-26 19:22:10 +0000",
       "minecraft:piglin_brute": "2024-12-26 19:04:29 +0000",
+      "minecraft:spider": "2024-12-27 00:26:01 +0000",
       "minecraft:zombified_piglin": "2024-12-26 22:32:39 +0000",
       "minecraft:wither_skeleton": "2024-12-26 20:02:40 +0000",
+      "minecraft:shulker": "2024-12-27 00:31:08 +0000",
       "minecraft:piglin": "2024-12-26 20:48:48 +0000",
       "minecraft:enderman": "2024-12-21 18:00:52 +0000",
       "minecraft:zombie": "2024-12-14 22:18:28 +0000"
@@ -14114,6 +14116,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_button": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:26:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/invar_dust": {
     "criteria": {
       "has_tag_c_invar_ingots": "2024-12-26 19:19:45 +0000"
@@ -14385,6 +14393,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_bricks": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:26:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-12-26 19:06:43 +0000"
@@ -14418,6 +14432,12 @@
   "techreborn:recipes/industrial_grinder/sheldonite_ore_with_water": {
     "criteria": {
       "has_sheldonite_ore": "2024-12-26 23:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-27 00:31:08 +0000"
     },
     "done": true
   },
@@ -14520,6 +14540,12 @@
   "betterend:recipes/misc/flavolite_bricks": {
     "criteria": {
       "has_flavolite": "2024-12-26 23:46:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/purpur_lantern": {
+    "criteria": {
+      "has_purpur_slab": "2024-12-27 00:30:40 +0000"
     },
     "done": true
   },
@@ -14670,7 +14696,9 @@
   "betterend:all_the_biomes": {
     "criteria": {
       "betterend:amber_land": "2024-12-27 00:09:03 +0000",
+      "betterend:sulphur_springs": "2024-12-27 00:27:26 +0000",
       "betterend:ice_starfield": "2024-12-27 00:08:28 +0000",
+      "betterend:umbra_valley": "2024-12-27 00:26:26 +0000",
       "betterend:lush_smaragdant_cave": "2024-12-26 23:43:38 +0000",
       "betterend:megalake": "2024-12-27 00:07:59 +0000"
     },
@@ -14733,6 +14761,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-27 00:26:15 +0000"
     },
     "done": true
   },
@@ -15265,6 +15299,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:26:41 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/galeforce": {
     "criteria": {
       "has_item": "2024-12-26 22:51:41 +0000"
@@ -15307,6 +15347,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_stairs": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:26:41 +0000"
+    },
+    "done": true
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2024-12-26 20:05:52 +0000"
@@ -15340,6 +15386,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
     "criteria": {
       "has_lead_ingot": "2024-12-26 22:55:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/shulker_armor_helmet": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-27 00:31:08 +0000"
     },
     "done": true
   },
@@ -15412,6 +15464,12 @@
   "ae2:recipes/misc/network/cables/dense_smart_purple": {
     "criteria": {
       "has_dyes/black": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_brick_slab_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:26:41 +0000"
     },
     "done": true
   },
@@ -15637,6 +15695,12 @@
     },
     "done": false
   },
+  "betterend:recipes/misc/umbralith_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:26:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/end_stone_paver_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-26 23:34:13 +0000"
@@ -15778,6 +15842,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2024-12-26 20:03:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/purple_dye_from_shulker_shell": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-27 00:31:08 +0000"
     },
     "done": true
   },
@@ -15961,6 +16031,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_furnace": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:26:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2024-12-26 18:42:55 +0000"
@@ -16045,6 +16121,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_pressure_plate": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:26:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/magma_cream": {
     "criteria": {
       "has_magma_cream": "2024-12-26 19:22:09 +0000"
@@ -16126,6 +16208,12 @@
   "supplementaries:recipes/stonecutting/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_brick_stair_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:26:41 +0000"
     },
     "done": true
   },
@@ -16216,6 +16304,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_purple_dye": "2024-12-26 21:09:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_slab": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:26:41 +0000"
     },
     "done": true
   },
@@ -16603,6 +16697,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:26:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:26:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
     "criteria": {
       "has_steel_ingot": "2024-12-26 19:29:18 +0000"
@@ -16693,6 +16799,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/purpur_pedestal": {
+    "criteria": {
+      "has_purpur_slab": "2024-12-27 00:30:40 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sugar_from_root": {
     "criteria": {
       "has_amber_root_raw": "2024-12-27 00:09:30 +0000"
@@ -16714,6 +16826,12 @@
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2024-12-26 20:20:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_polished_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:26:41 +0000"
     },
     "done": true
   },
@@ -16982,6 +17100,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/umbralith_tiles_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:26:41 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
       "has_item": "2024-12-26 19:06:03 +0000"
@@ -16991,6 +17115,12 @@
   "spellbladenext:spellblades/gladius": {
     "criteria": {
       "arcane": "2024-12-26 23:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-27 00:26:15 +0000"
     },
     "done": true
   },
@@ -17009,6 +17139,12 @@
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_nether_brick": "2024-12-26 19:06:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_pillar_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:26:41 +0000"
     },
     "done": true
   },
@@ -17714,6 +17850,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/shulker_armor_boots": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-27 00:31:08 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_wooden_button": {
     "criteria": {
       "has_item": "2024-12-26 19:19:44 +0000"
@@ -17781,6 +17923,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-27 00:26:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-26 20:29:54 +0000"
@@ -17844,6 +17992,12 @@
   "techreborn:recipes/crafting_table/parts/data_storage_core": {
     "criteria": {
       "has_electronic_circuit": "2024-12-26 22:56:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_bricks_stonecutting": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2024-12-27 00:26:41 +0000"
     },
     "done": true
   },
@@ -17943,6 +18097,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/shulker_armor_leggings": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-27 00:31:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/zinc_storage_block": {
     "criteria": {
       "has_zinc_ingot": "2024-12-26 19:19:44 +0000"
@@ -18000,6 +18160,12 @@
   "botania:recipes/misc/petal_light_gray_double": {
     "criteria": {
       "has_item": "2024-12-26 22:52:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_wall": {
+    "criteria": {
+      "has_umbralith": "2024-12-27 00:26:41 +0000"
     },
     "done": true
   },
