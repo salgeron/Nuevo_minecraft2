@@ -17327,6 +17327,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-26 23:56:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-26 20:03:41 +0000"

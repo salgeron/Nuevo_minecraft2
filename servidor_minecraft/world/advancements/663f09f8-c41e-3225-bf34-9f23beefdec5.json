@@ -5412,7 +5412,10 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "shadow_assassin_scythe": "2024-12-26 23:55:55 +0000",
       "darkin_blade": "2024-12-19 19:41:59 +0000",
+      "mjolnir": "2024-12-26 23:56:14 +0000",
+      "darkin_scythe": "2024-12-26 23:56:04 +0000",
       "dragon_staff": "2024-12-15 16:10:39 +0000"
     },
     "done": false
@@ -18148,6 +18151,12 @@
   "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-26 22:04:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:transform_scythe": {
+    "criteria": {
+      "weapon": "2024-12-26 23:55:55 +0000"
     },
     "done": true
   },
