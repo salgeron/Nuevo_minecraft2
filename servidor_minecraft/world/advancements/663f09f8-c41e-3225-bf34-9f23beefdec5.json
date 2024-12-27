@@ -2196,6 +2196,7 @@
       "minecraft:zombified_piglin": "2024-12-26 19:03:12 +0000",
       "minecraft:witch": "2024-12-14 23:27:06 +0000",
       "minecraft:wither_skeleton": "2024-12-26 20:04:03 +0000",
+      "minecraft:ender_dragon": "2024-12-27 00:06:08 +0000",
       "minecraft:piglin": "2024-12-19 19:02:01 +0000",
       "minecraft:enderman": "2024-12-19 19:00:59 +0000",
       "minecraft:silverfish": "2024-12-26 23:24:05 +0000",
@@ -15376,6 +15377,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-27 00:07:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/computer_cube": {
     "criteria": {
       "has_data_storage_chip": "2024-12-26 20:08:22 +0000"
@@ -15771,6 +15778,13 @@
       "has_nether_bricks": "2024-12-26 20:02:10 +0000"
     },
     "done": true
+  },
+  "betterend:all_the_biomes": {
+    "criteria": {
+      "betterend:amber_land": "2024-12-27 00:08:02 +0000",
+      "betterend:megalake": "2024-12-27 00:07:46 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
@@ -18508,6 +18522,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-12-27 00:06:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_tile_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-26 18:43:25 +0000"
@@ -19132,6 +19152,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-12-27 00:06:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/unit/storage/quantum_storage_unit": {
     "criteria": {
       "has_data_storage_chip": "2024-12-26 20:08:22 +0000"
@@ -19189,6 +19215,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
     "criteria": {
       "has_plank": "2024-12-26 20:12:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/dragon": {
+    "criteria": {
+      "has_dragon_egg": "2024-12-27 00:06:37 +0000"
     },
     "done": true
   },

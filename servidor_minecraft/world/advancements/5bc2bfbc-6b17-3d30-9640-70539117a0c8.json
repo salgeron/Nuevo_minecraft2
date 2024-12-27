@@ -14663,7 +14663,10 @@
   },
   "betterend:all_the_biomes": {
     "criteria": {
-      "betterend:lush_smaragdant_cave": "2024-12-26 23:43:38 +0000"
+      "betterend:amber_land": "2024-12-27 00:09:03 +0000",
+      "betterend:ice_starfield": "2024-12-27 00:08:28 +0000",
+      "betterend:lush_smaragdant_cave": "2024-12-26 23:43:38 +0000",
+      "betterend:megalake": "2024-12-27 00:07:59 +0000"
     },
     "done": false
   },
@@ -15304,6 +15307,12 @@
     },
     "done": true
   },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2024-12-27 00:07:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/crimson_cabinet": {
     "criteria": {
       "has_crimson_trapdoor": "2024-12-26 20:03:34 +0000"
@@ -15907,6 +15916,12 @@
   "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit_from_industrial": {
     "criteria": {
       "has_data_storage_chip": "2024-12-26 19:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-27 00:10:04 +0000"
     },
     "done": true
   },
@@ -16576,6 +16591,12 @@
     },
     "done": true
   },
+  "prominent:frostmourne": {
+    "criteria": {
+      "requirement": "2024-12-27 00:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-26 23:34:13 +0000"
@@ -16645,6 +16666,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 18:51:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sugar_from_root": {
+    "criteria": {
+      "has_amber_root_raw": "2024-12-27 00:09:30 +0000"
     },
     "done": true
   },
